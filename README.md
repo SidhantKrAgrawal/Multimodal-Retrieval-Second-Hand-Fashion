@@ -15,6 +15,14 @@ DATASET=2 python -m experiments.heldout_eval
 
 It needs the four embedding folders under `Dataset N/embeddings/` (see *Adding a New Dataset* below for the layout) and the labels under `Dataset N/labels/`.
 
+## Data
+
+**DS1 (RISE, 6,106 items).** Images come from the public *Clothing Dataset for Second-Hand Fashion* (Zenodo, doi:10.5281/zenodo.13788681). Per-item labels are in `Dataset 1/labels/`. Download the images from Zenodo and place them in `Dataset 1/images/`.
+
+**DS2 (Shpock, 4,683 items).** Public second-hand marketplace listings. Attributes extracted with Llama 3.2 are in `Dataset 2/labels/` (`<id>.json`, matching image `<id>.jpg`); postcodes in seller-written text have been replaced with `[POSTCODE]`. Images (about 0.8 GB) are too large for git: download them from https://osf.io/n6s5f/overview?view_only=33018948c2784a718263b2c18209b9ca and unzip to `Dataset 2/images/`.
+
+Embeddings and trained checkpoints are not stored in git. Generate the embeddings with the scripts in `Dataset N/generate_embeddings/`; `experiments/heldout_eval.py` trains the models used in the paper, and `run_pipeline.sh` trains the full-catalogue models.
+
 ## Setup
 
 ```bash
