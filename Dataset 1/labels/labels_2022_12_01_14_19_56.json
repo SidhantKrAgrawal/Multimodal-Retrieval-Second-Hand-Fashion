@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "S ",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "95%cotton 5%lycra",
+    "comment": "",
+    "usage": "Reuse"
+}

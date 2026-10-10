@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Hoodie",
+    "size": "S ",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

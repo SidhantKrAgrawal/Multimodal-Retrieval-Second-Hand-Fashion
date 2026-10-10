@@ -1,0 +1,27 @@
+{
+    "brand": "Carhartt",
+    "brandtext": "Carhartt",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Repaired",
+    "material": "100%cotton",
+    "comment": "Repaired",
+    "usage": "Reuse"
+}

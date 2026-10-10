@@ -1,0 +1,25 @@
+{
+    "brand": "Topshop",
+    "brandtext": "TopShop",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "10",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Detailed waist design, with pockets",
+    "usage": "Reuse"
+}

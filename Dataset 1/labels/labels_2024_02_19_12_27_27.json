@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Purple"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kl\u00e4nning med blommigttryck och svarta knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "liten smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "lite smutsigt i krage",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

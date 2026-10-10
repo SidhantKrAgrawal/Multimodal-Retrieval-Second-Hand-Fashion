@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "could not scan, no tag",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "loose threads, ripped seams",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

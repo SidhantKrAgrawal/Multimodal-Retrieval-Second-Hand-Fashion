@@ -1,0 +1,27 @@
+{
+    "brand": "Celio",
+    "brandtext": "Men's V-neck Brown Woollen Jumper",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% pure wool",
+    "comment": "Very warm and of top quality",
+    "usage": "Reuse"
+}

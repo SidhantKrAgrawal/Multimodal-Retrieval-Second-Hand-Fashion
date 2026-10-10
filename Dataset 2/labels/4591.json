@@ -1,0 +1,25 @@
+{
+    "brand": "Banana Republic",
+    "brandtext": "Banana republic",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "S",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slightly used, can post for 5 or collect",
+    "usage": "Reuse"
+}

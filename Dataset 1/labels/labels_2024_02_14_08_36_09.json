@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "58% cotton 42% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00e5 byxor, noppriga",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle right",
+    "damage3": ""
+}

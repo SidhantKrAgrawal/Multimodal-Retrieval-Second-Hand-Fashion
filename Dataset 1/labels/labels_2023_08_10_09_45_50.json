@@ -1,0 +1,41 @@
+{
+    "brand": "Flash",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "50% viscose 50% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart kl\u00e4nning, mycket nopprig i armh\u00e5lor, luddig \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

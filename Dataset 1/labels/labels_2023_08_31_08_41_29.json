@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "washed out",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "holes",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "Medium",
+    "colors": [
+        "Grey",
+        "Silver",
+        "White",
+        "Gold"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Pick up only",
+    "usage": "Reuse"
+}

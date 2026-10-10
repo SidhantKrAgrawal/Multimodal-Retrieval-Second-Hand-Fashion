@@ -1,0 +1,27 @@
+{
+    "brand": "Helly Hansen",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Rain jacket",
+    "size": "XL",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

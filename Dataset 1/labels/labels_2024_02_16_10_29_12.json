@@ -1,0 +1,41 @@
+{
+    "brand": "Soya/Soyaconcept",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Acryl",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "pink knitted sweater with v-neck",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "pulled threads",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": "stained"
+}

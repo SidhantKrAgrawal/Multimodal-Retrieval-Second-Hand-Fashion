@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "lidl",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "66% bomull 33% polyester 1% elastan",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "m\u00f6rkbl\u00e5a jeans med silvriga knappar",
+    "comment": "storlek saknas",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "lagning",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "sne s\u00f6m",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

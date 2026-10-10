@@ -1,0 +1,28 @@
+{
+    "brand": "Adidas",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Shorts",
+    "size": "None",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "Logo print",
+    "trend": "Sports",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "90%polyester 10%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

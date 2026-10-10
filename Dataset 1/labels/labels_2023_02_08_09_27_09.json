@@ -1,0 +1,39 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "S ",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Green",
+        "Black",
+        "Brown",
+        "Beige",
+        "Blue",
+        "Grey",
+        "Orange",
+        "Pink",
+        "Red",
+        "Yellow"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

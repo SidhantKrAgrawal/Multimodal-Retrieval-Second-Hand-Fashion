@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "North 82",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "condition": 3,
+    "material": "Unknown",
+    "usage": "Energy recovery",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "grey winter jacket",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Winter jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "Major",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

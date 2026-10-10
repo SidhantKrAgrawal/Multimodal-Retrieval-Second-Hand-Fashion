@@ -1,0 +1,41 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "korta tights ",
+    "comment": "urtv\u00e4ttade",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "urtv\u00e4ttat",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "urtv\u00e4ttat ",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "urtv\u00e4ttat"
+}

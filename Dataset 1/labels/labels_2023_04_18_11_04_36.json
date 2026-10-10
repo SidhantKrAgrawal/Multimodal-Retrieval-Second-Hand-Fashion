@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Pont Neuf",
+    "category": "Ladies",
+    "type": "Tunic",
+    "size": "M ",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% viscose",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Knitted tunic with buttons",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Tunic",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": "stains"
+}

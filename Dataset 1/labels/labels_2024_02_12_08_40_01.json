@@ -1,0 +1,41 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "unknown",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "grey jeans",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

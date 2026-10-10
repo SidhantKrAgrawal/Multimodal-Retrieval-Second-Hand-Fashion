@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Tommy Hilfiger",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "32",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "Striped skirt",
+    "comment": "",
+    "annotator": "14",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Tight",
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

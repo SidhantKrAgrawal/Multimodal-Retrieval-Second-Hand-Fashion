@@ -1,0 +1,25 @@
+{
+    "brand": "Paul Smith",
+    "brandtext": "Paul Smith",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "XL",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Chocolate brown colour does not show accurately in images.",
+    "usage": "Reuse"
+}

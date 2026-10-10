@@ -1,0 +1,41 @@
+{
+    "brand": "J-Crew",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "31",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

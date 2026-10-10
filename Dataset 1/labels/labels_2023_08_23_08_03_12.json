@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Cotonel",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% Viscose",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Washed out",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Long",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Flash",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "M ",
+    "colors": [
+        "Green",
+        "Beige"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "78% cotton, 20% polyester, 2% elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

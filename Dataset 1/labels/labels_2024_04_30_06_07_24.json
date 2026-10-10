@@ -1,0 +1,42 @@
+{
+    "brand": "Massimo Dutti",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "74% Viscose 26% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Ribbed knitted top with tie detail",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "V-collar",
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

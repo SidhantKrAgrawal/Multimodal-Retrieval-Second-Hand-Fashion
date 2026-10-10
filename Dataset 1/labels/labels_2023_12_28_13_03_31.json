@@ -1,0 +1,41 @@
+{
+    "brand": "Gap",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "Sweater/outwear",
+    "annotator": "24",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "Stains",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "Stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

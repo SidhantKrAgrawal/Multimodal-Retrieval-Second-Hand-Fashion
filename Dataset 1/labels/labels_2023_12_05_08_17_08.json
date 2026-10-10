@@ -1,0 +1,42 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bruna kn\u00e4byxor med cirklar och andra former p\u00e5, mycket nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

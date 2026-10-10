@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "S.E.A.L",
+    "category": "Ladies",
+    "type": "Shirt",
+    "size": "48",
+    "colors": [
+        "Green"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "55%linen 45%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "50% bomull 50& polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "mjukisbyxor med tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "nopprigt p\u00e5 \u00e4rmsluyrm",
+    "damage2image": "back",
+    "damage2loc": "bottom center",
+    "damage2": "nopprigt p\u00e5 \u00e4ndsluyrn",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

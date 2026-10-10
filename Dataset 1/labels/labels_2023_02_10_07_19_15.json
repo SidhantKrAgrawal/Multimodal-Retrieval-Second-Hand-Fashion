@@ -1,0 +1,27 @@
+{
+    "brand": "Dressman",
+    "brandtext": "Benelton",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "None",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "3",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Embroidered",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Wool",
+    "comment": "Vintage",
+    "usage": "Reuse"
+}

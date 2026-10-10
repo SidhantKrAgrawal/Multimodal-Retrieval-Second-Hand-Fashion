@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "surf style",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rosa t-shirt med vit text p\u00e5, urtv\u00e4ttad",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Hugo Boss",
+    "brandtext": "Slim Fit Mercerised",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "big rub",
+    "usage": "Reuse"
+}

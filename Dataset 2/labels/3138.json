@@ -1,0 +1,25 @@
+{
+    "brand": "Berghaus",
+    "brandtext": "Berghaus",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "12",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Ladies Berghaus Down jacket. Hardly worn",
+    "usage": "Reuse"
+}

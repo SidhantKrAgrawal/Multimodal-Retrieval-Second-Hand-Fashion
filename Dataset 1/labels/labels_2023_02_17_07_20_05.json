@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Brevis",
+    "category": "Children",
+    "type": "Shirt",
+    "size": "92",
+    "colors": [
+        "Blue",
+        "White",
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "really size 90 but that wasnt available.",
+    "usage": "Reuse"
+}

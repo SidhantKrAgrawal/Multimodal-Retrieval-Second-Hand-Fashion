@@ -1,0 +1,43 @@
+{
+    "brand": "Melka (Gammalt Svenskt)?",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "White",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "rutig skjorta, saknas en knapp",
+    "comment": "knapp saknas",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

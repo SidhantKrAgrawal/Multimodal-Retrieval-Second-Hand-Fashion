@@ -1,0 +1,42 @@
+{
+    "brand": "Ichi",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "34",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Regular",
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

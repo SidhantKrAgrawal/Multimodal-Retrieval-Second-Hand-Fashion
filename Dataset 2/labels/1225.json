@@ -1,0 +1,27 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "38",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All season",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

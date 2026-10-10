@@ -1,0 +1,29 @@
+{
+    "brand": "Diesel",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Top",
+    "size": "None",
+    "colors": [
+        "Green",
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "washed out",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

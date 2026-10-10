@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Mizumi",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "M ",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Lace",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "68% cotton, 32% nylon",
+    "comment": "",
+    "usage": "Export"
+}

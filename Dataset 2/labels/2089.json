@@ -1,0 +1,25 @@
+{
+    "brand": "Adidas",
+    "brandtext": "Adidas",
+    "category": "Men",
+    "type": "Printed T-Shirts",
+    "size": "M",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Take off",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "130",
+    "colors": [
+        "Green"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "85% Cotton 15% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "green t-shirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "hole",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

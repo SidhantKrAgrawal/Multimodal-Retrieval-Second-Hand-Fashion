@@ -1,0 +1,42 @@
+{
+    "brand": "Cellbes",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "None",
+    "condition": 1,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "red dress with lace detail",
+    "comment": "damaged bottom",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "cut off",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "cut off",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": "cut off"
+}

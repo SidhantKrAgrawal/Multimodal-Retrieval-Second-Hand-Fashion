@@ -1,0 +1,27 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Suit",
+    "size": "38/40",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Vero Moda",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "V-collar",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

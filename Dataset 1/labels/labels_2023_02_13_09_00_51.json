@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "None",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Tight",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "94%polyester 6%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

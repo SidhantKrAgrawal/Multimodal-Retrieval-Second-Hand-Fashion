@@ -1,0 +1,43 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "170",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Pink",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blommig kl\u00e4nning, urtv\u00e4ttad",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Hugo Boss",
+    "brandtext": "Hugo Boss",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "L",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

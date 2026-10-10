@@ -1,0 +1,27 @@
+{
+    "brand": "Canada Goose",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "E13",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Macmillan",
+    "usage": "Reuse"
+}

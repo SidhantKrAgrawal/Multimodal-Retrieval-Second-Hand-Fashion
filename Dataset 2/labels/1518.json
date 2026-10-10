@@ -1,0 +1,27 @@
+{
+    "brand": "R2 Amsterdam",
+    "brandtext": "R2 Amsterdam",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "M",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Modern Fit"
+    ],
+    "pattern": "Printed",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

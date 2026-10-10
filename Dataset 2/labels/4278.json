@@ -1,0 +1,27 @@
+{
+    "brand": "Lucy & Yak",
+    "brandtext": "Lucy & Yak",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "10/12",
+    "colors": [
+        "Striped"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, free delivery included",
+    "usage": "Reuse"
+}

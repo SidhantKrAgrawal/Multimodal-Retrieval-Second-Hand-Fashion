@@ -1,0 +1,25 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "10",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

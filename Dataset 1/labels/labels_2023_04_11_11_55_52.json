@@ -1,0 +1,29 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "44",
+    "colors": [
+        "Black",
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% viscose",
+    "comment": "",
+    "usage": "Reuse"
+}

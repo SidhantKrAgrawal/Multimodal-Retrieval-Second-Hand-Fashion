@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100& polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "korta tr\u00e4nings tights med reflex tryck",
+    "comment": "dammiga och noppriga",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "Sports",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "nopprigt"
+}

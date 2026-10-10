@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "black tights",
+    "comment": "washed out",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "holes",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

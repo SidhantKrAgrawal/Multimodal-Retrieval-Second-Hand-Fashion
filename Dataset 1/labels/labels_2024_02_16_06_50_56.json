@@ -1,0 +1,43 @@
+{
+    "brand": "Rodebjer",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Yellow",
+        "Green",
+        "Pink"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "69% Cotton 31% Viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tie dye tank top",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "None"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "Cut off",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "cut off",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "cut off"
+}

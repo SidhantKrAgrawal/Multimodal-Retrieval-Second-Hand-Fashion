@@ -1,0 +1,42 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

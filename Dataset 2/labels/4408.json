@@ -1,0 +1,27 @@
+{
+    "brand": "PLT",
+    "brandtext": "PLT",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "16 (UK)",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Patchwork",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Medium to thick knitwear",
+    "comment": "Front with cotton patchwork, Back and side jogger material, Elasticated waist",
+    "usage": "Reuse"
+}

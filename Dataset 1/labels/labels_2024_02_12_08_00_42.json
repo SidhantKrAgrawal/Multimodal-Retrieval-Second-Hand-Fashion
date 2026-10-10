@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Denim day",
+    "brand_missing": false,
+    "size": "164",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "93% Cotton 7% Cont?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue cropped shirts",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": "stained"
+}

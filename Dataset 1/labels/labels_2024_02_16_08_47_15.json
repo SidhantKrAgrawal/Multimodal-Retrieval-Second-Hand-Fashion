@@ -1,0 +1,41 @@
+{
+    "brand": "Holly And Whyte (Lindex)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "White sweatshirt withhalfzip",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

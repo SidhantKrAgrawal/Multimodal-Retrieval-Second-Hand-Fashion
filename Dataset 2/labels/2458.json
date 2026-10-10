@@ -1,0 +1,25 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "36/34 (Waist Leg)",
+    "colors": [
+        "Navy"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

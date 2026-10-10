@@ -1,0 +1,42 @@
+{
+    "brand": "Lindex",
+    "brandtext": "generous",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randiga tr\u00f6ja med trekvarts\u00e4rmar och fl\u00e4ckar fram,, luddig i f\u00e4rgen",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "h\u00e5l",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

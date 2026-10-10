@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Stories",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "54% polyester, 46% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Loose",
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

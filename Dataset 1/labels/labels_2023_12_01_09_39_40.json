@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Streetone",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "67% Nylon 33% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Purple top with lace detail",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

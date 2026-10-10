@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "wow",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "blue sport tights",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

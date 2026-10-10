@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "116",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "Major",
+    "damage": "1",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Hamton Republic (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "M\u00f6rkbl\u00e5a mjukisbyxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "urtv\u00e4ttat"
+}

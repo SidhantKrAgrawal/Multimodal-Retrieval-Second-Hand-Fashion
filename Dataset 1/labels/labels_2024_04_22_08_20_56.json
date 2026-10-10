@@ -1,0 +1,41 @@
+{
+    "brand": "Cubus",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "waist 34 length 32 ",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beiga chinos med beiga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "v\u00e5gig gylf",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "urtv\u00e4ttade/blekta",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

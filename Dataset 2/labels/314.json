@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "birra",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Limited time range, unavailable to buy anywhere",
+    "usage": "Reuse"
+}

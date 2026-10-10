@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "joyce",
+    "brand_missing": false,
+    "size": "152",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "randiga byxor, noppriga",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

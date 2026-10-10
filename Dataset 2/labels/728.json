@@ -1,0 +1,25 @@
+{
+    "brand": "Canada Goose",
+    "brandtext": "Canada goose",
+    "category": "Men",
+    "type": "Parka",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "More pictures available, paid around £1000",
+    "usage": "Reuse"
+}

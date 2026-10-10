@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Tuzzi",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "None",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Geometric print",
+    "trend": "90s",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Reuse"
+}

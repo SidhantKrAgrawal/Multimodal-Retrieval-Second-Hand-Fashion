@@ -1,0 +1,27 @@
+{
+    "brand": "Hering",
+    "brandtext": "Hering",
+    "category": "Women",
+    "type": "Straight Jeans",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "81% cotton",
+    "comment": "CR4 London",
+    "usage": "Reuse"
+}

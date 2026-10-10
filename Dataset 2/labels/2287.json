@@ -1,0 +1,28 @@
+{
+    "brand": "Savile Row",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "36R",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Good condition with minor signs of use",
+    "usage": "Reuse"
+}

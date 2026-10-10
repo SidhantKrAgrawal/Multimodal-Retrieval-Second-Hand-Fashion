@@ -1,0 +1,28 @@
+{
+    "brand": "Bikbok",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "M ",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "95%polyester 5%elastane",
+    "comment": "",
+    "usage": "Export"
+}

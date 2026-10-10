@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "spirit at M & Co",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Brown",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "melerad kort\u00e4rmad tjocktr\u00f6ja",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

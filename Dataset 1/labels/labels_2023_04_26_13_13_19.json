@@ -1,0 +1,27 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "None",
+    "colors": [
+        "Orange"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "no label for size or brand",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Champion",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Yellow"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "87% Cotton 13% Cont?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue hoodie with logo print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "stain and damaged color",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "stained ",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "damaged logo print"
+}

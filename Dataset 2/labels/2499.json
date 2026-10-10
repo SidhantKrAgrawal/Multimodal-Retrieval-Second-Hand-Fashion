@@ -1,0 +1,25 @@
+{
+    "brand": "M&S",
+    "brandtext": "Blue Harbour",
+    "category": "Women",
+    "type": "T-Shirts",
+    "size": "L",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

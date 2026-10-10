@@ -1,0 +1,41 @@
+{
+    "brand": "Dobber",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white t-shirt with collar",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": "stained"
+}

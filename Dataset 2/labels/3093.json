@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Coats",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

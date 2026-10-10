@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Not in the list",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "12 (UK)",
+    "colors": [
+        "Black",
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "new with tags",
+    "usage": "Reuse"
+}

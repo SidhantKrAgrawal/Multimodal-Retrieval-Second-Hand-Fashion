@@ -1,0 +1,25 @@
+{
+    "brand": "Joseph Abboud",
+    "brandtext": "grey",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "30R",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Inside 73 cm, length 100 cm long.",
+    "usage": "Reuse"
+}

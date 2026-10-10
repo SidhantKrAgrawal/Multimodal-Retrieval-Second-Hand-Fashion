@@ -1,0 +1,25 @@
+{
+    "brand": "NN2 Northampton",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Ripped Jeans",
+    "size": "8 (UK)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

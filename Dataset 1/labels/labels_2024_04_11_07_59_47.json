@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blommig utsv\u00e4ngd kjol ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle left",
+    "damage": "smuts fl\u00e4ck ",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

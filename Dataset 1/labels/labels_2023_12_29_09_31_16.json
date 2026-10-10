@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vans",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart l\u00e5ng\u00e4rmad tjocktr\u00f6ja med logga fram, urtv\u00e4ttad, h\u00e5l arm",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "h\u00e5l arm",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": ""
+}

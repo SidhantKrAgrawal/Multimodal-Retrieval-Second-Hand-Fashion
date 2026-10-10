@@ -1,0 +1,25 @@
+{
+    "brand": "River Island",
+    "brandtext": "River Island",
+    "category": "Women",
+    "type": "Gilets",
+    "size": "10",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new but no label, Soft inside, Very good quality",
+    "usage": "Reuse"
+}

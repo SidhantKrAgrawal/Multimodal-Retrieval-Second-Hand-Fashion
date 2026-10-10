@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Jaggy",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

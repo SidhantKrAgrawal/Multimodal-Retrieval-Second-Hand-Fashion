@@ -1,0 +1,41 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "60% bomull 40% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "t-shirt med svarta knappar",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "urtv\u00e4ttad/blek",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "urtv\u00e4ttad/blek",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

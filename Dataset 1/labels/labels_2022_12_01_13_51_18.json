@@ -1,0 +1,34 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "FILATI",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "None",
+    "colors": [
+        "Multicolor",
+        "Turquoise",
+        "Purple",
+        "White",
+        "Black",
+        "Blue",
+        "Green"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "78%acrylic",
+    "comment": "",
+    "usage": "Export"
+}

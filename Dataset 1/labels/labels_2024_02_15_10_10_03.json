@@ -1,0 +1,42 @@
+{
+    "brand": "Craft",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "svart tr\u00e4nings t-shirt med logga fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle right",
+    "damage3": ""
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Noa Noa Mellan",
+    "brandtext": "Mads N\u00f6rgaard",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "78% cotton, 22% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "Faded collar",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Outerwear",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "faded collar",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

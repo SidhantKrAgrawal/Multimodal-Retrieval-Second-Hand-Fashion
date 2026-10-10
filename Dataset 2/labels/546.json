@@ -1,0 +1,25 @@
+{
+    "brand": "Jasper J conran",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Coat",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Very nice winter coat. Good condition.",
+    "usage": "Reuse"
+}

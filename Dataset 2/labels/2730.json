@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara",
+    "category": "Women",
+    "type": "Long Sleeve Tops",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Long sleeve top with sleeves decorations",
+    "usage": "Reuse"
+}

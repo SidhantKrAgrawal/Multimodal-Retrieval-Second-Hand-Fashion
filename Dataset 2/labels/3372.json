@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "leather",
+    "category": "Women",
+    "type": "Jackets",
+    "size": "10",
+    "colors": [
+        "Dark brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% leather",
+    "comment": "Worn 2 or 3 times, pet free and smoke free",
+    "usage": "Reuse"
+}

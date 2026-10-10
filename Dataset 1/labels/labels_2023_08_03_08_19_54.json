@@ -1,0 +1,43 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "130",
+    "colors": [
+        "Yellow",
+        "Blue",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gul t-shirt med text fram och bka +sol ",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": ""
+}

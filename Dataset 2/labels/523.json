@@ -1,0 +1,25 @@
+{
+    "brand": "Canada",
+    "brandtext": "Canada",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "Small",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Bomber style, unisex, quick sale",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Dr Denim",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w34 l32",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue jeans ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom left",
+    "damage": "hole",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "hole",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "hole"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "34",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "94%cotton 5%polyester 1%elastane",
+    "comment": "",
+    "usage": "Export"
+}

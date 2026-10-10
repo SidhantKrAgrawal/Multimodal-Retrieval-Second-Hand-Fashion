@@ -1,0 +1,328 @@
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Queries with GT: 6087
+
+============================================================
+METHOD: BM25  (Robertson & Zaragoza, 2009)  k1=1.5  b=0.75
+============================================================
+  Building BM25 index from label text...
+  Vocabulary size : 628 terms
+  Avg document len: 19.8 tokens
+  Query : front_2023_08_01_07_42_06_aug.pt
+  Retrieved:
+    [4052] → front_2023_12_29_09_36_09_aug.pt  score: 13.75675
+    [1602] → front_2023_08_09_07_18_11_aug.pt  score: 13.40361
+    [2415] → front_2023_08_18_05_50_02_aug.pt  score: 12.96907
+    [5317] → front_2024_02_27_07_59_05_aug.pt  score: 12.85731
+    [816] → front_2023_04_25_13_12_25_aug.pt  score: 12.77830
+    [3040] → front_2023_08_25_09_47_34_aug.pt  score: 12.56456
+    [1495] → front_2023_08_08_06_56_21_aug.pt  score: 12.49024
+    [3459] → front_2023_12_01_10_29_20_aug.pt  score: 12.48963
+    [2456] → front_2023_08_18_08_37_09_aug.pt  score: 12.03111
+    [4926] → front_2024_02_19_06_48_48_aug.pt  score: 11.97196
+  PDF   → Dataset 1/results/results_example_bm25.pdf
+  GT results:
+    recall       @5: 0.0489  @10: 0.0835  @20: 0.1426
+    ndcg         @5: 0.5969  @10: 0.5690  @20: 0.5484
+    precision    @5: 0.5757  @10: 0.5391  @20: 0.5075
+  Avg/Med/Max relevant: 166.3 / 149.0 / 455
+
+============================================================
+Profile Report — bm25 / text  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.814  ████████████████░░░░
+  type             0.718  ██████████████░░░░░░
+  season           0.684  ██████████████░░░░░░
+  brand            0.658  █████████████░░░░░░░
+  cut              0.644  █████████████░░░░░░░
+  pattern          0.611  ████████████░░░░░░░░
+  price            0.496  ██████████░░░░░░░░░░
+  colors           0.451  █████████░░░░░░░░░░░
+  condition        0.286  ██████░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  colors                6.90
+  condition             3.85
+  brand                 3.50
+  cut                   3.31
+  pattern               3.28
+  type                  3.04
+  season                2.44
+  price                 2.42
+  category              1.98
+
+🔀  Intra-List Diversity (ILD): 0.4837   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: TF-IDF  (log-TF, cosine similarity, scikit-learn)
+============================================================
+  Building TF-IDF matrix from label text...
+  Matrix shape    : 6106 items × 628 vocab
+  Query : front_2023_08_01_07_42_06_aug.pt
+  Retrieved:
+    [4052] → front_2023_12_29_09_36_09_aug.pt  score: 0.96873
+    [1602] → front_2023_08_09_07_18_11_aug.pt  score: 0.91688
+    [6071] → front_2024_04_30_06_12_44_aug.pt  score: 0.89119
+    [5975] → front_2024_04_26_08_58_16_aug.pt  score: 0.89119
+    [4046] → front_2023_12_29_09_06_44_aug.pt  score: 0.89119
+    [2695] → front_2023_08_22_09_41_25_aug.pt  score: 0.88316
+    [4763] → front_2024_02_15_06_51_35_aug.pt  score: 0.88316
+    [2706] → front_2023_08_22_11_05_23_aug.pt  score: 0.84816
+    [4178] → front_2024_02_02_13_01_55_aug.pt  score: 0.84123
+    [2415] → front_2023_08_18_05_50_02_aug.pt  score: 0.84097
+  PDF   → Dataset 1/results/results_example_tfidf.pdf
+  GT results:
+    recall       @5: 0.0720  @10: 0.1234  @20: 0.2062
+    ndcg         @5: 0.8588  @10: 0.8424  @20: 0.8211
+    precision    @5: 0.8461  @10: 0.8190  @20: 0.7775
+  Avg/Med/Max relevant: 166.3 / 149.0 / 455
+
+============================================================
+Profile Report — tfidf / text  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.943  ███████████████████░
+  type             0.939  ███████████████████░
+  season           0.689  ██████████████░░░░░░
+  cut              0.634  █████████████░░░░░░░
+  pattern          0.553  ███████████░░░░░░░░░
+  brand            0.546  ███████████░░░░░░░░░
+  colors           0.525  ███████████░░░░░░░░░
+  price            0.490  ██████████░░░░░░░░░░
+  condition        0.283  ██████░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  colors                4.99
+  condition             3.81
+  brand                 3.20
+  pattern               3.01
+  cut                   2.88
+  price                 2.38
+  season                2.19
+  type                  1.42
+  category              1.34
+
+🔀  Intra-List Diversity (ILD): 0.4092   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: RANDOM  (uniform random, seed=42)  — lower bound
+============================================================
+  Query : front_2023_08_01_07_42_06_aug.pt
+  Retrieved:
+    [724] → front_2023_04_21_13_12_15_aug.pt  score: 1.00000
+    [1832] → front_2023_08_11_08_24_21_aug.pt  score: 1.00000
+    [3644] → front_2023_12_05_09_37_19_aug.pt  score: 1.00000
+    [3280] → front_2023_08_30_08_09_51_aug.pt  score: 1.00000
+    [310] → front_2023_02_11_08_46_08_aug.pt  score: 1.00000
+    [5362] → front_2024_02_28_14_01_23_aug.pt  score: 1.00000
+    [340] → front_2023_02_13_09_51_01_aug.pt  score: 1.00000
+    [2299] → front_2023_08_17_06_06_42_aug.pt  score: 1.00000
+    [3854] → front_2023_12_27_10_48_32_aug.pt  score: 1.00000
+    [154] → front_2022_12_15_13_04_44_aug.pt  score: 1.00000
+  PDF   → Dataset 1/results/results_example_random.pdf
+  GT results:
+    recall       @5: 0.0009  @10: 0.0017  @20: 0.0034
+    ndcg         @5: 0.0279  @10: 0.0274  @20: 0.0270
+    precision    @5: 0.0282  @10: 0.0273  @20: 0.0267
+  Avg/Med/Max relevant: 166.3 / 149.0 / 455
+
+============================================================
+Profile Report — random / text  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  season           0.597  ████████████░░░░░░░░
+  category         0.457  █████████░░░░░░░░░░░
+  price            0.452  █████████░░░░░░░░░░░
+  cut              0.430  █████████░░░░░░░░░░░
+  pattern          0.284  ██████░░░░░░░░░░░░░░
+  condition        0.259  █████░░░░░░░░░░░░░░░
+  brand            0.181  ████░░░░░░░░░░░░░░░░
+  colors           0.148  ███░░░░░░░░░░░░░░░░░
+  type             0.077  ██░░░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  colors                8.59
+  type                  7.34
+  brand                 6.20
+  pattern               4.62
+  cut                   4.33
+  condition             3.94
+  category              2.96
+  season                2.75
+  price                 2.52
+
+🔀  Intra-List Diversity (ILD): 0.6799   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+LOADING EMBEDDING COMPARISONS FOR SIGNIFICANCE TESTS
+============================================================
+  Loaded: selfattention  (1024-d)
+  Loaded: concat_text_heavy  (3328-d)
+  Loaded: concat  (3328-d)
+
+============================================================
+STATISTICAL SIGNIFICANCE TESTS  (baseline: bm25)
+============================================================
+
+========================================================================
+  bm25  vs  tfidf
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.2704 ▼     0.0000     0.0000  -0.966       large  ✅  sig.
+  precision@10         -0.2799 ▼     0.0000     0.0000  -1.139       large  ✅  sig.
+  precision@20         -0.2700 ▼     0.0000     0.0000  -1.255       large  ✅  sig.
+  recall@5          -0.0230 ▼     0.0000     0.0000  -0.345       small  ✅  sig.
+  recall@10         -0.0398 ▼     0.0000     0.0000  -0.466       small  ✅  sig.
+  recall@20         -0.0637 ▼     0.0000     0.0000  -0.620      medium  ✅  sig.
+  ndcg@5          -0.2620 ▼     0.0000     0.0000  -0.948       large  ✅  sig.
+  ndcg@10         -0.2734 ▼     0.0000     0.0000  -1.139       large  ✅  sig.
+  ndcg@20         -0.2728 ▼     0.0000     0.0000  -1.301       large  ✅  sig.
+
+  N queries: 6087
+
+========================================================================
+  bm25  vs  random
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.5476 ▲     0.0000     0.0000  +1.611       large  ✅  sig.
+  precision@10         +0.5119 ▲     0.0000     0.0000  +1.685       large  ✅  sig.
+  precision@20         +0.4807 ▲     0.0000     0.0000  +1.790       large  ✅  sig.
+  recall@5          +0.0480 ▲     0.0000     0.0000  +0.446       small  ✅  sig.
+  recall@10         +0.0818 ▲     0.0000     0.0000  +0.573      medium  ✅  sig.
+  recall@20         +0.1392 ▲     0.0000     0.0000  +0.718      medium  ✅  sig.
+  ndcg@5          +0.5689 ▲     0.0000     0.0000  +1.658       large  ✅  sig.
+  ndcg@10         +0.5416 ▲     0.0000     0.0000  +1.774       large  ✅  sig.
+  ndcg@20         +0.5213 ▲     0.0000     0.0000  +1.927       large  ✅  sig.
+
+  N queries: 6087
+
+========================================================================
+  bm25  vs  selfattention
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.3792 ▼     0.0000     0.0000  -1.106       large  ✅  sig.
+  precision@10         -0.3883 ▼     0.0000     0.0000  -1.238       large  ✅  sig.
+  precision@20         -0.3740 ▼     0.0000     0.0000  -1.317       large  ✅  sig.
+  recall@5          -0.0304 ▼     0.0000     0.0000  -0.335       small  ✅  sig.
+  recall@10         -0.0547 ▼     0.0000     0.0000  -0.458       small  ✅  sig.
+  recall@20         -0.0857 ▼     0.0000     0.0000  -0.569      medium  ✅  sig.
+  ndcg@5          -0.3685 ▼     0.0000     0.0000  -1.071       large  ✅  sig.
+  ndcg@10         -0.3803 ▼     0.0000     0.0000  -1.218       large  ✅  sig.
+  ndcg@20         -0.3776 ▼     0.0000     0.0000  -1.333       large  ✅  sig.
+
+  N queries: 6087
+
+========================================================================
+  bm25  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.1716 ▼     0.0000     0.0000  -0.432       small  ✅  sig.
+  precision@10         -0.1403 ▼     0.0000     0.0000  -0.393       small  ✅  sig.
+  precision@20         -0.0949 ▼     0.0000     0.0000  -0.299       small  ✅  sig.
+  recall@5          -0.0017 ▼     0.0000     0.1314  -0.019  negligible  ✅  sig.
+  recall@10         +0.0002 ▲     0.0000     0.8716  +0.002  negligible  ✅  sig.
+  recall@20         +0.0097 ▲     0.0000     0.0000  +0.066  negligible  ✅  sig.
+  ndcg@5          -0.1747 ▼     0.0000     0.0000  -0.441       small  ✅  sig.
+  ndcg@10         -0.1503 ▼     0.0000     0.0000  -0.420       small  ✅  sig.
+  ndcg@20         -0.1107 ▼     0.0000     0.0000  -0.340       small  ✅  sig.
+
+  N queries: 6087
+
+========================================================================
+  bm25  vs  concat
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.0745 ▼     0.0000     0.0000  -0.180  negligible  ✅  sig.
+  precision@10         -0.0484 ▼     0.0000     0.0000  -0.132  negligible  ✅  sig.
+  precision@20         -0.0105 ▼     0.1295     0.0106  -0.033  negligible  ❌  n.s.
+  recall@5          +0.0076 ▲     0.0000     0.0000  +0.083  negligible  ✅  sig.
+  recall@10         +0.0136 ▲     0.0078     0.0000  +0.119  negligible  ✅  sig.
+  recall@20         +0.0312 ▲     0.0000     0.0000  +0.201       small  ✅  sig.
+  ndcg@5          -0.0769 ▼     0.0000     0.0000  -0.184  negligible  ✅  sig.
+  ndcg@10         -0.0558 ▼     0.0000     0.0000  -0.150  negligible  ✅  sig.
+  ndcg@20         -0.0209 ▼     0.0000     0.0000  -0.062  negligible  ✅  sig.
+
+  N queries: 6087
+
+=======================================================================================================================================
+SIGNIFICANCE SUMMARY TABLE
+Δ = method_a − method_b  |  * p<0.05  ** p<0.01  *** p<0.001
+Primary test: Wilcoxon signed-rank (two-sided)
+=======================================================================================================================================
+  Pair                                      P@5       P@10       P@20        R@5       R@10       R@20        N@5       N@10       N@20
+  -------------------------------------------------------------------------------------------------------------------------------------
+  bm25 vs tfidf                       -0.270***  -0.280***  -0.270***  -0.023***  -0.040***  -0.064***  -0.262***  -0.273***  -0.273***
+  bm25 vs random                      +0.548***  +0.512***  +0.481***  +0.048***  +0.082***  +0.139***  +0.569***  +0.542***  +0.521***
+  bm25 vs selfattention               -0.379***  -0.388***  -0.374***  -0.030***  -0.055***  -0.086***  -0.368***  -0.380***  -0.378***
+  bm25 vs concat_text_heav            -0.172***  -0.140***  -0.095***  -0.002***  +0.000***  +0.010***  -0.175***  -0.150***  -0.111***
+  bm25 vs concat                      -0.074***  -0.048***     -0.011  +0.008***   +0.014**  +0.031***  -0.077***  -0.056***  -0.021***
+
+  Δ = method_a − method_b.  Positive = method_a better.
+  * p<0.05  ** p<0.01  *** p<0.001  (Wilcoxon signed-rank, two-sided)
+  Effect sizes (Cohen's d) available in verbose report.
+=======================================================================================================================================
+
+============================================================
+EFFECT SIZE SUMMARY  (Cohen's d, k=10)
+Bands: negligible <0.2 | small 0.2 | medium 0.5 | large 0.8
+============================================================
+  Pair                                     P@k       R@k       N@k  Size
+  ----------------------------------------------------------
+  bm25 vs tfidf                         -1.139    -0.466    -1.139  large
+  bm25 vs random                        +1.685    +0.573    +1.774  large
+  bm25 vs selfattention                 -1.238    -0.458    -1.218  large
+  bm25 vs concat_text_hea               -0.393    +0.002    -0.420  small
+  bm25 vs concat                        -0.132    +0.119    -0.150  negligible
+
+======================================================================
+SUMMARY TABLE  (precision@K  |  dataset = 1)
+======================================================================
+Method                     P@5    P@10    P@20   NDCG@10    R@10     ILD
+----------------------------------------------------------------------
+  bm25                  0.5757  0.5391  0.5075    0.5690  0.0835  0.4837
+  tfidf                 0.8461  0.8190  0.7775    0.8424  0.1234  0.4092
+  random                0.0282  0.0273  0.0267    0.0274  0.0017  0.6799
+
+======================================================================
+FOCUS COMPARISON  (category / type match rate at k=10)
+======================================================================
+  Method                 category       type     colors    pattern
+  bm25                      0.814      0.718      0.451      0.611
+  tfidf                     0.943      0.939      0.525      0.553
+  random                    0.457      0.077      0.148      0.284
+
+Done.  Results saved to Dataset 1/results_text_baselines_runner.txt

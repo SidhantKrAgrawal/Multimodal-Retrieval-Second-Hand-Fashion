@@ -1,0 +1,27 @@
+{
+    "brand": "Miss Selfridge",
+    "brandtext": "Miss Selfridge",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "10",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Limited edition",
+    "usage": "Reuse"
+}

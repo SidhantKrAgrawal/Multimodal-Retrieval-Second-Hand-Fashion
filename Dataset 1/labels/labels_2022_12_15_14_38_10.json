@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "TOMMY HILFIGER",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "L",
+    "colors": [
+        "Blue",
+        "Grey"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%Cotton",
+    "comment": "",
+    "usage": "Export"
+}

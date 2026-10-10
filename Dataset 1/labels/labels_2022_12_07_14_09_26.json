@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Tailored Originals",
+    "category": "Men",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Washed out",
+    "material": "100% cotton",
+    "comment": " ",
+    "usage": "Recycle"
+}

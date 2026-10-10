@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "DANTE6",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "None",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%silk",
+    "comment": "",
+    "usage": "Export"
+}

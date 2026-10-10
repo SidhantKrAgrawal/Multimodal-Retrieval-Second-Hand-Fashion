@@ -1,0 +1,42 @@
+{
+    "brand": "Name It",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "146",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 kl\u00e4nning med glitter stj\u00e4rnor p\u00e5",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

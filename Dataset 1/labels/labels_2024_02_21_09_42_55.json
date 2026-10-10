@@ -1,0 +1,41 @@
+{
+    "brand": "Cellbes",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Acryl",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "knitted top with turtleneck",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

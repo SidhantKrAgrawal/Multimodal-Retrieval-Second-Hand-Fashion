@@ -1,0 +1,27 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "36 (Waist Leg)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "In Good Condition",
+    "usage": "Reuse"
+}

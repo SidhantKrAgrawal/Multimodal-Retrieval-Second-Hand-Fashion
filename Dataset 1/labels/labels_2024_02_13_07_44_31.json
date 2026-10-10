@@ -1,0 +1,41 @@
+{
+    "brand": "Etirel",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "61% Polyester 39% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue trousers",
+    "comment": "washed out",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Trousers",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "90s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "damaged elastane",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "dagamed elastane",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "damaged elastane"
+}

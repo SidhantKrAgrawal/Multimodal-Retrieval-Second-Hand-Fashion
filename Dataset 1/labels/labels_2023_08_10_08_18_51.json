@@ -1,0 +1,42 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "r\u00f6d pike med bl\u00e5 \u00e4ndar, svag fl\u00e4ck p\u00e5 axel",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "fl\u00e4ck",
+    "damage2image": "back",
+    "damage2loc": "top right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

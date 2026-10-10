@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Phelix sports",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Purple",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "65% polyester 35% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "lila linne med text fram, nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Tank top ",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

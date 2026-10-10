@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white shorts",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Shorts",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "holes",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": "damaged hem"
+}

@@ -1,0 +1,29 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "10",
+    "colors": [
+        "Brown",
+        "Blue",
+        "Cream"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Loose Fit"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

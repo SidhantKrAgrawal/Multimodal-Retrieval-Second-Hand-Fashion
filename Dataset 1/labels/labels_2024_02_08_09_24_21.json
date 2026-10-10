@@ -1,0 +1,41 @@
+{
+    "brand": "Edc (Esprit De Corps)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "gr\u00e5 byxor",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

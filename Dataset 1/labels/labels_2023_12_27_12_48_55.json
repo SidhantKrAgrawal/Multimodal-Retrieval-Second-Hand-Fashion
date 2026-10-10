@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "60% bomull 40% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoodie med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "lite nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "lite nopprigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

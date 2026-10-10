@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "clique",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Orange",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "orange t-shirt med reklam text",
+    "comment": "reklam text",
+    "annotator": "10",
+    "category": "Unisex",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

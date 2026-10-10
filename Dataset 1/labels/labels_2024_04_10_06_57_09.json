@@ -1,0 +1,43 @@
+{
+    "brand": "Park Lane",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Brown",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rosa shorts med bruna knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shorts",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar ",
+    "damage2image": "back",
+    "damage2loc": "middle right",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

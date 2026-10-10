@@ -1,0 +1,27 @@
+{
+    "brand": "Lambretta",
+    "brandtext": "Lambretta",
+    "category": "Men",
+    "type": "Straight Jeans",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Straight Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "New with Tags",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Moncler",
+    "brandtext": "Moncler",
+    "category": "Men",
+    "type": "Winter Coats",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slightly used",
+    "usage": "Reuse"
+}

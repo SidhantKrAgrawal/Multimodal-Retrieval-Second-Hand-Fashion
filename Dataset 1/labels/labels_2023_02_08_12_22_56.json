@@ -1,0 +1,38 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Soft Rebels",
+    "category": "Ladies",
+    "type": "Tunic",
+    "size": "M ",
+    "colors": [
+        "Multicolor",
+        "Black",
+        "Blue",
+        "Red",
+        "Green",
+        "Pink",
+        "Purple",
+        "Turquoise",
+        "Orange",
+        "White",
+        "Yellow"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%viscose",
+    "comment": "",
+    "usage": "Export"
+}

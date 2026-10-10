@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "wrangler",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w34 l32",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Remake",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "blue jeans",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "damaged elastane",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

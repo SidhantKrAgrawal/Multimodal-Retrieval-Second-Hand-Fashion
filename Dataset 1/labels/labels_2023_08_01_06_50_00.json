@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vidou",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "Spring",
+    "condition": 2,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart skinnjacka d\u00e4r skinnet har spruckigt och lossnat",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Leather",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": ""
+}

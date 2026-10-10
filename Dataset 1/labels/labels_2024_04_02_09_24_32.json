@@ -1,0 +1,41 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "160",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% bomull ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "ljusbl\u00e5a jeans med guldiga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

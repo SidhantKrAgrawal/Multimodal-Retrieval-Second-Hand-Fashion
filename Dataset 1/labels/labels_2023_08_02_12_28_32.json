@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "missing",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Recycle",
+    "usage_confidence": "Medium",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "detergent smell, crooked seam, washed out",
+    "annotator": "24",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

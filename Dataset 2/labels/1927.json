@@ -1,0 +1,25 @@
+{
+    "brand": "Polo Ralph Lauren",
+    "brandtext": "Polo Ralph Lauren",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "L",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Two faint marks",
+    "material": "",
+    "comment": "Genuine, men's polo shirt",
+    "usage": "Reuse"
+}

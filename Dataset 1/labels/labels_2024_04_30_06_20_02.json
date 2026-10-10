@@ -1,0 +1,42 @@
+{
+    "brand": "Mckinley (Intersport)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "red zip up sweater",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "damaged color",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "damaged fabric",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

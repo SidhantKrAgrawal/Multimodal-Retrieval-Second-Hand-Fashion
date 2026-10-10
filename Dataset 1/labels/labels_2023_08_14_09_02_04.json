@@ -1,0 +1,41 @@
+{
+    "brand": "Soya/Soyaconcept",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "65% Cotton 35% Viscose",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

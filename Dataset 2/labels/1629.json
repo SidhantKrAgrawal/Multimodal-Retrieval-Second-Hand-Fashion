@@ -1,0 +1,27 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn but in very good condition.",
+    "usage": "Reuse"
+}

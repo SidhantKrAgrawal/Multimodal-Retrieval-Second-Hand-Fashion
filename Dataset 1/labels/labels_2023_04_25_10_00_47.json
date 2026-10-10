@@ -1,0 +1,30 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Hoodie",
+    "size": "98",
+    "colors": [
+        "Red",
+        "Blue",
+        "Black",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

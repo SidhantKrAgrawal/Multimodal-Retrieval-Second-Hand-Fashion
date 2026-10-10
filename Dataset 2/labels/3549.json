@@ -1,0 +1,27 @@
+{
+    "brand": "Zebaish",
+    "brandtext": "zebaish",
+    "category": "Women",
+    "type": "3 piece suit",
+    "size": "S",
+    "colors": [
+        "Emerald green"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "3 piece"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

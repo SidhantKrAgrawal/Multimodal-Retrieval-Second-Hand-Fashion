@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Texlene",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Svart kjol med sk\u00e4rp",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "dragna tr\u00e5dar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "h\u00e5l och tr\u00f6g dragkedja",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

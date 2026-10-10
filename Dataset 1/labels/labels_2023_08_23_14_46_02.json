@@ -1,0 +1,43 @@
+{
+    "brand": "H&M",
+    "brandtext": "Divided",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% poly",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "White summer dress with wild cat heads printed in black all over. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "Stains all over clothing",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "Pulled threads here and there",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

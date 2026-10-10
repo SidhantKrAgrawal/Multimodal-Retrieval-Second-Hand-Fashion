@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vero moda",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% viscsoe",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig skjorta, lite matt i f\u00e4rgen",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

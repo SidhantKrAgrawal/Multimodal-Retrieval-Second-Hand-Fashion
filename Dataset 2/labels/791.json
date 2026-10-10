@@ -1,0 +1,25 @@
+{
+    "brand": "Marc Darcy",
+    "brandtext": "Marc Darcy",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "38R",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Smart charcoal grey jacket. Almost brand new. Worn only once.",
+    "usage": "Reuse"
+}

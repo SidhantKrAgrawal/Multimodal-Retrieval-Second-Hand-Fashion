@@ -1,0 +1,28 @@
+{
+    "brand": "Bershka (Zara)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "M ",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "1",
+    "material": "96%cotton 4%elastane",
+    "comment": "",
+    "usage": "Export"
+}

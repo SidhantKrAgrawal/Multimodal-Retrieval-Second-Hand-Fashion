@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Ilse jacobsen",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Green floral dress",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

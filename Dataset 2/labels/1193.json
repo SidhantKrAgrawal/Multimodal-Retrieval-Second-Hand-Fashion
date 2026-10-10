@@ -1,0 +1,27 @@
+{
+    "brand": "Hugo Boss",
+    "brandtext": "Hugo Boss",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "34/30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Frayed worn hems at heels",
+    "usage": "Reuse"
+}

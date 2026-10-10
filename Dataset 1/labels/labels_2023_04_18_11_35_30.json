@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Hobby Moda",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "None",
+    "colors": [
+        "Multicolor",
+        "Yellow",
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "80% cotton, 20% acrylic ",
+    "comment": "",
+    "usage": "Export"
+}

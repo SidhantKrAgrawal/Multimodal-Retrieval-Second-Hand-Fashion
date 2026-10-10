@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "xlnt",
+    "brand_missing": false,
+    "size": "XXXL",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "lila t-shirt med fastsydd scarf",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": ""
+}

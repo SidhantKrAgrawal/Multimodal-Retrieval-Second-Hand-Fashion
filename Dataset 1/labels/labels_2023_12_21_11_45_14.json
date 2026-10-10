@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "r\u00f6d v\u00e4st med tryck",
+    "comment": "nopprig",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Vest",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "nopprig",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "nopprig"
+}

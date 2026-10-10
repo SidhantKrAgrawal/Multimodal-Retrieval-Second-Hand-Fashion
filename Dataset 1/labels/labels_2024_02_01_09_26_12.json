@@ -1,0 +1,42 @@
+{
+    "brand": "Soc (Stadium)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "104",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Pink"
+    ],
+    "season": "None",
+    "condition": 5,
+    "material": "100% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Tank top with colorblocks",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Tank top ",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

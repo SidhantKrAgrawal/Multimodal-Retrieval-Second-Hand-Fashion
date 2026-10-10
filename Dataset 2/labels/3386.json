@@ -1,0 +1,28 @@
+{
+    "brand": "Jigsaw",
+    "brandtext": "Jigsaw",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "10",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Wooden buttons and excellent details. lovely striped lining",
+    "usage": "Reuse"
+}

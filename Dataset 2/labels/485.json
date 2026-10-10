@@ -1,0 +1,25 @@
+{
+    "brand": "The North Face",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Down Coat",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

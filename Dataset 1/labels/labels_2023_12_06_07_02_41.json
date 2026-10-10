@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "50",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "beige kavaj med sm\u00e5 fl\u00e4ckar p\u00e5",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Blazer",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": "fl\u00e4ck"
+}

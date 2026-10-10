@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "H&U jeans",
+    "brand_missing": false,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "shorts med gr\u00f6n klittriga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Shorts",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "dammiga",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "dammiga",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "C.N.Y.",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Winter",
+    "condition": 3,
+    "material": "100% wool",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "svart rock med knappar, h\u00e5rig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Robe",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top left",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

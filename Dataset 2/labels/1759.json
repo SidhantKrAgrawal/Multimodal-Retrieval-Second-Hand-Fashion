@@ -1,0 +1,27 @@
+{
+    "brand": "ZARA",
+    "brandtext": "ZARA",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "M",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Shirts from ZARA. size M.very good condition.",
+    "usage": "Reuse"
+}

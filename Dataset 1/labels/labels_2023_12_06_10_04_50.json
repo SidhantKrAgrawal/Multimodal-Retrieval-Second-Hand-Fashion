@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vila",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "64% polyester 36% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rosa kl\u00e4nning, nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

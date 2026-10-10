@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Iconic Sport",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "size": "M ",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 1,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Cropped"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Washed out",
+    "material": "60% cotton, 40% polyester",
+    "comment": "",
+    "usage": "Export"
+}

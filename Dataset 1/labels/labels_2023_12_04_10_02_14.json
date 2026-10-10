@@ -1,0 +1,42 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "164",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "Spring",
+    "condition": 2,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart kofta med r\u00f6da trianglar upptill,nopprig och fl\u00e4ckar fram och arm",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Cardigan",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "fl\u00e4ck arm",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "fl\u00e4ckar"
+}

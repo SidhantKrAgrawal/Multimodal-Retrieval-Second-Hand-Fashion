@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng\u00e4rmad tr\u00f6ja ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "luddig",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "luddig",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "luddig"
+}

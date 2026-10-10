@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "quicksilver",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "16",
+    "colors": [
+        "Blue",
+        "Orange"
+    ],
+    "season": "Winter",
+    "condition": 3,
+    "material": "100% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vinter jacka",
+    "comment": "",
+    "annotator": "1",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": "smuts fl\u00e4ckar"
+}

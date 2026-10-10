@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "movement",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Orange",
+        "Grey"
+    ],
+    "season": "Spring",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "tv\u00e5 f\u00e4rgad tunn jacka",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

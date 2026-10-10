@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Andaaz Boutique",
+    "category": "Women",
+    "type": "Wedding Dresses",
+    "size": "M",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Hardly used few hours in excellent condition like new",
+    "usage": "Reuse"
+}

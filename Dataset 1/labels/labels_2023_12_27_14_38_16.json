@@ -1,0 +1,41 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tights",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "smuts fl\u00e4ck"
+}

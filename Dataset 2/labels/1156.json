@@ -1,0 +1,27 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Skinny Jeans",
+    "size": "34",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "74% cotton 24% poly",
+    "comment": "Good for nothing",
+    "usage": "Reuse"
+}

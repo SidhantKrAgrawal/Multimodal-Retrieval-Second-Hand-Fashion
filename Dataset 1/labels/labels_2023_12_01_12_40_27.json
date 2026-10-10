@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "65% bomull 35% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie med kron tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "nopprigt"
+}

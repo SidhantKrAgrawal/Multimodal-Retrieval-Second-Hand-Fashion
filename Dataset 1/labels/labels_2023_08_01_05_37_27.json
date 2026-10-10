@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "sol's-regent",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vit t-shirt med massa olika reklam loggor",
+    "comment": "",
+    "annotator": "10",
+    "category": "Unisex",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

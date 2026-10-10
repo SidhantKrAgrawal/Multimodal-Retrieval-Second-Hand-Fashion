@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Salming",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "Sports team logo",
+    "annotator": "24",
+    "category": "Children",
+    "type": "Training top",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

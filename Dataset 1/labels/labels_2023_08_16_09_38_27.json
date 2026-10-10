@@ -1,0 +1,41 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "34/32",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

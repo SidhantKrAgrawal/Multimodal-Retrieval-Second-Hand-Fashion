@@ -1,0 +1,25 @@
+{
+    "brand": "TU",
+    "brandtext": "TU",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "18",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Linen, straight, two pockets, worn couple of times",
+    "usage": "Reuse"
+}

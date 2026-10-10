@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "reflex",
+    "brand_missing": false,
+    "size": "98",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Orange",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "unknown",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Rain jacket with pattern",
+    "comment": "",
+    "annotator": "",
+    "category": "Children",
+    "type": "Rain jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

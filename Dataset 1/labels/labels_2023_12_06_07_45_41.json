@@ -1,0 +1,41 @@
+{
+    "brand": "Rosebud",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "61% nylone 39% viscose",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "rosa kl\u00e4nning med blommigt m\u00f6nster, lite nopprig i ena armh\u00e5lan",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

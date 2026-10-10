@@ -1,0 +1,42 @@
+{
+    "brand": "Adidas",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% poly",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "dragen tr\u00e5d",
+    "annotator": "17",
+    "category": "Children",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

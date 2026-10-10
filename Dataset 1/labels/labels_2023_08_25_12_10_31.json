@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Joseph A",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "59% cotton, 41% acrylic",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

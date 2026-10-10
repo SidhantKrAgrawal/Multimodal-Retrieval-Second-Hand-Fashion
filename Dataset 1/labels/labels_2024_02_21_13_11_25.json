@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "71% bomull  23% polyester 6% viskos ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "cropped hoddie med vita sn\u00f6rren",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "smutsigt vid \u00e4rmsluten",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

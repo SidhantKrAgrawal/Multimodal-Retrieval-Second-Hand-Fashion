@@ -1,0 +1,27 @@
+{
+    "brand": "Ed Hardy",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "27",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Ladies jeans by Ed Hardy. Size 27. I’m size 8 in clothing and they fit perfectly.",
+    "usage": "Reuse"
+}

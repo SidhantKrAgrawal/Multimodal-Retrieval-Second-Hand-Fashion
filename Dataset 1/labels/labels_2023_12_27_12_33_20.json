@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Cupcakes and cashmere",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "6",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jeans kjol med knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom center",
+    "damage": "invikt tyg",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "PRODOTTI",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "None",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "60%cotton 40%viscose ",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "rie design",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 jeans skjorta",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

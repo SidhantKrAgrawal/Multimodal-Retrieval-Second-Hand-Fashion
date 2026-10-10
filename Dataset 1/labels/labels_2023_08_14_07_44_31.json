@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Weekday",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w25 l32",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

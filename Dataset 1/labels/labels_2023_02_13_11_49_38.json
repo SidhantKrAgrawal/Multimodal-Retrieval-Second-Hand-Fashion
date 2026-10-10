@@ -1,0 +1,33 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Black",
+        "Blue",
+        "Turquoise",
+        "Green"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

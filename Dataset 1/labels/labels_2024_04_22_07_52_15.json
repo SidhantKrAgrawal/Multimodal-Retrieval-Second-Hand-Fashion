@@ -1,0 +1,43 @@
+{
+    "brand": "Sweet Sktbs",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "63% akryl 37% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig stickad vest ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Vest",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom center",
+    "damage": "luddig",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "luddig",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

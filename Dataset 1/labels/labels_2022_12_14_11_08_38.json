@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Hoodie",
+    "size": "164",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

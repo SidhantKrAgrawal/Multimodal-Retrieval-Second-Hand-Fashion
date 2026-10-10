@@ -1,0 +1,43 @@
+{
+    "brand": "Bikbok",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Beige",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tight top with animalprint and cut out detail",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "stained ",
+    "damage3image": "front",
+    "damage3loc": "top left",
+    "damage3": "stained"
+}

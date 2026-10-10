@@ -1,0 +1,43 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vit t-shirt med broderade blommor p\u00e5, fl\u00e4ckar fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

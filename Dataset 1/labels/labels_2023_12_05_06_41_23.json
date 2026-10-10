@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "peek-a-boo",
+    "brand_missing": false,
+    "size": "86",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Brown",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "condition": 2,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rosa regnjacka med kanin p\u00e5, lerfl\u00e4ckar \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Rain jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

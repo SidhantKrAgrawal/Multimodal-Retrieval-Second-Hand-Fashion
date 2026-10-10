@@ -1,0 +1,41 @@
+{
+    "brand": "Bikbok",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "Spring",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vit jeans jacka med h\u00e5l, fl\u00e4ckar fram och gul krage",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

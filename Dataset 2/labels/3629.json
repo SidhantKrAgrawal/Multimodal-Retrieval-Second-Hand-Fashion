@@ -1,0 +1,27 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Lehenga",
+    "size": "M",
+    "colors": [
+        "Light Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Small to Medium"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "2 dresses",
+    "usage": "Reuse"
+}

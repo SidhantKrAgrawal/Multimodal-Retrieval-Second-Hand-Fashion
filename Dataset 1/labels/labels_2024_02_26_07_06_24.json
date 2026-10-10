@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Exlusive by Tara",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Silk",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Pink blouse ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Blazer",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle left",
+    "damage": "pulled threads",
+    "damage2image": "back",
+    "damage2loc": "middle right",
+    "damage2": "pulled threads",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

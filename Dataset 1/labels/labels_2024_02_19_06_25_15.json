@@ -1,0 +1,41 @@
+{
+    "brand": "Batistini (Dressman)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w38 l32",
+    "colors": [
+        "Beige"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "53% Nylon 47% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Beige cropped trousers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "stains",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

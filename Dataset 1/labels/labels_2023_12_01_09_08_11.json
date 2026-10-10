@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "\u00c5hlens",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "63% Polyester 37% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Red vintage skirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

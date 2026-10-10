@@ -1,0 +1,30 @@
+{
+    "brand": "UniQlo",
+    "brandtext": "UniQlo",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "S",
+    "colors": [
+        "Navy",
+        "Green",
+        "Tan",
+        "Crean"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Na-Kd",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "T-shirt med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle right",
+    "damage3": "sne s\u00f6m"
+}

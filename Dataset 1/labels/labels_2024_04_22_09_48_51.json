@@ -1,0 +1,42 @@
+{
+    "brand": "Cappuchini",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "95% polyester 5% elastan",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "l\u00e5ng\u00e4rmad kl\u00e4nning, utsv\u00e4ngd nertill med fickor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "luddig",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "luddig",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "luddig"
+}

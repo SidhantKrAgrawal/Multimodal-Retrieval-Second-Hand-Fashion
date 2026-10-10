@@ -1,0 +1,42 @@
+{
+    "brand": "Lab Industries (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "146",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00f6n t-shirt med text fram, urtv\u00e4ttad",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

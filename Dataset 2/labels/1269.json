@@ -1,0 +1,27 @@
+{
+    "brand": "Acne",
+    "brandtext": "Acne Studios",
+    "category": "Men",
+    "type": "Slim Jeans",
+    "size": "31x32",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Great condition, perfect for casual wear",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Esprit",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "83% Nylon 17% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "black cropped lace skirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

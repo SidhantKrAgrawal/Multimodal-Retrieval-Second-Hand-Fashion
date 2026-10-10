@@ -1,0 +1,27 @@
+{
+    "brand": "Boss, Hugo Boss",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "42",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "Major",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Remake"
+}

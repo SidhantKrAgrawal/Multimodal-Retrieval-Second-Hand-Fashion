@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "gelco",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jacka med vit gr\u00e5a knappar och tight krage",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

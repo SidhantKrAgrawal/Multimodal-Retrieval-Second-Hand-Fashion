@@ -1,0 +1,25 @@
+{
+    "brand": "Levi's",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "36/30 (Waist Leg)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "just don’t fit me anymore bought in Levi’s shop black pick up",
+    "usage": "Reuse"
+}

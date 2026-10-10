@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "70% polyester 30% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta byxor med fl\u00e4ckar p\u00e5 b\u00e5da benen",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ckar p\u00e5 b\u00e5da benen",
+    "damage2image": "back",
+    "damage2loc": "top right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

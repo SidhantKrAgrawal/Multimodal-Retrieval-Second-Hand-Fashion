@@ -1,0 +1,41 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "59% polyester 41% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "beige l\u00e5ng\u00e4rmad tr\u00f6ja, l\u00e4tt nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

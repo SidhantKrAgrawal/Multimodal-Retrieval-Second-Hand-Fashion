@@ -1,0 +1,25 @@
+{
+    "brand": "TCM",
+    "brandtext": "TCM",
+    "category": "Women",
+    "type": "Winter Coats",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50%polyester 50%acrylic",
+    "comment": "",
+    "usage": "Reuse"
+}

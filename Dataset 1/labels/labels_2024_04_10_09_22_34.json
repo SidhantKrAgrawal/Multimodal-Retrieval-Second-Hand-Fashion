@@ -1,0 +1,41 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "122",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kl\u00e4nning med genomskinlig kjol",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Dress",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

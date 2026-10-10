@@ -1,0 +1,41 @@
+{
+    "brand": "Mywear (Ica)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 kl\u00e4nning med fl\u00e4ck p\u00e5 arm",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "fl\u00e4ck arm",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": ""
+}

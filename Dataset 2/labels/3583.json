@@ -1,0 +1,25 @@
+{
+    "brand": "Pretty Little Thing",
+    "brandtext": "Pretty Little Thing",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "8 (UK)",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

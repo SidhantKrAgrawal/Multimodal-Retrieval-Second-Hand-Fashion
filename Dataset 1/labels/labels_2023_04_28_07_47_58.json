@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Kurt Kellerman",
+    "category": "Men",
+    "type": "Skirt",
+    "size": "M ",
+    "colors": [
+        "Grey",
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Silk",
+    "comment": "",
+    "usage": "Recycle"
+}

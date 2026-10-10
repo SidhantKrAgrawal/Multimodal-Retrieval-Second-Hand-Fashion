@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "None",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Brown",
+        "Purple"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "Minor",
+    "damage": "1",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

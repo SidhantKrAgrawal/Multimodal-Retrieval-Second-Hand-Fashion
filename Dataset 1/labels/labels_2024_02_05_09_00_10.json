@@ -1,0 +1,43 @@
+{
+    "brand": "Mango",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "Black"
+    ],
+    "season": "None",
+    "condition": 5,
+    "material": "66% Acryl 34% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Knitted sweater ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Metallic",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

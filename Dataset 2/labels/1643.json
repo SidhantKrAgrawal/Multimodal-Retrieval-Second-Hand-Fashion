@@ -1,0 +1,25 @@
+{
+    "brand": "Brook Taverner",
+    "brandtext": "Brook Taverner",
+    "category": "Men",
+    "type": "Other",
+    "size": "48 (EU)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

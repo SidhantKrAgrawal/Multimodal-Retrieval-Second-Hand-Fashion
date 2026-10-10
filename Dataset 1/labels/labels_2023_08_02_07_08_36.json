@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "roxy",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "10",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "52% cotton 48% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "gr\u00e5 melerade mjukis byxor",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Training top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

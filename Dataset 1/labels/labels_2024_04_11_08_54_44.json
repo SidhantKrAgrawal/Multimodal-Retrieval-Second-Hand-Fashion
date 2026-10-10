@@ -1,0 +1,41 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kort lurvig jacka med ficka",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "liten smuts fl\u00e4ck ",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

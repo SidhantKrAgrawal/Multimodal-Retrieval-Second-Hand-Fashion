@@ -1,0 +1,28 @@
+{
+    "brand": "Everest",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Winter trousers",
+    "size": "104",
+    "colors": [
+        "Orange",
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "50%nylon 50%polyester",
+    "comment": "",
+    "usage": "Export"
+}

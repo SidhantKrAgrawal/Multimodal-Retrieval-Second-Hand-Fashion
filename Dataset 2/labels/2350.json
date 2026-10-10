@@ -1,0 +1,27 @@
+{
+    "brand": "Skopes",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "W14",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Active Waist Trousers",
+    "usage": "Reuse"
+}

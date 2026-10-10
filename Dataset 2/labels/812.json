@@ -1,0 +1,28 @@
+{
+    "brand": "Nicce",
+    "brandtext": "Nicce",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "XS",
+    "colors": [
+        "Black",
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Collection only",
+    "usage": "Export"
+}

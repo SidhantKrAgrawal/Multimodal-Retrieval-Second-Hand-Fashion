@@ -1,0 +1,25 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Coats",
+    "size": "18",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Ladies coat in N15 London for £6.00 for sale",
+    "usage": "Reuse"
+}

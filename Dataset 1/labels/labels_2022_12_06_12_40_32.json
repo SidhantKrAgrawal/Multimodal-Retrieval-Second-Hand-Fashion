@@ -1,0 +1,27 @@
+{
+    "brand": "Cappuchini",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "M ",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Cropped"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "Sunbleeched",
+    "material": "98% cotton, 2% elastane",
+    "comment": "",
+    "usage": "Export"
+}

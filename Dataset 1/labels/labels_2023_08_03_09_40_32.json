@@ -1,0 +1,41 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "74% cotton 26% polyester ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beige linne byxor, nopprig \u00f6ver hela och fl\u00e4ck fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

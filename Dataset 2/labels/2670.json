@@ -1,0 +1,25 @@
+{
+    "brand": "MAIA 1981",
+    "brandtext": "DD - 2 MAIA 1981",
+    "category": "Women",
+    "type": "Blouses",
+    "size": "One Size",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Only worn 3 times",
+    "usage": "Reuse"
+}

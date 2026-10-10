@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "minimum",
+    "brand_missing": false,
+    "size": "46",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 kavaj, fl\u00e4ckar \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Blazer",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "fl\u00e4ckar"
+}

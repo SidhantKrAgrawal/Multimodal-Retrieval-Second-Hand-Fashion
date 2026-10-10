@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "stories",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "74% viskos 21% polyester 5% elastan",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie med ficka och sn\u00f6rre",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "stora smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

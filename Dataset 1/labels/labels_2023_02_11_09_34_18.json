@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "REPLAY",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "None",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "Major",
+    "damage": "2",
+    "material": "80%cotton 20%elastane",
+    "comment": "",
+    "usage": "Export"
+}

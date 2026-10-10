@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "ljusbl\u00e5a jeans med slitningar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top right",
+    "damage": "h\u00e5l vid bakficka",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

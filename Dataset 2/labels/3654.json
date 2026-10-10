@@ -1,0 +1,25 @@
+{
+    "brand": "Boden",
+    "brandtext": "Boden",
+    "category": "Women",
+    "type": "Dress",
+    "size": "18L",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "As new condition with small mark to front which should come out in the wash",
+    "usage": "Reuse"
+}

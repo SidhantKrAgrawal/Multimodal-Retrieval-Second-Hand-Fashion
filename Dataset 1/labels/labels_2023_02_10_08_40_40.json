@@ -1,0 +1,27 @@
+{
+    "brand": "Cream",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "XL",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "Not Applicable",
+    "comment": "",
+    "usage": "Repair"
+}

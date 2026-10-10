@@ -1,0 +1,25 @@
+{
+    "brand": "Massimo Dutti",
+    "brandtext": "Massimo Dutti Polo Shirt",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "M",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

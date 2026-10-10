@@ -1,0 +1,41 @@
+{
+    "brand": "Rappson   (Gubb)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Brown courderoy trouers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "fabric damage",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "fabric damage",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

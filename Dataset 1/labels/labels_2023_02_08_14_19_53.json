@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vero moda",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "M ",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "78% Acry 22% Poly",
+    "comment": "",
+    "usage": "Export"
+}

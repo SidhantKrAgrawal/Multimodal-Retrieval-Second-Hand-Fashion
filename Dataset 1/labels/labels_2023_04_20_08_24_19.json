@@ -1,0 +1,29 @@
+{
+    "brand": "Lindex",
+    "brandtext": "Kids",
+    "category": "Children",
+    "type": "Cardigan",
+    "size": "146",
+    "colors": [
+        "Red",
+        "Grey",
+        "Black"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

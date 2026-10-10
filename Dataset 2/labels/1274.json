@@ -1,0 +1,27 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "30 (EU)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "quality",
+    "usage": "Reuse"
+}

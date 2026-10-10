@@ -1,0 +1,41 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% akryl",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickad t-shirt ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "smuts fl\u00e4ck och l\u00f6sa tr\u00e5dar",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "smuts fl\u00e4ck ",
+    "damage3image": "front",
+    "damage3loc": "top left",
+    "damage3": "smuts fl\u00e4ck"
+}

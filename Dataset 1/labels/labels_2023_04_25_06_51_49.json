@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Biltema",
+    "category": "Men",
+    "type": "T-shirt",
+    "size": "XL",
+    "colors": [
+        "Blue",
+        "Yellow"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "Sports",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

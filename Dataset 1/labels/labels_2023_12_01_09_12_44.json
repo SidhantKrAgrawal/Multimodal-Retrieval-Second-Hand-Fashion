@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Khujo",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "None",
+    "condition": 5,
+    "material": "70% Cotton 30% Nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "150-250",
+    "price_confidence": "High",
+    "description": "Jacket with hood",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Winter jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

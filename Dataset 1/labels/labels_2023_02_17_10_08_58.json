@@ -1,0 +1,28 @@
+{
+    "brand": "Only",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "M ",
+    "colors": [
+        "Grey",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50%cotton 50%polyester",
+    "comment": "",
+    "usage": "Export"
+}

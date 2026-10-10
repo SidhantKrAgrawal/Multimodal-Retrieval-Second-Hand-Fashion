@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "UMBRO",
+    "category": "Children",
+    "type": "Rain trousers",
+    "size": "128",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "2",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

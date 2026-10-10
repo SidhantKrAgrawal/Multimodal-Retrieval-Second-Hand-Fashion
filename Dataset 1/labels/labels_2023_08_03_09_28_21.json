@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "livergy",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "53% cotton 47% polyester ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00f6na mjukisbyxor, noppriga \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Unisex",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

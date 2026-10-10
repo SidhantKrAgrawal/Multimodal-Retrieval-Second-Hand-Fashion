@@ -1,0 +1,42 @@
+{
+    "brand": "Logg (H&M)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "74% bomull 26% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kabelstickad tr\u00f6ja med bruna knappar och midjeband",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigrt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

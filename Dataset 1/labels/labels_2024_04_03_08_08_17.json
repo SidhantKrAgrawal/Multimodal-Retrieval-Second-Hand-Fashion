@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "lupilu",
+    "brand_missing": false,
+    "size": "110",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "80% bomull 20% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00e5a mjukisbyxor med tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "nopprigt och smutsigt",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "slitet oh nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle right",
+    "damage3": "nopprigt "
+}

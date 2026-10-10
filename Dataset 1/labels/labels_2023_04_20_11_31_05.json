@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "38",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

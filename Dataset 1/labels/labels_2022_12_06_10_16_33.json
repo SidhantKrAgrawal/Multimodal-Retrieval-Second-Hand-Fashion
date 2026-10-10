@@ -1,0 +1,30 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "46",
+    "colors": [
+        "White",
+        "Black",
+        "Pink",
+        "Multicolor"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "74% rayon, 22% nylon, 4% spandex",
+    "comment": "",
+    "usage": "Reuse"
+}

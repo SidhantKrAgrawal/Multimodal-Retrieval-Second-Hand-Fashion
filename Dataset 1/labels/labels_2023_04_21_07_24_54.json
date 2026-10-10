@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Joy Jeans",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "42",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "66% polyester, 33% cotton",
+    "comment": "",
+    "usage": "Export"
+}

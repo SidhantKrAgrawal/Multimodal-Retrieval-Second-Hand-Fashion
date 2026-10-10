@@ -1,0 +1,41 @@
+{
+    "brand": "Lab Industries (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "128",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Remake",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans med stora fl\u00e4ckar p\u00e5 kn\u00e4na",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

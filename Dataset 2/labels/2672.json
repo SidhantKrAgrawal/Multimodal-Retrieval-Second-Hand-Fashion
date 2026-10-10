@@ -1,0 +1,27 @@
+{
+    "brand": "Guess",
+    "brandtext": "None",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "XS",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

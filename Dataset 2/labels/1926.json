@@ -1,0 +1,25 @@
+{
+    "brand": "French Connection",
+    "brandtext": "French Connection",
+    "category": "Men",
+    "type": "Basic T-Shirts",
+    "size": "XL",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,29 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "M ",
+    "colors": [
+        "Grey",
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "77% nylon 23% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Levi'S",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans shorts med fl\u00e4ckar mellan benen",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ck mellan benen",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle right",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Levi",
+    "brandtext": "Levi's",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "30",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "athletic tapered fit, worn a couple of times",
+    "usage": "Reuse"
+}

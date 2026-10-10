@@ -1,0 +1,25 @@
+{
+    "brand": "Primark",
+    "brandtext": "Primark",
+    "category": "Women",
+    "type": "Crop Tops",
+    "size": "M",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn couple times",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Adidas",
+    "brandtext": "Adidas",
+    "category": "Women",
+    "type": "Leggings",
+    "size": "24/28 (Waist Leg)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

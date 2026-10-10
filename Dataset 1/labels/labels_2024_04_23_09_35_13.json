@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "randig kort kjol ",
+    "comment": "m\u00e4rke och storlek saknas",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "pelicana",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "75% viskos 25% polyester ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "L\u00e5ngkl\u00e4nning med p\u00e4rlor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "smutsigt p\u00e5 dragkedja",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "F&F",
+    "brandtext": "F&F",
+    "category": "Women",
+    "type": "Jackets",
+    "size": "M",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Part for a lil burn",
+    "usage": "Reuse"
+}

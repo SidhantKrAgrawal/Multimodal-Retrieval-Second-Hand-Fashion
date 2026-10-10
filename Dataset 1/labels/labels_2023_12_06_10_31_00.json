@@ -1,0 +1,42 @@
+{
+    "brand": "On The Peak",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "White"
+    ],
+    "season": "Autumn",
+    "condition": 2,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rosa jacka med fl\u00e4ckar fram, dragkedja p\u00e5 fickorna trasiga",
+    "comment": "trasiga dragkedjor p\u00e5 fickorna",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "fl\u00e4ckar"
+}

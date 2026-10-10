@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "house of lola",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart l\u00e5ng kofta, mycket nopprig \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

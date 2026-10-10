@@ -1,0 +1,27 @@
+{
+    "brand": "New Look",
+    "brandtext": "New Look",
+    "category": "Men",
+    "type": "Skinny Jeans",
+    "size": "32",
+    "colors": [
+        "Copper"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "98% cotton 2% ela",
+    "comment": "in very good condition",
+    "usage": "Reuse"
+}

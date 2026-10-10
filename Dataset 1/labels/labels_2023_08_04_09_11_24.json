@@ -1,0 +1,42 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Yellow"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tr\u00e4nings shorts med sverige flagga, liten fl\u00e4ck bak och n\u00e5gon l\u00f6sa tr\u00e5d",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top left",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

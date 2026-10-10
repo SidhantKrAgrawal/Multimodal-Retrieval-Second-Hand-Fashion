@@ -1,0 +1,42 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "77% Cotton 23% Nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue t-shirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained ",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "stained ",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": "stained"
+}

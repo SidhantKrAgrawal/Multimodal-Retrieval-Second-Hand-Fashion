@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "43",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "None",
+    "colors": [
+        "Grey",
+        "Beige",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "88% Cott 12% Cont?",
+    "comment": "",
+    "usage": "Reuse"
+}

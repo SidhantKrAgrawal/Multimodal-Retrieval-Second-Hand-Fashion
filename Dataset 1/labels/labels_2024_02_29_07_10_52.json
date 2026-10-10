@@ -1,0 +1,42 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "17",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Gr\u00e5a mjukisbyxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "slitet tryck",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "nopprigt ",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": "nopprigt"
+}

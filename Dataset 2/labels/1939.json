@@ -1,0 +1,27 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "2XL",
+    "colors": [
+        "White"
+    ],
+    "season": "All season",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "2 x t-shirts",
+    "usage": "Reuse"
+}

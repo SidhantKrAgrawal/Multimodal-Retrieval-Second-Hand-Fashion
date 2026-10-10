@@ -1,0 +1,27 @@
+{
+    "brand": "E7 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Tunic",
+    "size": "16-18",
+    "colors": [
+        "Orange"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "v neck low cut top tunic, reachs above knee, very good condition, 3/4 length sleeve.",
+    "usage": "Reuse"
+}

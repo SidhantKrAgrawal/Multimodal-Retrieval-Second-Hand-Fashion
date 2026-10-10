@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "White tank top",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "stains"
+}

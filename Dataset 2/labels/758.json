@@ -1,0 +1,25 @@
+{
+    "brand": "None",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Wool/Polyester",
+    "comment": "inner breast pocket 3/4 le",
+    "usage": "Reuse"
+}

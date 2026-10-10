@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Black trousers with patterned details",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "shole ",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

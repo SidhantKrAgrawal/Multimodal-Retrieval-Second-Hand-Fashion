@@ -1,0 +1,25 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "16 (UK)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Not real leather but it a nice leather",
+    "usage": "Reuse"
+}

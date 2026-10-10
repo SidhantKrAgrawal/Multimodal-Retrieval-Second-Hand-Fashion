@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "dreams",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "100",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tights med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "smuts fl\u00e4ckar och sne s\u00f6m",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "smuts fl\u00e4ck och luddiga",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": "sne s\u00f6m"
+}

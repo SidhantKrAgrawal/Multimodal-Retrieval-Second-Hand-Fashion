@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Marcello",
+    "category": "Men",
+    "type": "Vest",
+    "size": "XL",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 2,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50% cotton, 50% acrylic",
+    "comment": "Vintage",
+    "usage": "Repair"
+}

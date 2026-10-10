@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "xlnt",
+    "brand_missing": false,
+    "size": "46",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "62% polyester 38% nylone",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 camouflage m\u00f6nstrad t-shirt, lite nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": ""
+}

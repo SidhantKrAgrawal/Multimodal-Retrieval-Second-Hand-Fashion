@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "36",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "Leather",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%viscose",
+    "comment": "",
+    "usage": "Export"
+}

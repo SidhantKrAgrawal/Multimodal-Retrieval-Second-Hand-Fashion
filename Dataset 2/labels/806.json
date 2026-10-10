@@ -1,0 +1,27 @@
+{
+    "brand": "Perry Ellis",
+    "brandtext": "Perry Ellis",
+    "category": "Men",
+    "type": "Coats",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Unwanted item.",
+    "usage": "Reuse"
+}

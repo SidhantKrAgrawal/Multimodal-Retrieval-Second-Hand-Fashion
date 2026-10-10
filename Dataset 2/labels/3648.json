@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Evening Dresses",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% silk, 100% chiffon",
+    "comment": "Size changed after having my baby, never worn",
+    "usage": "Reuse"
+}

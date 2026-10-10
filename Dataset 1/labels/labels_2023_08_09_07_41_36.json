@@ -1,0 +1,42 @@
+{
+    "brand": "High Mountain",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "Beige"
+    ],
+    "season": "Autumn",
+    "condition": 5,
+    "material": "100% nylone",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "r\u00f6da regnbyxor med logga fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Rain trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

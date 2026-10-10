@@ -1,0 +1,27 @@
+{
+    "brand": "Canada Goose",
+    "brandtext": "Canada Goose",
+    "category": "Men",
+    "type": "Parka",
+    "size": "M",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "100% Authentic",
+    "usage": "Reuse"
+}

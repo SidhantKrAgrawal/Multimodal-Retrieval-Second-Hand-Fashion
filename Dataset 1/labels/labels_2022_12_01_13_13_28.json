@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "joy",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Armani",
+    "brandtext": "Armani",
+    "category": "Men",
+    "type": "Other",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Men coat size large pick up Prescot very good condition",
+    "usage": "Reuse"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "36",
+    "colors": [
+        "Orange"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Lace",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

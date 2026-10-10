@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Basic U",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% BOMULL",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "T-SHIRT",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": " nopprig",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

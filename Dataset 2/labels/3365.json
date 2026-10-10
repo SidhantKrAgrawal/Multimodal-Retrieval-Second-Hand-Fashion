@@ -1,0 +1,25 @@
+{
+    "brand": "Tu",
+    "brandtext": "Mustard",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "16",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Built in hood",
+    "usage": "Reuse"
+}

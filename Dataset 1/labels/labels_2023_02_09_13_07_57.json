@@ -1,0 +1,36 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "\u00e5hl\u00e9ns",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "46",
+    "colors": [
+        "Multicolor",
+        "Yellow",
+        "Brown",
+        "Pink",
+        "Orange",
+        "Green",
+        "Blue",
+        "Turquoise",
+        "Red"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "1",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

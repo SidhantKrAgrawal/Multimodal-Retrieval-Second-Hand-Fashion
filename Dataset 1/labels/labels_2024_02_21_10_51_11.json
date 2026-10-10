@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Black",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "animal print cropped top",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "damaged seam",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

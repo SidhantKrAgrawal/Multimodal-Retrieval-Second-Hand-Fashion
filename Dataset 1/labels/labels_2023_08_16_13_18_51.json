@@ -1,0 +1,41 @@
+{
+    "brand": "Stockhlm",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "None",
+    "condition": 4,
+    "material": "60% wool, 37% poly, 3% elas. 100% poly",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Grey skirt from Stockhlm, size 42. Great condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

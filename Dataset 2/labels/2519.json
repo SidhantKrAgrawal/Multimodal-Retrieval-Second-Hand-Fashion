@@ -1,0 +1,27 @@
+{
+    "brand": "River Island",
+    "brandtext": "River Island",
+    "category": "Women",
+    "type": "Blouse",
+    "size": "Medium",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Silky",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Debenhams",
+    "brandtext": "Kley",
+    "category": "Women",
+    "type": "Coats",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Quilted, short coat",
+    "usage": "Reuse"
+}

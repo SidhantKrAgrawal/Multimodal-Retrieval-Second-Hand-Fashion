@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Daniel Duval Paris",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Orange"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% poly",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "Medium",
+    "description": "Orange vintage shirt for women from Daniel Duval Paris, size 38. Good condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

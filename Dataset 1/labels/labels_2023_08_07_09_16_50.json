@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "svart l\u00e5ng\u00e4rmad body/gymnastikdr\u00e4kt f\u00f6r tr\u00e4ning",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

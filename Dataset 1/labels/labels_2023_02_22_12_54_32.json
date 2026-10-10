@@ -1,0 +1,29 @@
+{
+    "brand": "Monki",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "S ",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Cropped",
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "80% viscose 20% poly",
+    "comment": "",
+    "usage": "Export"
+}

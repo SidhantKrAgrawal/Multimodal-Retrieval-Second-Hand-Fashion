@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Miad",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% viskos",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "linne med blomtryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "urtv\u00e4ttat ",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "urtv\u00e4ttat",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

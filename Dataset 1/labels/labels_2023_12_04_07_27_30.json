@@ -1,0 +1,42 @@
+{
+    "brand": "Peak Performance",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Spring",
+    "condition": 3,
+    "material": "100% nylone",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart jacka med fl\u00e4ckar p\u00e5 b\u00e5da armarna och logga fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "fl\u00e4ck arm",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "fl\u00e4ck arm",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

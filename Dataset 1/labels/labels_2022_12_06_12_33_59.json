@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Two danes",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Green"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "C-collar",
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "65% Bamboo, 30% cotton, 5% elastane",
+    "comment": "",
+    "usage": "Repair"
+}

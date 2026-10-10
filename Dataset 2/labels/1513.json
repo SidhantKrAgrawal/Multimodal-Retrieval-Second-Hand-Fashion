@@ -1,0 +1,28 @@
+{
+    "brand": "Ralph Lauren",
+    "brandtext": "Ralph Lauren",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "2XL",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checked",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "New without tags, pit to pit 26",
+    "usage": "Reuse"
+}

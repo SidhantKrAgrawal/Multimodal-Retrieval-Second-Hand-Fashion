@@ -1,0 +1,28 @@
+{
+    "brand": "Adidas",
+    "brandtext": "Adidas",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "Small",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

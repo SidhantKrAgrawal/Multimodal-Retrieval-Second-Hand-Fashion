@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "shein",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "svart l\u00e5ng\u00e4rmad magtr\u00f6ja",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "firetrap",
+    "brandtext": "firetrap/policex2/voi",
+    "category": "Men",
+    "type": "Skinny Jeans",
+    "size": "30/32 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "non branded pair of jeans",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Nike",
+    "brandtext": "Nike",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "One Size",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Cotton jersey t-shirt ribbed crew neck and short sleeves",
+    "usage": "Reuse"
+}

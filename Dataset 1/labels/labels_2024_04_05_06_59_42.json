@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Moomin",
+    "brand_missing": false,
+    "size": "98",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Orange",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "striped shirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "damaged print",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "crooked seam",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

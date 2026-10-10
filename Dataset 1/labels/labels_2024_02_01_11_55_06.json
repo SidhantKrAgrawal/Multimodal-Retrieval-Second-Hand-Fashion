@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Arman jeans",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "31",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "shorts",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "urtv\u00e4ttat",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "urtv\u00e4ttat",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "urtv\u00e4ttat"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Barbour",
+    "brandtext": "Barbour",
+    "category": "Women",
+    "type": "Coats",
+    "size": "UK10",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Too front zip pockets also inside zip pocket and black fur h",
+    "usage": "Reuse"
+}

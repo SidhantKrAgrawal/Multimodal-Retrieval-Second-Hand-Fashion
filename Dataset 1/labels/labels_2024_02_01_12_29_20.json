@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Shein",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "67% bomull 33% viskos ",
+    "usage": "Energy recovery",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rutig skjorta med bruna knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "nopprigt"
+}

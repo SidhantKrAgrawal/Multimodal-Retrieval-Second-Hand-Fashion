@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "92",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Glitter",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "slightly washed out",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

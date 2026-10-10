@@ -1,0 +1,41 @@
+{
+    "brand": "Cubus",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "152",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 shorts, h\u00e5riga",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

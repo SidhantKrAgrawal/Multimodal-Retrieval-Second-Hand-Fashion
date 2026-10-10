@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "lindbergh white",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Orange",
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "65% viskos 35% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickad sweater med broderi tryck med ribbad krage, \u00e4rmslut ovh \u00e4ndslut",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

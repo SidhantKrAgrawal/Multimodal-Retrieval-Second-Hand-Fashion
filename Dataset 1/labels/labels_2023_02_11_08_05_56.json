@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "S ",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "5",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

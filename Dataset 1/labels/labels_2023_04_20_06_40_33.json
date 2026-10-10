@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "L",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "collar seam damaged",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

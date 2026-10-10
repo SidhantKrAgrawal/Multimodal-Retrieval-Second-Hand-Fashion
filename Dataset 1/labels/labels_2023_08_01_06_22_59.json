@@ -1,0 +1,41 @@
+{
+    "brand": "Never Denim L\u00e5g",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans med h\u00e5l bak och fl\u00e4ck fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "fl\u00e4ck",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "h\u00e5l"
+}

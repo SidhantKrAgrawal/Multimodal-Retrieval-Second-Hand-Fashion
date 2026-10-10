@@ -1,0 +1,25 @@
+{
+    "brand": "Select",
+    "brandtext": "Select",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "6",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new with tag",
+    "usage": "Reuse"
+}

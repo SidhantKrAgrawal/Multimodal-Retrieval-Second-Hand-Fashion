@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Street life",
+    "category": "Children",
+    "type": "Jeans",
+    "size": "98",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

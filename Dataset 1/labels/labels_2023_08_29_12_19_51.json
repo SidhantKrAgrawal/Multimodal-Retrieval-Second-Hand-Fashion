@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "gill",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "19",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cott",
+    "usage": "Remake",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "uppsydda",
+    "annotator": "17",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

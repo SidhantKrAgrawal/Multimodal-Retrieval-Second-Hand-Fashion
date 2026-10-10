@@ -1,0 +1,42 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "120",
+    "colors": [
+        "Green",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "82% viskos 17% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "milit\u00e4r hoddie med reflex",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "nopprigt"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "ASOS",
+    "brandtext": "navy",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Brand new with tag",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "culture",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "67% viskos 33% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Svarta byxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "dammigt",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "dammigt"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Uniq Young",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "134/140",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% cott",
+    "usage": "Reuse",
+    "usage_confidence": "Medium",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "Pink t-shirt with the text \"Summer Vibes\" embroidered on the right side of it. For kids, size 134/140 from Uniq Young. Okay condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

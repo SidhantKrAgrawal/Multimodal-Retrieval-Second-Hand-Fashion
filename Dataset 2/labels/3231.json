@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Hoodie",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "my daughter ware once or twice",
+    "usage": "Reuse"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "56% polyester 44% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie med text tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

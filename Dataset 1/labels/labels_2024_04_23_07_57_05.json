@@ -1,0 +1,42 @@
+{
+    "brand": "R\u00f6hnish",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "50% bomull 50% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "rutig kjol med broderi tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

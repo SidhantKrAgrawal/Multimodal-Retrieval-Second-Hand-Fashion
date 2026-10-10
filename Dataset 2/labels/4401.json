@@ -1,0 +1,27 @@
+{
+    "brand": "PLT",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Joggers",
+    "size": "16/18",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Baggy"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Elasticated waist with drawstrings, 2 large side pockets",
+    "usage": "Reuse"
+}

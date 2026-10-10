@@ -1,0 +1,28 @@
+{
+    "brand": "Adidas",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "152",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Sports",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

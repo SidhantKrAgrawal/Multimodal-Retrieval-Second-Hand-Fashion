@@ -1,0 +1,27 @@
+{
+    "brand": "Ben Sherman",
+    "brandtext": "Ben Sherman",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "48/50",
+    "colors": [
+        "Light mouve"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Good quality, very good condition",
+    "usage": "Reuse"
+}

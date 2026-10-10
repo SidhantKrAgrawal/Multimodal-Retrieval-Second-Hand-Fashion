@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Agnes collection",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% Viscose",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "black and white tank top with pattern",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "hole",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "pulled threads",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "pulled threads"
+}

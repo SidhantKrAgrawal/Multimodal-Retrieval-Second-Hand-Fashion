@@ -1,0 +1,27 @@
+{
+    "brand": "River Island",
+    "brandtext": "River Island",
+    "category": "Women",
+    "type": "Puffer Jacket",
+    "size": "10-12/14",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Oversized"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New condition, high c",
+    "usage": "Reuse"
+}

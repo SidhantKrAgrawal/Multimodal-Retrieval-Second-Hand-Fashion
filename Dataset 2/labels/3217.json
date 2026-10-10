@@ -1,0 +1,26 @@
+{
+    "brand": "Oasis",
+    "brandtext": "Oasis-Princess Swing Zipped Coat In Black With Faux Fur Collar",
+    "category": "Women",
+    "type": "Coats",
+    "size": "S",
+    "colors": [
+        "Black",
+        "IG8 Redbridge"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used couple of",
+    "usage": "Reuse"
+}

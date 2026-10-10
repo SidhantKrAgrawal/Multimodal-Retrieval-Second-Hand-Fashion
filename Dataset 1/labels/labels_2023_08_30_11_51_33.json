@@ -1,0 +1,42 @@
+{
+    "brand": "Nly Trend",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% poly",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "",
+    "annotator": "17",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

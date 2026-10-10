@@ -1,0 +1,29 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "L",
+    "colors": [
+        "Pink",
+        "Green",
+        "Beige"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "13",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

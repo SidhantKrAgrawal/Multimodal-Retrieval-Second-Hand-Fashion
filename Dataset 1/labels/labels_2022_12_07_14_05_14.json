@@ -1,0 +1,29 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "M ",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "14",
+    "cut": [
+        "Loose",
+        "Long",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "65% Polyester, 35% cotton",
+    "comment": "Multilayer ",
+    "usage": "Export"
+}

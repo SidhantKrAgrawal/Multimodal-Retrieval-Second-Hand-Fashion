@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "clara",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viskos ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "genomskinlig cardigan med skrimrande knappar och sn\u00f6rren",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "smuts fl\u00e4ck ",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "smuts fl\u00e4ck p\u00e5 \u00e4rmslut"
+}

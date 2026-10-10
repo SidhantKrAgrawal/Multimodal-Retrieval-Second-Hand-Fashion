@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "pro touch",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "tr\u00e4nings tights med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,36 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SHEIN",
+    "category": "Children",
+    "type": "Tank top ",
+    "size": "140",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Purple",
+        "Pink",
+        "Orange",
+        "Yellow",
+        "Green",
+        "Red",
+        "Turquoise"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Cropped",
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

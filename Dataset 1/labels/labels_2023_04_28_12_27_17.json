@@ -1,0 +1,27 @@
+{
+    "brand": "Fila",
+    "brandtext": "",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "122",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "8",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

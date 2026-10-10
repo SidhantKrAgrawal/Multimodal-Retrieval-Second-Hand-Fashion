@@ -1,0 +1,27 @@
+{
+    "brand": "None",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "12-14",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "In very good condition.",
+    "usage": "Reuse"
+}

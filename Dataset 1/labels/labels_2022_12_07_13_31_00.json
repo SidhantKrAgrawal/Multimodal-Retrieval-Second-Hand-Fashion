@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Dotted Blue",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "L",
+    "colors": [
+        "Green",
+        "White",
+        "Black",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Loose",
+        "C-collar"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Loose thread",
+    "material": "100% viscose",
+    "comment": "",
+    "usage": "Recycle"
+}

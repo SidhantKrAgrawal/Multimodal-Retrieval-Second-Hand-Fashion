@@ -1,0 +1,41 @@
+{
+    "brand": "Louis Vuitton",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "m\u00f6rkbl\u00e5a h\u00f6gmidjade jeans",
+    "comment": "storlek saknas",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smutsigt runt midja",
+    "damage2image": "back",
+    "damage2loc": "top center",
+    "damage2": "smutsigt ",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "smutsigt vid gylf"
+}

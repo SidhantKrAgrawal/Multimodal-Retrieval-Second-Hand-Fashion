@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Clique",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Yellow",
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Sports t-shirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "Sports",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "kappahl (no1)",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Multicolor"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% viskos",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Skjorta med m\u00e5nga f\u00e4rger och rosa knappar",
+    "comment": "skrynklig",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

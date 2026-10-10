@@ -1,0 +1,27 @@
+{
+    "brand": "Other",
+    "brandtext": "st- mertins",
+    "category": "Women",
+    "type": "Coat",
+    "size": "XS",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Two way zipper, dabble Layer coat",
+    "usage": "Reuse"
+}

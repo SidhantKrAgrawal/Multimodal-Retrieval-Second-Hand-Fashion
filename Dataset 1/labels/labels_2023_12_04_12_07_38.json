@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "morpho",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Green",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "t-shirt med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "h\u00e5l",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "nopprigt ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

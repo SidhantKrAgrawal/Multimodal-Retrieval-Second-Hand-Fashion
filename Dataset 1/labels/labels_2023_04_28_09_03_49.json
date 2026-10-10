@@ -1,0 +1,27 @@
+{
+    "brand": "Helly Hansen",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Damaged fabric",
+    "material": "100% Nylon",
+    "comment": "",
+    "usage": "Reuse"
+}

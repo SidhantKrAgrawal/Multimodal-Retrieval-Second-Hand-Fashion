@@ -1,0 +1,25 @@
+{
+    "brand": "Penfield",
+    "brandtext": "Penfield",
+    "category": "Women",
+    "type": "Parka",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "80% Down and 20% Feathers",
+    "comment": "",
+    "usage": "Reuse"
+}

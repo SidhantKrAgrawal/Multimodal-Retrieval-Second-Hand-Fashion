@@ -1,0 +1,42 @@
+{
+    "brand": "Riley",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "48",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "Shell: 54% wool, 44% polyester; Lining: 50% polyester, 50% viscose",
+    "usage": "Remake",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Men",
+    "type": "Jacket",
+    "cut": [
+        "Oversize",
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

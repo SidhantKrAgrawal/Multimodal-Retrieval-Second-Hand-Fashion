@@ -1,0 +1,43 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% acrylic",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular",
+        "C-collar",
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "stained"
+}

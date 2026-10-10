@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Denim",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% cott",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Blue jeans from Denim, size 42. Okay condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular",
+        "Tight"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom center",
+    "damage2": "Stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

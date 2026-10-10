@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "Beige",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "67% Wool 33% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "150-250",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

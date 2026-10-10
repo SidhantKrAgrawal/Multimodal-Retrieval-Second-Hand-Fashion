@@ -1,0 +1,41 @@
+{
+    "brand": "Mango",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta kostymbyxor, h\u00e5l i midjan och l\u00e4ngst ner p\u00e5 f\u00f6tterna och fl\u00e4ckar",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "h\u00e5l",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "h\u00e5l",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": "h\u00e5l"
+}

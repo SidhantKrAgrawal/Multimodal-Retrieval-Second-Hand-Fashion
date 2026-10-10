@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Conrads",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "36",
+    "colors": [
+        "Green",
+        "Yellow"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 3,
+    "price": "100-150",
+    "annotator": "14",
+    "cut": [
+        "Tight",
+        "V-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Major",
+    "damage": "S",
+    "material": "80% cotton, 20% acrylic",
+    "comment": " Sweat stains, broken seams, broken fabric, vintage",
+    "usage": "Repair"
+}

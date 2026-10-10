@@ -1,0 +1,25 @@
+{
+    "brand": "ASOS",
+    "brandtext": "ASOS",
+    "category": "Women",
+    "type": "Other",
+    "size": "8",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Oriental",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

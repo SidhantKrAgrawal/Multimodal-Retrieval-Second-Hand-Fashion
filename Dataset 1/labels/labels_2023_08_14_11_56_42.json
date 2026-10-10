@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Protech rain wear",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "Medium",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Outerwear",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Domyos",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "80% Cotton 20% Elastane",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "black cropped trousers with stripe detail",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

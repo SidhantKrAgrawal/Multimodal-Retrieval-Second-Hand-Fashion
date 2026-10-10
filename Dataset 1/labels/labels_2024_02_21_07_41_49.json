@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "rosner",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Black tight jeans",
+    "comment": "washed out",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "damaged elastane",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

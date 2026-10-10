@@ -1,0 +1,43 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "64% cott 36% visc",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "missf\u00e4rgade armh\u00e5lor, trasig s\u00f6m",
+    "annotator": "17",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Loose",
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

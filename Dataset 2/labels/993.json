@@ -1,0 +1,25 @@
+{
+    "brand": "Stone Island",
+    "brandtext": "SL3",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "L",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "100% genuine, worn 4 times",
+    "usage": "Reuse"
+}

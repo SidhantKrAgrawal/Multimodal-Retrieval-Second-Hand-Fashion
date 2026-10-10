@@ -1,0 +1,25 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "Autograph",
+    "category": "Women",
+    "type": "Evening Dresses",
+    "size": "18",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Squash",
+    "usage": "Reuse"
+}

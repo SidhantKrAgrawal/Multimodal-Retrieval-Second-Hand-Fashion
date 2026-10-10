@@ -1,0 +1,28 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "M ",
+    "colors": [
+        "White",
+        "Green"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "90% cotton, 10% cont?",
+    "comment": "",
+    "usage": "Export"
+}

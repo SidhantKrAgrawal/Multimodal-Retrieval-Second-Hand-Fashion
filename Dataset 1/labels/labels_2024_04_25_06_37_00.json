@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "weekday",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Orange"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "kort jacka med fickor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "liten smuts fl\u00e4ck p\u00e5 \u00e4rm",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "liten smuts fl\u00e4ck p\u00e5 \u00e4rm",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

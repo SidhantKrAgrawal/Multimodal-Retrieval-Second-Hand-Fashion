@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Robell",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "50% nylon 50% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "M\u00f6rkbl\u00e5a tighta byxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "l\u00f6sa tr\u00e5dar",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "l\u00f6sa tr\u00e5dar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

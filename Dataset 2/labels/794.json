@@ -1,0 +1,25 @@
+{
+    "brand": "Moose Knuckles",
+    "brandtext": "Moose Knuckles",
+    "category": "Men",
+    "type": "Bomber Jackets",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Small size, bought for £825",
+    "usage": "Reuse"
+}

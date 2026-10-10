@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "kaffe",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "72% akryl 28% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "virkad tr\u00f6ja",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

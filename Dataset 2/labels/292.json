@@ -1,0 +1,27 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Jumper with shirt collar attached. Worn several times.",
+    "usage": "Reuse"
+}

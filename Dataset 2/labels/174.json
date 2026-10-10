@@ -1,0 +1,28 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "M&S",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Navy",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "V Neck",
+    "usage": "Reuse"
+}

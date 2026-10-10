@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Outerwear",
+    "size": "40",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "5",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "Leather",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "fake leather",
+    "usage": "Reuse"
+}

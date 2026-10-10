@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara Premium Denim Collection",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "6 (UK)",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "In mint condition £15 each or £25 both",
+    "usage": "Reuse"
+}

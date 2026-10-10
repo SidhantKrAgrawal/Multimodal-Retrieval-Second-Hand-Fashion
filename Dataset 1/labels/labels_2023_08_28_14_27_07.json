@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "basic u",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Orange"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% visc",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "17",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Regular",
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

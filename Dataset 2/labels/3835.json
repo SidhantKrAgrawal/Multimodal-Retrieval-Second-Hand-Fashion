@@ -1,0 +1,25 @@
+{
+    "brand": "Forever 21",
+    "brandtext": "None",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "6 (UK)",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Floral",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "None",
+    "usage": "Reuse"
+}

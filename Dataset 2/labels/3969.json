@@ -1,0 +1,23 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "29 (Waist Leg)",
+    "colors": [],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

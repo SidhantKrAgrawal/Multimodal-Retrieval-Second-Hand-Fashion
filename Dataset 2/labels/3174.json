@@ -1,0 +1,23 @@
+{
+    "brand": "Other",
+    "brandtext": "Lamb skin",
+    "category": "Women",
+    "type": "Winter Coats",
+    "size": "M",
+    "colors": [],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% lamb skin",
+    "comment": "High quality, luxury feel",
+    "usage": "Reuse"
+}

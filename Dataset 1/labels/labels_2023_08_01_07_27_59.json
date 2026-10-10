@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Summer",
+    "condition": 4,
+    "material": "?",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00e5tt linne, svag fl\u00e4ck i armh\u00e5la",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": ""
+}

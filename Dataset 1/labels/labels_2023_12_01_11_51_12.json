@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "128",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kl\u00e4nning med volang och spets",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Dress",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "l\u00f6sa tr\u00e5dar",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": "l\u00f6sa tr\u00e5dar"
+}

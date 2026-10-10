@@ -1,0 +1,28 @@
+{
+    "brand": "Cappuchini",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "42",
+    "colors": [
+        "Brown",
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "pulled threads",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

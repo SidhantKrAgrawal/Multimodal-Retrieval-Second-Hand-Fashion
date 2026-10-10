@@ -1,0 +1,12 @@
+(function() {
+    let elements = document.querySelectorAll("[class*=cardgrid]");
+    let htmlContent = "";
+    elements.forEach(el => htmlContent += el.outerHTML + "\n\n");
+
+    // Save as file
+    let blob = new Blob([htmlContent], { type: "text/plain" });
+    let a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "cardgrid_elements.html";
+    a.click();
+})();

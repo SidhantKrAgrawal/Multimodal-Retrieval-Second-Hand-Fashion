@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "decathlon",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "71% viscose 29% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart t-shirt med fl\u00e4ckar bak, nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "top center",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

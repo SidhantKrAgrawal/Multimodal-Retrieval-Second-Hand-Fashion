@@ -1,0 +1,41 @@
+{
+    "brand": "Helly Hansen",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "152",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "condition": 4,
+    "material": "100% nylone",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "svart vinterjacka med logga fram och fl\u00e4ckar bak som g\u00e5r bort",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Winter jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

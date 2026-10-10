@@ -1,0 +1,27 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "M ",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "98%cotton 2%elstane",
+    "comment": "",
+    "usage": "Export"
+}

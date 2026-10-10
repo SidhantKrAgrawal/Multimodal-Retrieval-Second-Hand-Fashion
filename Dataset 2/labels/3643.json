@@ -1,0 +1,25 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Dress",
+    "size": "1",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "98% Polyester, 2% Spandex",
+    "comment": "",
+    "usage": "Reuse"
+}

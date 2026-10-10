@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "r\u00f6d kl\u00e4nning med vita streck \u00f6verhela, h\u00e5l bak",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "h\u00e5l",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

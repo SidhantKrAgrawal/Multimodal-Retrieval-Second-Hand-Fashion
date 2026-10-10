@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "worthington",
+    "brand_missing": false,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "69% nylone 31% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beige kostym byxor, noppriga",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": ""
+}

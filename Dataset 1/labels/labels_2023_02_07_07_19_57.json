@@ -1,0 +1,30 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "38",
+    "colors": [
+        "Yellow",
+        "Pink",
+        "Black",
+        "Multicolor"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "14",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "74% viscose, 26% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Grand slam",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "54% Cotton 46% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Black t-shirt with collar",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "color damage",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "color damage",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

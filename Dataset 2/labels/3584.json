@@ -1,0 +1,26 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Dress",
+    "size": "",
+    "colors": [
+        "Brown",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Floral",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "No label, as taken off for comfort when worn",
+    "usage": "Reuse"
+}

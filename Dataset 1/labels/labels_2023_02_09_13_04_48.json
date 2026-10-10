@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Juliette",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "46",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Long",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "damage": "19",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "royal robbins",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Orange",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Linne med, virkat, blommigt m\u00f6nster och beiga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

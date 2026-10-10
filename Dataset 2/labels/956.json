@@ -1,0 +1,25 @@
+{
+    "brand": "Dolce & Gabbana",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Skinny Jeans",
+    "size": "50 (EU)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Only worn once",
+    "usage": "Reuse"
+}

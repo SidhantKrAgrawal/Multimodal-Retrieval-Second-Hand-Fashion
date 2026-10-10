@@ -1,0 +1,42 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Viscose",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "black t-shirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "stained",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "holes",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "stain"
+}

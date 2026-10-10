@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Crivit",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "None",
+    "condition": 5,
+    "material": "100% Polyester ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Training top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

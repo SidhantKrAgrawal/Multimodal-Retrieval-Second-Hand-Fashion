@@ -1,0 +1,25 @@
+{
+    "brand": "Jigsaw",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "10",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, RRP £65",
+    "usage": "Reuse"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Lab Industries (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "122",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "86% Cotton 14% Cont?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Jeans with elastic waistband",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

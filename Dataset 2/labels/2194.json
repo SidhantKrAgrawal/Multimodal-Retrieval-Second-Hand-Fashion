@@ -1,0 +1,28 @@
+{
+    "brand": "Nike",
+    "brandtext": "all over print",
+    "category": "Men",
+    "type": "Printed T-Shirts",
+    "size": "S",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "All over print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Logo all over, front and back",
+    "usage": "Export"
+}

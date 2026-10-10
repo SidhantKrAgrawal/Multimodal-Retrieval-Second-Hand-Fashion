@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Vila clothes",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Orange"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "80% viskos 20% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "L\u00e5ng cardigan med fickor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "luddig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "luddig",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "luddig"
+}

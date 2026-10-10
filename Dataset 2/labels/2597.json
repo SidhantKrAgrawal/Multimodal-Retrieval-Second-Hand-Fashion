@@ -1,0 +1,25 @@
+{
+    "brand": "Superdry",
+    "brandtext": "Superdry",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "S",
+    "colors": [
+        "Red"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Checked",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Originally bought from Superdry store",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Gant",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "150-250",
+    "price_confidence": "High",
+    "description": "Red sweatshirt with collar",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

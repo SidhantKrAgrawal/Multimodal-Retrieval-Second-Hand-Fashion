@@ -1,0 +1,27 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "M ",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Long"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "70%viscose 30%polyamide",
+    "comment": "",
+    "usage": "Export"
+}

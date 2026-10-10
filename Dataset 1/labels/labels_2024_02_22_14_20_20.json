@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "65% bomull 35% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kort cardigan med beiga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "nopprigt vid \u00e4rm",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "nopprigt vid \u00e4rm",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

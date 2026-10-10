@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Faux fur",
+    "category": "Women",
+    "type": "Coats",
+    "size": "One Size",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Great for keeping you warm, looks great with any outfit.",
+    "usage": "Reuse"
+}

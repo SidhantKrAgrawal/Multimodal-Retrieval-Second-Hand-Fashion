@@ -1,0 +1,43 @@
+{
+    "brand": "Sweet Sktbs",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Green",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "68% bomull 32% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig t-shirt med broderi tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "luddig",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "luddig",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "luddig"
+}

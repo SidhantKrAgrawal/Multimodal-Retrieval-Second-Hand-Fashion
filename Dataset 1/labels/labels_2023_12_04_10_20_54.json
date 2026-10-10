@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "aipi",
+    "brand_missing": false,
+    "size": "104",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "?",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "spr\u00e4ckliga tights",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

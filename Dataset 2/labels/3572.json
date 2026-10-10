@@ -1,0 +1,27 @@
+{
+    "brand": "khadder",
+    "brandtext": "brandnew",
+    "category": "Women",
+    "type": "Dress",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "embroidery on neckline soft material",
+    "usage": "Reuse"
+}

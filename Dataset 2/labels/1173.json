@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Straight Jeans",
+    "size": "28 /S",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Bundle",
+    "usage": "Reuse"
+}

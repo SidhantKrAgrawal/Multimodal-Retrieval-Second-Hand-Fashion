@@ -1,0 +1,27 @@
+{
+    "brand": "Uniqlo",
+    "brandtext": "Uniqlo",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "Repairs",
+    "material": "100%wool",
+    "comment": "Two repairs in arm pitches",
+    "usage": "Reuse"
+}

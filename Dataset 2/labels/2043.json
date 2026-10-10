@@ -1,0 +1,25 @@
+{
+    "brand": "boohooMAN",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Vests",
+    "size": "M",
+    "colors": [],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Oversized"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "soft material, would fit medium depends on look you going for",
+    "usage": "Reuse"
+}

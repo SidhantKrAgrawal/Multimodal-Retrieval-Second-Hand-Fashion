@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Typhoon rainwear",
+    "category": "Men",
+    "type": "Outerwear",
+    "size": "XXL",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Black",
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% nylon",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,32 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "RAGTAG",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Multicolor",
+        "Green",
+        "White",
+        "Yellow",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

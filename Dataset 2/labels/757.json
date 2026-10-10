@@ -1,0 +1,25 @@
+{
+    "brand": "Adidas",
+    "brandtext": "Coach",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "XS",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New in original unopened packaging",
+    "usage": "Reuse"
+}

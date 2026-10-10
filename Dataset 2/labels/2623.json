@@ -1,0 +1,25 @@
+{
+    "brand": "Primark",
+    "brandtext": "Primark",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "S",
+    "colors": [
+        "Mustard"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Only worn 1 time",
+    "usage": "Reuse"
+}

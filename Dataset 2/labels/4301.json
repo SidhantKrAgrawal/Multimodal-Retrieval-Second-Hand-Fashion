@@ -1,0 +1,25 @@
+{
+    "brand": "Debenhams",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "34S",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

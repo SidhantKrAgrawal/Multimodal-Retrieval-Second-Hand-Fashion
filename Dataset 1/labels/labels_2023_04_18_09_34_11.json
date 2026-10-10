@@ -1,0 +1,29 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "146",
+    "colors": [
+        "White",
+        "Grey"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "V-collar",
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Unknown",
+    "comment": "",
+    "usage": "Export"
+}

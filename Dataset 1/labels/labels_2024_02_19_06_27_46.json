@@ -1,0 +1,41 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w36 l30",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Black jeans",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

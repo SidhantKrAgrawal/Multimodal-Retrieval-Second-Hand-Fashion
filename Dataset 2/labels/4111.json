@@ -1,0 +1,25 @@
+{
+    "brand": "Primark",
+    "brandtext": "Primark",
+    "category": "Women",
+    "type": "Ripped Jeans",
+    "size": "6",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Cotton and elastane",
+    "comment": "Used like new",
+    "usage": "Reuse"
+}

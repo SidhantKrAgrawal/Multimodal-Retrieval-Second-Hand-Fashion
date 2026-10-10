@@ -1,0 +1,42 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "75% viscose, 20% polyester, 5% elastane",
+    "usage": "Export",
+    "usage_confidence": "Medium",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "washed out",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

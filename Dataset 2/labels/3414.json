@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Women",
+    "type": "Party & Cocktail Dresses",
+    "size": "26",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Joanna hope dress in E11 London for £80.00 for sale",
+    "usage": "Reuse"
+}

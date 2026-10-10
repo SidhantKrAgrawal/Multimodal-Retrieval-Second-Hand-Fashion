@@ -1,0 +1,25 @@
+{
+    "brand": "Pepper & Mint",
+    "brandtext": "Pepper & Mint",
+    "category": "Women",
+    "type": "Blouses",
+    "size": "L",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Only worn 1 time",
+    "usage": "Reuse"
+}

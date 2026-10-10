@@ -1,0 +1,27 @@
+{
+    "brand": "PRPS Goods & Co",
+    "brandtext": "PRPS Goods & Co",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "34x28.5",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "Striped",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slim, Straight Leg, Z",
+    "usage": "Reuse"
+}

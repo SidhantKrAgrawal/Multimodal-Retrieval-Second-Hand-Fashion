@@ -1,0 +1,28 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "XXL",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "95%viscose 5%elastane",
+    "comment": "",
+    "usage": "Export"
+}

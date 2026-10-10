@@ -1,0 +1,25 @@
+{
+    "brand": "AR Jeanz",
+    "brandtext": "AR Jeanz",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Pocket Detail Design",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand New With Tags",
+    "usage": "Reuse"
+}

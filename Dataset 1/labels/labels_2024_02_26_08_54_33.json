@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "DNY",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Black dress with glitter",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "pulled threads",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

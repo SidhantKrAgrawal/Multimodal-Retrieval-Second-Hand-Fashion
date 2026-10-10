@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "40",
+    "colors": [
+        "Pink",
+        "Black"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Lace",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

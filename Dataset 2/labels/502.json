@@ -1,0 +1,25 @@
+{
+    "brand": "Superdry",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Gilets",
+    "size": "L",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Non Hooded Sports Puffer Gilet",
+    "usage": "Reuse"
+}

@@ -1,0 +1,26 @@
+{
+    "brand": "H&M",
+    "brandtext": "H&M Men's / Boys",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "XS",
+    "colors": [
+        "Purple",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Really Nice Looking Shirt, Only Worn Twice",
+    "usage": "Reuse"
+}

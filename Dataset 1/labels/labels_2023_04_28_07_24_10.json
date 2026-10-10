@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Iconic sports",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "M ",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

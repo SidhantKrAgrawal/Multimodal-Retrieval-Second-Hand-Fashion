@@ -1,0 +1,42 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 l\u00e5ng\u00e4rmad tr\u00f6ja med h\u00f6g krage",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "fl\u00e4ck arm",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

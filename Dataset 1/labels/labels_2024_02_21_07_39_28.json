@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Laurie",
+    "brand_missing": false,
+    "size": "46",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "59% Nylon 41% Viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue tight cropped trousers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight",
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

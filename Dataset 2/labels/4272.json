@@ -1,0 +1,27 @@
+{
+    "brand": "Tu",
+    "brandtext": "Tu",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "18 (UK)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Small hole on top",
+    "usage": "Reuse"
+}

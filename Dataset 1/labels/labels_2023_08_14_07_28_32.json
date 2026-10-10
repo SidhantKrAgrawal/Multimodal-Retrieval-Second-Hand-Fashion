@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Blend",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

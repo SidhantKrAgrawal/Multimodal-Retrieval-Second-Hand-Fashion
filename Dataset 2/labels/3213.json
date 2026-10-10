@@ -1,0 +1,27 @@
+{
+    "brand": "River Island",
+    "brandtext": "River Island",
+    "category": "Women",
+    "type": "Coats",
+    "size": "10/12",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Dog Tooth Check",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Wool",
+    "comment": "New without tags, Wool look",
+    "usage": "Reuse"
+}

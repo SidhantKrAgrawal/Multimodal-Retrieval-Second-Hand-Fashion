@@ -1,0 +1,30 @@
+{
+    "brand": "Mywear (Ica)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Training top",
+    "size": "XL",
+    "colors": [
+        "Purple",
+        "Orange",
+        "Red",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Sports",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Pulled thread",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

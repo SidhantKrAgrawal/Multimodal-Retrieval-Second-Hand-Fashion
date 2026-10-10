@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Burton",
+    "category": "Men",
+    "type": "Cardigan",
+    "size": "L",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "v-collar"
+    ],
+    "pattern": "Embroidered",
+    "trend": "80s",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Washed out",
+    "material": "54% Cott 46% Poly",
+    "comment": "",
+    "usage": "Export"
+}

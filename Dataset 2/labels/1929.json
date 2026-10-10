@@ -1,0 +1,25 @@
+{
+    "brand": "Diesel",
+    "brandtext": "Diesel",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "XL",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used - couple minor imperfections",
+    "usage": "Reuse"
+}

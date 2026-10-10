@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "B\u00e4bis",
+    "category": "Children",
+    "type": "Pajamas",
+    "size": "62",
+    "colors": [
+        "Blue",
+        "White",
+        "Grey",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Washed out",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Recycle"
+}

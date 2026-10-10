@@ -1,0 +1,41 @@
+{
+    "brand": "Part Two",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% silke",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "stickad tr\u00f6ja med ribbad krage, \u00e4ndslut och \u00e4rmslut",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "luddig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "luddig",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

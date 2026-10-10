@@ -1,0 +1,42 @@
+{
+    "brand": "Soc (Stadium)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "58% cott, 42% poly",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Bluw and grey sweatpants from SOC by Stadium, size XL. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Unisex",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "Washed out color",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

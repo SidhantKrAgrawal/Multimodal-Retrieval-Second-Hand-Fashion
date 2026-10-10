@@ -1,0 +1,27 @@
+{
+    "brand": "ASOS",
+    "brandtext": "ASOS",
+    "category": "Men",
+    "type": "Jean Jackets",
+    "size": "XS",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Fitted, not worn",
+    "usage": "Reuse"
+}

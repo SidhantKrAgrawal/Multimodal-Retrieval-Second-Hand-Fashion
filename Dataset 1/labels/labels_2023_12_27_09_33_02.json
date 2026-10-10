@@ -1,0 +1,42 @@
+{
+    "brand": "Skill",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "80",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "?",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "gr\u00e5 tjocktr\u00f6ja med bilar p\u00e5",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

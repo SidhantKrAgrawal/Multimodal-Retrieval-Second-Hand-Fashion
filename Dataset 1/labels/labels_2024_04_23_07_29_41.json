@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Turquoise"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng tight kjol med slits nertill",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "sm\u00e5 h\u00e5l ",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "l\u00f6sa tr\u00e5dar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

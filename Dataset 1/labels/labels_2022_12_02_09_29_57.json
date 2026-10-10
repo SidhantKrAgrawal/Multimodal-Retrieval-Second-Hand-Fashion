@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "L",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Loose"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

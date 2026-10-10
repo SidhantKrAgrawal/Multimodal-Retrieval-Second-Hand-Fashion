@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Sincerely Love",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "M ",
+    "colors": [
+        "White",
+        "Pink"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

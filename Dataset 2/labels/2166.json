@@ -1,0 +1,25 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Tank Tops",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "Small",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Little hole on the side shown in the picture",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "84% Cotton 16% Nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "red top with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "hole",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "damaged print",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "damaged seams"
+}

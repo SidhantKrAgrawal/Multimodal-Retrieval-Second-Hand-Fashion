@@ -1,0 +1,27 @@
+{
+    "brand": "Bench",
+    "brandtext": "Bench",
+    "category": "Men",
+    "type": "Bootcut Jeans",
+    "size": "32 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Bootcut"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "98% cotton 2% ela",
+    "comment": "Bench boot cut jeans with faded finish.",
+    "usage": "Reuse"
+}

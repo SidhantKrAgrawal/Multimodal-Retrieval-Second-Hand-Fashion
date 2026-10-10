@@ -1,0 +1,30 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "None",
+    "colors": [
+        "White",
+        "Black",
+        "Brown"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "17",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% acrylic",
+    "comment": "",
+    "usage": "Reuse"
+}

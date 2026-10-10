@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "yest",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "42",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

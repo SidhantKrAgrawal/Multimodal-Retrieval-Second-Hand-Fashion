@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "None",
+    "condition": 5,
+    "material": "unknown",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "black jeans",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

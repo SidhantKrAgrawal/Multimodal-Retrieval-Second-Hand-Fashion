@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Red Green",
+    "category": "Men",
+    "type": "Outerwear",
+    "size": "None",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "Red",
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "90s",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "71% cotton, 29% polyester",
+    "comment": "",
+    "usage": "Export"
+}

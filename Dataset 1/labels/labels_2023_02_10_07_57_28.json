@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Milla",
+    "category": "Ladies",
+    "type": "Denim jacket",
+    "size": "46",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "72% Cott 28% Visc",
+    "comment": "",
+    "usage": "Reuse"
+}

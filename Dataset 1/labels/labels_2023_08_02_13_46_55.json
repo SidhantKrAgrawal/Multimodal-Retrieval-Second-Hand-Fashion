@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Pacific San Diego",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Red"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% nylo",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Old jacket, maybe from the 80's or 90's. From Pacific San Diego, size S. Okay condition but collar is very dirty. ",
+    "comment": "",
+    "annotator": "13",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

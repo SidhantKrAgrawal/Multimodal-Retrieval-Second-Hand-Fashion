@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "None",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "Minor",
+    "damage": "1",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

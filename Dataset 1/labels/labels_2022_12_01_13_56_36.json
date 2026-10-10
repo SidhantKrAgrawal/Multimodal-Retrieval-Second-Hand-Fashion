@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "VILA",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "M ",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "75%viscose 25%polyester",
+    "comment": "",
+    "usage": "Export"
+}

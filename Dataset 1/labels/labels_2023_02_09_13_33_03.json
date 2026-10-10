@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "PETER HAHN",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "48",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%silk",
+    "comment": "",
+    "usage": "Reuse"
+}

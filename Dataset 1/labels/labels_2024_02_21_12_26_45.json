@@ -1,0 +1,41 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "57% viskos 43% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Ribbad l\u00e5ng\u00e4rmad top",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "nopprigt p\u00e5 \u00e4rmar",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "h\u00e5l ",
+    "damage3image": "back",
+    "damage3loc": "top left",
+    "damage3": "smuts fl\u00e4ck"
+}

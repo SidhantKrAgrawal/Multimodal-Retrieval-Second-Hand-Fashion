@@ -1,0 +1,28 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Shorts",
+    "size": "62",
+    "colors": [
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "washed out",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

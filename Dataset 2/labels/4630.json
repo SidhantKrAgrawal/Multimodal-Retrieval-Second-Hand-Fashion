@@ -1,0 +1,28 @@
+{
+    "brand": "Primark",
+    "brandtext": "Navy & White Striped",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "10",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Elasticated waist, Two front side pockets, Stitched",
+    "usage": "Reuse"
+}

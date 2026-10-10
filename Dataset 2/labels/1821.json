@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Vests",
+    "size": "XL",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Soft thick cotton. Worn and washed. Made in Bangladesh",
+    "usage": "Reuse"
+}

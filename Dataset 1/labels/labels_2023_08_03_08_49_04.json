@@ -1,0 +1,42 @@
+{
+    "brand": "Reebok",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tv\u00e5 f\u00e4rgad tr\u00f6ja med text p\u00e5 armarna, mycket nopprig \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Your NEIGHBORS",
+    "brandtext": "Your NEIGHBORS",
+    "category": "Women",
+    "type": "Other",
+    "size": "XS",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        ""
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

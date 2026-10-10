@@ -1,0 +1,42 @@
+{
+    "brand": "Soc (Stadium)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "146",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tv\u00e5 f\u00e4rgad tr\u00e4nings t-shirt med \"rutor\", nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Geometric print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

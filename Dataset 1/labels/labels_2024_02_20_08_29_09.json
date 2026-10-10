@@ -1,0 +1,41 @@
+{
+    "brand": "J-Crew",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "grey top",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "stain",
+    "damage2image": "back",
+    "damage2loc": "middle left",
+    "damage2": "hole",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

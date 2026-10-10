@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "93% Polyester 7% Cont?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Pink shirt jacket ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Oversize"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stained",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": "stained"
+}

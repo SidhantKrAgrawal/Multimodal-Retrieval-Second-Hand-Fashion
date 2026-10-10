@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Coats",
+    "size": "XL",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

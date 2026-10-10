@@ -1,0 +1,31 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Top",
+    "size": "50",
+    "colors": [
+        "White",
+        "Beige",
+        "Brown",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

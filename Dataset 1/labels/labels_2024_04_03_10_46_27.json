@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "segers",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "58% bomull 42% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 skjorta med bl\u00e5a knappar",
+    "comment": "1943 ",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "svet fl\u00e4ckar runt krage",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "svett fl\u00e4ckar ",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "svett fl\u00e4ckar "
+}

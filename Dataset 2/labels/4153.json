@@ -1,0 +1,27 @@
+{
+    "brand": "Tu",
+    "brandtext": "TU",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "14L",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Dark red skinny trousers in SE4 London for £5.00 for sale",
+    "usage": "Reuse"
+}

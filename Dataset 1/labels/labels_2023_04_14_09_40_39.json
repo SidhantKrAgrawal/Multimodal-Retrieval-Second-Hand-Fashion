@@ -1,0 +1,28 @@
+{
+    "brand": "Indiska",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "L",
+    "colors": [
+        "Grey",
+        "Yellow"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "8",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

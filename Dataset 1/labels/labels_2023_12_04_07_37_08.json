@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "the ragged priest",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "stor randig t-shirt med text fram, h\u00e5rig",
+    "comment": "h\u00e5rig",
+    "annotator": "10",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "Oversize"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

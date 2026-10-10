@@ -1,0 +1,27 @@
+{
+    "brand": "Solid",
+    "brandtext": "Solid",
+    "category": "Women",
+    "type": "Joggers",
+    "size": "S",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Bleach marks",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Indiska",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "57% akryl 43% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickad cardigan med ribbad \u00e4ndslut, krage och \u00e4ndslut ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "l\u00f6s knapp"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Original Penguin",
+    "brandtext": "Original Penguin",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "Floral",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Heritage slim fit",
+    "usage": "Reuse"
+}

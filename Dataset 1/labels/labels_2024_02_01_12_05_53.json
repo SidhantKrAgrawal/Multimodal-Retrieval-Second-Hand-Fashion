@@ -1,0 +1,42 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "shorts med rutm\u00f6nster ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

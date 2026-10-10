@@ -1,0 +1,26 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "32/34 (Waist Leg)",
+    "colors": [
+        "Grey",
+        "Navy"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Checked",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "BNWT, never tried on",
+    "usage": "Reuse"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "NBC(new body concept)",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Blue",
+        "Red"
+    ],
+    "season": "Summer",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "svart linne med blommor, hj\u00e4rtan och text fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "90s",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

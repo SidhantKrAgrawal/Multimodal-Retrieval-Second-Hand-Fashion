@@ -1,0 +1,42 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Sweater med paljetter",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "nopprigt och sne s\u00f6m",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "nopprigt och sne s\u00f6m",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

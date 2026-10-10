@@ -1,0 +1,41 @@
+{
+    "brand": "Fransa",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% Viscose",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue top",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

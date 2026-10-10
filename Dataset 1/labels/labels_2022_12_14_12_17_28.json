@@ -1,0 +1,27 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "134",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Major",
+    "damage": "2",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

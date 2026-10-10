@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Rabers Saloner",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% cott",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Sheer white top from Rabers Saloner, size S. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "V-collar",
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

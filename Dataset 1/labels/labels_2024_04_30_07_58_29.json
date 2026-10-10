@@ -1,0 +1,42 @@
+{
+    "brand": "Soc (Stadium)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "red crewneck sweatshirt ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle left",
+    "damage": "hole",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

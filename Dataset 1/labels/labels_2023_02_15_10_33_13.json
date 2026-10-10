@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "ebbe",
+    "category": "Children",
+    "type": "Tank top ",
+    "size": "128",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

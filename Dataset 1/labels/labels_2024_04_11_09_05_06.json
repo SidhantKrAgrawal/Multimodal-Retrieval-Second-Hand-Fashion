@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng\u00e4rmad tr\u00f6ja",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "smuts fl\u00e4kar",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "smuts fl\u00e4ckar p\u00e5 \u00e4rmar"
+}

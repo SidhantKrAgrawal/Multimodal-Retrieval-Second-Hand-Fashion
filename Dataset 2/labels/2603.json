@@ -1,0 +1,27 @@
+{
+    "brand": "River Island",
+    "brandtext": "Dusky Pink",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "8",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New from pet and smoke free home",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Homemade",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "None",
+    "condition": 4,
+    "material": "725 wool, 28% acry",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Pink homemade knitted sweater, no size. Good condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

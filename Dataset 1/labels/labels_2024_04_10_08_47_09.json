@@ -1,0 +1,42 @@
+{
+    "brand": "Bondelid",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "57% nylon 43% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng puffig jacka med broderi tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar ",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "l\u00f6s tr\u00e5dar p\u00e5 dragkedja",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

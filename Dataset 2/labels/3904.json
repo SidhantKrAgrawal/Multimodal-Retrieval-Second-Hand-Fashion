@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara High Waisted Slim Jeans",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "M",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "High Waisted Slim Jeans",
+    "usage": "Reuse"
+}

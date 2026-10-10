@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "shein",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "82% polyester 18% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "rutig skjorta",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": ""
+}

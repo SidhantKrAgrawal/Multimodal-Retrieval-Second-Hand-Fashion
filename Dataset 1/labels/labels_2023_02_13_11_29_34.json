@@ -1,0 +1,27 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Robe",
+    "size": "None",
+    "colors": [
+        "Red"
+    ],
+    "season": "Winter",
+    "pilling": 4,
+    "condition": 4,
+    "price": "150-250",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "60%wool 30%polyester 10%nylon",
+    "comment": "",
+    "usage": "Export"
+}

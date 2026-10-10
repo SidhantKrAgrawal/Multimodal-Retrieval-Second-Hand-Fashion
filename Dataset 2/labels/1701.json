@@ -1,0 +1,27 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Polo Shirt",
+    "size": "Large",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Selling as it no longer fit my husband. Has been washed and comes free.",
+    "usage": "Reuse"
+}

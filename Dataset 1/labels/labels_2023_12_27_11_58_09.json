@@ -1,0 +1,42 @@
+{
+    "brand": "Fbsisters (New Yorker)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "60% bomull 40% polyester",
+    "usage": "Energy recovery",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "f\u00e4rg fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Skill",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "110",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "60% Cotton 40% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

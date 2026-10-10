@@ -1,0 +1,29 @@
+{
+    "brand": "Other",
+    "brandtext": "Pull&Bear",
+    "category": "Women",
+    "type": "Bomber Jackets",
+    "size": "S",
+    "colors": [
+        "Grey",
+        "Beige",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checked",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Ladies padded short jacket with 4 inner pockets and 2 outer pockets",
+    "usage": "Reuse"
+}

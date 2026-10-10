@@ -1,0 +1,42 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "74",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "body med tryck",
+    "comment": "urtv\u00e4ttat och missf\u00e4rgad",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smutsigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "smutsigt",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "smutsigt"
+}

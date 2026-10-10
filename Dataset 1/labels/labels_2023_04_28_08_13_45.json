@@ -1,0 +1,29 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "S ",
+    "colors": [
+        "Blue",
+        "White",
+        "Red"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "80% Viscose 20% Cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

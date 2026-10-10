@@ -1,0 +1,41 @@
+{
+    "brand": "Soya/Soyaconcept",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "79% cotton 21% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beige byxor, fl\u00e4ckar fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "reaction",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "61% bomull 39% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kort kjol med sn\u00f6rre och tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Skirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "luddigt",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

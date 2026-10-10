@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "S.C.W",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "83% Cotton 17% Nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Red t-shirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "holes",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "hole",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

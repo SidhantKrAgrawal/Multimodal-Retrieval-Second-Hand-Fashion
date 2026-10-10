@@ -1,0 +1,28 @@
+{
+    "brand": "Cross Sportwear",
+    "brandtext": "",
+    "category": "Unisex",
+    "type": "Outerwear",
+    "size": "L",
+    "colors": [
+        "Black",
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "5",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

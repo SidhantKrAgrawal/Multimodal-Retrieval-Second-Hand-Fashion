@@ -1,0 +1,25 @@
+{
+    "brand": "Hollister",
+    "brandtext": "Hollister",
+    "category": "Men",
+    "type": "Long Sleeve Tops",
+    "size": "XS",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Printed",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "RP £35",
+    "usage": "Reuse"
+}

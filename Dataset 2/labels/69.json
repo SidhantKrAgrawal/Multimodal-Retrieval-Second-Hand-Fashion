@@ -1,0 +1,25 @@
+{
+    "brand": "Philipp plein",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Crossbow",
+    "usage": "Reuse"
+}

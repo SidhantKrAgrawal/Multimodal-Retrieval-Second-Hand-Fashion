@@ -1,0 +1,27 @@
+{
+    "brand": "G Star Raw",
+    "brandtext": "G star brave soul",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Handmade",
+    "usage": "Reuse"
+}

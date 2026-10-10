@@ -1,0 +1,41 @@
+{
+    "brand": "Only",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "29/32",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "Medium",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 jeans med fl\u00e4ck p\u00e5 bakficka",
+    "comment": "special l\u00e5dan",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top right",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

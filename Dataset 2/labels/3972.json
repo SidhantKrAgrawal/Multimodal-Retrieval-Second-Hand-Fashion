@@ -1,0 +1,25 @@
+{
+    "brand": "Oasis",
+    "brandtext": "Oasis",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "10 (UK)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Quality and stylish",
+    "usage": "Reuse"
+}

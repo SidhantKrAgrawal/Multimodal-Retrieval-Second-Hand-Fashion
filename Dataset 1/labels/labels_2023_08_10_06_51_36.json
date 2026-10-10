@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "rabalder",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "White",
+        "Black"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randigt linne, l\u00e4tt nopprigt, fl\u00e4ck fram och sned i s\u00f6mmar",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "back",
+    "damage2loc": "top right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

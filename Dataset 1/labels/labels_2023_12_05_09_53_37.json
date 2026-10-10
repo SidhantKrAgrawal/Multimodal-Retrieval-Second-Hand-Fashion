@@ -1,0 +1,43 @@
+{
+    "brand": "New Look",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Brown",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "64% polyester 36% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tref\u00e4rgad tjocktr\u00f6ja, mycket nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "middle left",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

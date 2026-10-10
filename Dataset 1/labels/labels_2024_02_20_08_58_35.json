@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "72% Cotton 28% Nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jean shirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom left",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

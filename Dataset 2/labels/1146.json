@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara",
+    "category": "Men",
+    "type": "Ripped Jeans",
+    "size": "44 (EU)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Label at back has torn",
+    "usage": "Reuse"
+}

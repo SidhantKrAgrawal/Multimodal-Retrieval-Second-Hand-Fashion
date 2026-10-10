@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viskos ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng t-shirt kl\u00e4nning",
+    "comment": "storlek saknas",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt och luktar illa",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt ",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

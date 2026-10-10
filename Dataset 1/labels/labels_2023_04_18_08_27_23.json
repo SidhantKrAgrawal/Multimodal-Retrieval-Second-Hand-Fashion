@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Betty Boop",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "XL",
+    "colors": [
+        "White",
+        "Blue",
+        "Pink",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Tight",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

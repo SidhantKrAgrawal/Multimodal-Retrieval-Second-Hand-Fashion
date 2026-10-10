@@ -1,0 +1,29 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "L",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "95%polyester 5%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

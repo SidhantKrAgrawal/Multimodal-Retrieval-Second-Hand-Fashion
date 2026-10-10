@@ -1,0 +1,25 @@
+{
+    "brand": "Vivienne Westwood",
+    "brandtext": "Vivienne Westwood",
+    "category": "Men",
+    "type": "Straight Jeans",
+    "size": "27/30 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Rarely worn, can deliver if local for fuel costs!",
+    "usage": "Reuse"
+}

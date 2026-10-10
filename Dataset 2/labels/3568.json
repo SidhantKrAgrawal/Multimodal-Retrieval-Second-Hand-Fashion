@@ -1,0 +1,27 @@
+{
+    "brand": "E7 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "16",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Few hours used, 3 stones missing",
+    "usage": "Reuse"
+}

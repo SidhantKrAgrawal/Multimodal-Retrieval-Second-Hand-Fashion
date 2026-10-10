@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "spader dam",
+    "category": "Ladies",
+    "type": "Shirt",
+    "size": "42",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "71% polyester 29% cotton",
+    "comment": "vintage",
+    "usage": "Reuse"
+}

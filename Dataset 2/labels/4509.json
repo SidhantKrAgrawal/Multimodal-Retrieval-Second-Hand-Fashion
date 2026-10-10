@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "10 (UK)",
+    "colors": [
+        "Khaki"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slouchy"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used but in great condition. Selling as they’re a bit too loose.",
+    "usage": "Reuse"
+}

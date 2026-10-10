@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "marwin sports",
+    "brand_missing": true,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Yellow",
+        "Pink"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% cott",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "vintage",
+    "annotator": "17",
+    "category": "Unisex",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

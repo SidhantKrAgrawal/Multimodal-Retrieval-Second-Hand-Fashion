@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Ski industries",
+    "brand_missing": false,
+    "size": "146",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "60% bomull 40% polyester ",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "mjukis byxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "back",
+    "damage2loc": "top center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "nopprigt"
+}

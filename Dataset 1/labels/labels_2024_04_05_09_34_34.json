@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Vintage knox",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "unknown",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "black jeans with distressing and holes",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": true,
+    "damageimage": "back",
+    "damageloc": "bottom left",
+    "damage": "damaged hem",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

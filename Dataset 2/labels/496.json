@@ -1,0 +1,25 @@
+{
+    "brand": "Blake's",
+    "brandtext": "Blake's",
+    "category": "Men",
+    "type": "Leather Jackets",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "Vintage",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Vintage jacket in E11 London for £40.00 for sale",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "aimn",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "80% polyester 20% elastane",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "randiga tr\u00e4nings tights med logga fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Women",
+    "type": "Leggings",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "absolutely gorgeous top quality designer style",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Feraud",
+    "brandtext": "Feraud",
+    "category": "Men",
+    "type": "Coats",
+    "size": "40 (EU)",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Cashmere coat",
+    "usage": "Reuse"
+}

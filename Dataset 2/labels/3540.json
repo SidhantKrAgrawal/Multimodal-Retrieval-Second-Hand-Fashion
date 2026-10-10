@@ -1,0 +1,25 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Sari",
+    "size": "One Size",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Ready made, worn once",
+    "usage": "Reuse"
+}

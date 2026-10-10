@@ -1,0 +1,25 @@
+{
+    "brand": "Mackenzie",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "XXL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Full sleeves, Used but in excellent condition",
+    "usage": "Reuse"
+}

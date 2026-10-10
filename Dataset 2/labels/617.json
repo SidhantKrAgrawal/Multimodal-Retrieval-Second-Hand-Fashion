@@ -1,0 +1,27 @@
+{
+    "brand": "Barbour",
+    "brandtext": "Barbour",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, unworn",
+    "usage": "Reuse"
+}

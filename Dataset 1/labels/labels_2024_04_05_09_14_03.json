@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Natural",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Beige",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "unknown",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "t-shirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "crooked seam",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "damaged seam",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

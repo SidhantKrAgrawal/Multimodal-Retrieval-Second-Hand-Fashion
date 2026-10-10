@@ -1,0 +1,25 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Plaid",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Smart black and white plaid",
+    "usage": "Reuse"
+}

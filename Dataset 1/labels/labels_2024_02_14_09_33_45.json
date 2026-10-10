@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "lola",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beige v\u00e4st med fl\u00e4ckar fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Vest",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle right",
+    "damage3": ""
+}

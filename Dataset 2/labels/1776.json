@@ -1,0 +1,25 @@
+{
+    "brand": "Daniel Ellissa",
+    "brandtext": "Daniel Ellissa",
+    "category": "Men",
+    "type": "Dress Shirt",
+    "size": "2XL",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Matching tie and handkerchief included",
+    "usage": "Reuse"
+}

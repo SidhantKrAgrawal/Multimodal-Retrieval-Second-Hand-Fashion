@@ -1,0 +1,27 @@
+{
+    "brand": "Stradivarius",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Other",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Has 2 front pockets",
+    "usage": "Reuse"
+}

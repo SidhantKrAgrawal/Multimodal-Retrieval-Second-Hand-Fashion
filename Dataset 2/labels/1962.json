@@ -1,0 +1,25 @@
+{
+    "brand": "Billionaire Boys club",
+    "brandtext": "black moon man",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Unisex flex",
+    "usage": "Reuse"
+}

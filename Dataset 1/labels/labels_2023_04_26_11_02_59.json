@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "OXIDE",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "134",
+    "colors": [
+        "Black",
+        "Green"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "Sports",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Logo print is coming off",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Recycle"
+}

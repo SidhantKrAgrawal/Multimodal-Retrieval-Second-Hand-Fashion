@@ -1,0 +1,27 @@
+{
+    "brand": "Superdry",
+    "brandtext": "Super Dryer",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Age 10-15",
+    "usage": "Reuse"
+}

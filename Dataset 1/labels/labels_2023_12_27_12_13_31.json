@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Land&lake",
+    "brand_missing": false,
+    "size": "116",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "onepeace",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Outerwear",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "v\u00e5gig dragkedja"
+}

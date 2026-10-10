@@ -1,0 +1,42 @@
+{
+    "brand": "On The Peak",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "52",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyster",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "flis tr\u00f6ja med tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "trasig dragkedja",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

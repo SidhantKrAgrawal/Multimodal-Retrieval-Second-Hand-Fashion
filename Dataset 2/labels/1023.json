@@ -1,0 +1,27 @@
+{
+    "brand": "Tommy Hilfiger",
+    "brandtext": "TH Flex Bleecker",
+    "category": "Men",
+    "type": "Slim Jeans",
+    "size": "30",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

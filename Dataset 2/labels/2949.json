@@ -1,0 +1,25 @@
+{
+    "brand": "Primark",
+    "brandtext": "Primark",
+    "category": "Women",
+    "type": "Coats",
+    "size": "8 (UK)",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Women’s long grey coat, knee length.",
+    "usage": "Reuse"
+}

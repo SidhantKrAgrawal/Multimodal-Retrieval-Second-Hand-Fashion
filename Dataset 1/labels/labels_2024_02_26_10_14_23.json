@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Atelier",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue ribbed trousers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "pulled thread",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "pulled threads",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "pulled threads"
+}

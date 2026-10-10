@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "152",
+    "sizetext": "",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00f6na kn\u00e4byxor med fl\u00e4ck fram och h\u00e5l bak",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "h\u00e5l",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "fl\u00e4ck",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "M&S",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "18P (UK)",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Ladies trousers with two back pockets and two front pockets side elasticated waist, new with tags",
+    "usage": "Reuse"
+}

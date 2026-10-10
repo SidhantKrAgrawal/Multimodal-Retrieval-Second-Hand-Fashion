@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Bespoke",
+    "category": "Women",
+    "type": "Other",
+    "size": "XS",
+    "colors": [
+        "White"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Bespoke white fox fur Gilet XS in N1 Islington for £450.00 for sale",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "42",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% Cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

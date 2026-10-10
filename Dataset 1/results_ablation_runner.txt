@@ -1,0 +1,2642 @@
+Device: cpu
+Dataset: 1
+
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Modality dims  : {'image_clip': 512, 'image_dino': 768, 'text_clip': 512, 'text_qwen': 1536}
+
+============================================================
+ABLATION: FULL
+  Full model — no overrides (baseline)
+============================================================
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Modality dims  : {'image_clip': 512, 'image_dino': 768, 'text_clip': 512, 'text_qwen': 1536}
+  Label entries  : 6106
+  Aligned labels : 6106/6106 non-empty
+  item_similarity smoke-test: sim=0.1500  (Children/Winter trousers vs Men/Jacket)
+
+Building concat embeddings for pseudo-label mining...
+  [PseudoLabelMiner] concat_emb: torch.Size([6106, 3328]), hard_threshold=0.6, pseudo_cos_threshold=0.85
+Initialising projections from concat baseline...
+  Concat-init complete.
+
+============================================================
+PHASE 1: Partial freeze (5 epochs, lr=0.0003)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 1071
+    Pseudo positives  : 0
+    Negatives         : 7057
+    Positive rate     : 0.1318
+    Mean label sim    : 0.3466
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P1 Epoch 1/5 | loss=4.0132 | supcon=4.6381 | uniformity=-2.0831
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 2/5 | loss=4.0201 | supcon=4.6440 | uniformity=-2.0795
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 3/5 | loss=4.0125 | supcon=4.6371 | uniformity=-2.0819
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 4/5 | loss=4.0127 | supcon=4.6342 | uniformity=-2.0718
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 5/5 | loss=4.0061 | supcon=4.6286 | uniformity=-2.0749
+
+============================================================
+PHASE 2: Full fine-tune (50 epochs, lr=0.0001)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 887
+    Pseudo positives  : 30
+    Negatives         : 7211
+    Positive rate     : 0.1128
+    Mean label sim    : 0.2784
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P2 Epoch 1/50 | loss=2.7742 | supcon=3.6323 | uniformity=-2.8602 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 2/50 | loss=2.4594 | supcon=3.4116 | uniformity=-3.1739 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 3/50 | loss=2.4379 | supcon=3.4292 | uniformity=-3.3044 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 4/50 | loss=2.3506 | supcon=3.3585 | uniformity=-3.3595 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 5/50 | loss=2.3420 | supcon=3.3711 | uniformity=-3.4303 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 6/50 | loss=2.2715 | supcon=3.3203 | uniformity=-3.4960 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 7/50 | loss=2.2778 | supcon=3.3421 | uniformity=-3.5478 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 8/50 | loss=2.2118 | supcon=3.2965 | uniformity=-3.6157 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 9/50 | loss=2.2377 | supcon=3.3304 | uniformity=-3.6421 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 10/50 | loss=2.2242 | supcon=3.3249 | uniformity=-3.6692 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 11/50 | loss=2.3177 | supcon=3.3531 | uniformity=-3.4512 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 12/50 | loss=2.3060 | supcon=3.3187 | uniformity=-3.3758 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 13/50 | loss=2.2678 | supcon=3.2877 | uniformity=-3.3996 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 14/50 | loss=2.2683 | supcon=3.2995 | uniformity=-3.4372 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 15/50 | loss=2.2876 | supcon=3.3337 | uniformity=-3.4873 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 16/50 | loss=2.2433 | supcon=3.3009 | uniformity=-3.5255 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 17/50 | loss=2.1781 | supcon=3.2585 | uniformity=-3.6013 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 18/50 | loss=2.2039 | supcon=3.2886 | uniformity=-3.6157 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 19/50 | loss=2.1535 | supcon=3.2526 | uniformity=-3.6636 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 20/50 | loss=2.1485 | supcon=3.2522 | uniformity=-3.6788 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 21/50 | loss=2.2427 | supcon=3.2762 | uniformity=-3.4450 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 22/50 | loss=2.2639 | supcon=3.2957 | uniformity=-3.4396 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 23/50 | loss=2.2444 | supcon=3.2800 | uniformity=-3.4523 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 24/50 | loss=2.2298 | supcon=3.2735 | uniformity=-3.4790 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 25/50 | loss=2.2059 | supcon=3.2600 | uniformity=-3.5136 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 26/50 | loss=2.1620 | supcon=3.2297 | uniformity=-3.5591 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 27/50 | loss=2.1498 | supcon=3.2305 | uniformity=-3.6023 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 28/50 | loss=2.1628 | supcon=3.2480 | uniformity=-3.6176 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 29/50 | loss=2.1599 | supcon=3.2612 | uniformity=-3.6711 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 30/50 | loss=2.1146 | supcon=3.2229 | uniformity=-3.6942 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 31/50 | loss=2.1824 | supcon=3.2364 | uniformity=-3.5133 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 32/50 | loss=2.2002 | supcon=3.2482 | uniformity=-3.4934 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 33/50 | loss=2.1985 | supcon=3.2502 | uniformity=-3.5056 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 34/50 | loss=2.1984 | supcon=3.2531 | uniformity=-3.5160 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 35/50 | loss=2.2006 | supcon=3.2638 | uniformity=-3.5440 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 36/50 | loss=2.1473 | supcon=3.2231 | uniformity=-3.5859 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 37/50 | loss=2.1599 | supcon=3.2465 | uniformity=-3.6220 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 38/50 | loss=2.1069 | supcon=3.2014 | uniformity=-3.6484 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 39/50 | loss=2.0811 | supcon=3.1874 | uniformity=-3.6875 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 40/50 | loss=2.0790 | supcon=3.1839 | uniformity=-3.6830 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 41/50 | loss=2.1603 | supcon=3.2134 | uniformity=-3.5105 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 42/50 | loss=2.1925 | supcon=3.2387 | uniformity=-3.4872 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 43/50 | loss=2.1553 | supcon=3.2082 | uniformity=-3.5094 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 44/50 | loss=2.1568 | supcon=3.2009 | uniformity=-3.4804 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 45/50 | loss=2.1460 | supcon=3.2134 | uniformity=-3.5582 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 46/50 | loss=2.1458 | supcon=3.2196 | uniformity=-3.5793 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 47/50 | loss=2.1343 | supcon=3.2192 | uniformity=-3.6164 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 48/50 | loss=2.1153 | supcon=3.2091 | uniformity=-3.6458 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 49/50 | loss=2.0535 | supcon=3.1588 | uniformity=-3.6843 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 50/50 | loss=2.0468 | supcon=3.1570 | uniformity=-3.7006 | lr=1.00e-04
+  Restored best checkpoint (loss=2.0468)
+
+Saved model to 'Dataset 1/ablation_models/selfattention_full.pt'
+  Embeddings saved → Dataset 1/fused_embeddings/ablation_selfattention_full.npy  shape=(6106, 1024)
+  Building HNSW index...
+  Running GT evaluation...
+  GT results:
+    recall       @5: 0.0796  @10: 0.1368  @20: 0.2252
+    ndcg         @5: 0.9628  @10: 0.9453  @20: 0.9203
+    precision    @5: 0.9518  @10: 0.9225  @20: 0.8747
+  Running profile evaluation (k=10)...
+    ILD@10        0.3952
+
+============================================================
+ABLATION: NO_UNIFORMITY
+  Overrides : {'LAMBDA_UNIFORMITY': 0.0}
+============================================================
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Modality dims  : {'image_clip': 512, 'image_dino': 768, 'text_clip': 512, 'text_qwen': 1536}
+  Label entries  : 6106
+  Aligned labels : 6106/6106 non-empty
+  item_similarity smoke-test: sim=0.1500  (Children/Winter trousers vs Men/Jacket)
+
+Building concat embeddings for pseudo-label mining...
+  [PseudoLabelMiner] concat_emb: torch.Size([6106, 3328]), hard_threshold=0.6, pseudo_cos_threshold=0.85
+Initialising projections from concat baseline...
+  Concat-init complete.
+
+============================================================
+PHASE 1: Partial freeze (5 epochs, lr=0.0003)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 846
+    Pseudo positives  : 100
+    Negatives         : 7182
+    Positive rate     : 0.1164
+    Mean label sim    : 0.2711
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P1 Epoch 1/5 | loss=4.5599 | supcon=4.5599 | uniformity=0.0000
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 2/5 | loss=4.5691 | supcon=4.5691 | uniformity=0.0000
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 3/5 | loss=4.5597 | supcon=4.5597 | uniformity=0.0000
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 4/5 | loss=4.5683 | supcon=4.5683 | uniformity=0.0000
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 5/5 | loss=4.5737 | supcon=4.5737 | uniformity=0.0000
+
+============================================================
+PHASE 2: Full fine-tune (50 epochs, lr=0.0001)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 1102
+    Pseudo positives  : 3
+    Negatives         : 7023
+    Positive rate     : 0.1359
+    Mean label sim    : 0.3022
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P2 Epoch 1/50 | loss=3.5230 | supcon=3.5230 | uniformity=0.0000 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 2/50 | loss=3.3040 | supcon=3.3040 | uniformity=0.0000 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 3/50 | loss=3.2991 | supcon=3.2991 | uniformity=0.0000 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 4/50 | loss=3.2306 | supcon=3.2306 | uniformity=0.0000 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 5/50 | loss=3.2250 | supcon=3.2250 | uniformity=0.0000 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 6/50 | loss=3.1986 | supcon=3.1986 | uniformity=0.0000 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 7/50 | loss=3.1673 | supcon=3.1673 | uniformity=0.0000 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 8/50 | loss=3.1585 | supcon=3.1585 | uniformity=0.0000 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 9/50 | loss=3.1414 | supcon=3.1414 | uniformity=0.0000 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 10/50 | loss=3.1475 | supcon=3.1475 | uniformity=0.0000 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 11/50 | loss=3.1982 | supcon=3.1982 | uniformity=0.0000 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 12/50 | loss=3.1862 | supcon=3.1862 | uniformity=0.0000 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 13/50 | loss=3.1684 | supcon=3.1684 | uniformity=0.0000 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 14/50 | loss=3.1696 | supcon=3.1696 | uniformity=0.0000 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 15/50 | loss=3.1527 | supcon=3.1527 | uniformity=0.0000 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 16/50 | loss=3.1082 | supcon=3.1082 | uniformity=0.0000 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 17/50 | loss=3.1376 | supcon=3.1376 | uniformity=0.0000 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 18/50 | loss=3.1067 | supcon=3.1067 | uniformity=0.0000 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 19/50 | loss=3.1339 | supcon=3.1339 | uniformity=0.0000 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 20/50 | loss=3.0956 | supcon=3.0956 | uniformity=0.0000 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 21/50 | loss=3.1264 | supcon=3.1264 | uniformity=0.0000 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 22/50 | loss=3.1607 | supcon=3.1607 | uniformity=0.0000 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 23/50 | loss=3.1307 | supcon=3.1307 | uniformity=0.0000 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 24/50 | loss=3.1187 | supcon=3.1187 | uniformity=0.0000 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 25/50 | loss=3.1153 | supcon=3.1153 | uniformity=0.0000 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 26/50 | loss=3.0844 | supcon=3.0844 | uniformity=0.0000 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 27/50 | loss=3.0900 | supcon=3.0900 | uniformity=0.0000 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 28/50 | loss=3.0935 | supcon=3.0935 | uniformity=0.0000 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 29/50 | loss=3.1004 | supcon=3.1004 | uniformity=0.0000 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 30/50 | loss=3.0421 | supcon=3.0421 | uniformity=0.0000 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 31/50 | loss=3.1138 | supcon=3.1138 | uniformity=0.0000 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 32/50 | loss=3.0749 | supcon=3.0749 | uniformity=0.0000 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 33/50 | loss=3.1011 | supcon=3.1011 | uniformity=0.0000 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 34/50 | loss=3.0640 | supcon=3.0640 | uniformity=0.0000 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 35/50 | loss=3.0597 | supcon=3.0597 | uniformity=0.0000 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 36/50 | loss=3.0864 | supcon=3.0864 | uniformity=0.0000 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 37/50 | loss=3.0847 | supcon=3.0847 | uniformity=0.0000 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 38/50 | loss=3.0766 | supcon=3.0766 | uniformity=0.0000 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 39/50 | loss=3.0620 | supcon=3.0620 | uniformity=0.0000 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 40/50 | loss=3.0559 | supcon=3.0559 | uniformity=0.0000 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 41/50 | loss=3.0986 | supcon=3.0986 | uniformity=0.0000 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 42/50 | loss=3.0852 | supcon=3.0852 | uniformity=0.0000 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 43/50 | loss=3.0736 | supcon=3.0736 | uniformity=0.0000 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 44/50 | loss=3.0706 | supcon=3.0706 | uniformity=0.0000 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 45/50 | loss=3.0594 | supcon=3.0594 | uniformity=0.0000 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 46/50 | loss=3.0420 | supcon=3.0420 | uniformity=0.0000 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 47/50 | loss=3.0624 | supcon=3.0624 | uniformity=0.0000 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 48/50 | loss=3.0437 | supcon=3.0437 | uniformity=0.0000 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 49/50 | loss=3.0408 | supcon=3.0408 | uniformity=0.0000 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 50/50 | loss=3.0555 | supcon=3.0555 | uniformity=0.0000 | lr=1.00e-04
+  Restored best checkpoint (loss=3.0408)
+
+Saved model to 'Dataset 1/ablation_models/selfattention_no_uniformity.pt'
+  Embeddings saved → Dataset 1/fused_embeddings/ablation_selfattention_no_uniformity.npy  shape=(6106, 1024)
+  Building HNSW index...
+  Running GT evaluation...
+  GT results:
+    recall       @5: 0.0768  @10: 0.1316  @20: 0.2162
+    ndcg         @5: 0.9515  @10: 0.9306  @20: 0.8999
+    precision    @5: 0.9388  @10: 0.9056  @20: 0.8516
+  Running profile evaluation (k=10)...
+    ILD@10        0.4035
+
+============================================================
+ABLATION: NO_WARMSTART
+  Overrides : {'USE_WARMSTART': False}
+============================================================
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Modality dims  : {'image_clip': 512, 'image_dino': 768, 'text_clip': 512, 'text_qwen': 1536}
+  Label entries  : 6106
+  Aligned labels : 6106/6106 non-empty
+  item_similarity smoke-test: sim=0.1500  (Children/Winter trousers vs Men/Jacket)
+
+Building concat embeddings for pseudo-label mining...
+  [PseudoLabelMiner] concat_emb: torch.Size([6106, 3328]), hard_threshold=0.6, pseudo_cos_threshold=0.85
+Skipping concat warm-start (USE_WARMSTART=False).
+
+============================================================
+PHASE 1: Partial freeze (5 epochs, lr=0.0003)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 965
+    Pseudo positives  : 4
+    Negatives         : 7159
+    Positive rate     : 0.1192
+    Mean label sim    : 0.2763
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P1 Epoch 1/5 | loss=4.1587 | supcon=4.6787 | uniformity=-1.7333
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 2/5 | loss=4.1628 | supcon=4.6841 | uniformity=-1.7379
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 3/5 | loss=4.1594 | supcon=4.6792 | uniformity=-1.7327
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 4/5 | loss=4.1678 | supcon=4.6890 | uniformity=-1.7373
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 5/5 | loss=4.1674 | supcon=4.6880 | uniformity=-1.7352
+
+============================================================
+PHASE 2: Full fine-tune (50 epochs, lr=0.0001)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 1195
+    Pseudo positives  : 7
+    Negatives         : 6926
+    Positive rate     : 0.1479
+    Mean label sim    : 0.3476
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P2 Epoch 1/50 | loss=2.8966 | supcon=3.7272 | uniformity=-2.7687 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 2/50 | loss=2.5342 | supcon=3.4482 | uniformity=-3.0467 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 3/50 | loss=2.4355 | supcon=3.4145 | uniformity=-3.2633 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 4/50 | loss=2.3518 | supcon=3.3479 | uniformity=-3.3205 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 5/50 | loss=2.3453 | supcon=3.3669 | uniformity=-3.4052 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 6/50 | loss=2.3376 | supcon=3.3769 | uniformity=-3.4645 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 7/50 | loss=2.2746 | supcon=3.3327 | uniformity=-3.5267 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 8/50 | loss=2.2408 | supcon=3.3161 | uniformity=-3.5843 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 9/50 | loss=2.2363 | supcon=3.3264 | uniformity=-3.6335 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 10/50 | loss=2.2432 | supcon=3.3408 | uniformity=-3.6588 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 11/50 | loss=2.3185 | supcon=3.3226 | uniformity=-3.3472 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 12/50 | loss=2.3860 | supcon=3.3753 | uniformity=-3.2975 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 13/50 | loss=2.3155 | supcon=3.3364 | uniformity=-3.4031 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 14/50 | loss=2.2776 | supcon=3.3041 | uniformity=-3.4216 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 15/50 | loss=2.2328 | supcon=3.2845 | uniformity=-3.5056 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 16/50 | loss=2.2258 | supcon=3.2901 | uniformity=-3.5478 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 17/50 | loss=2.2085 | supcon=3.2792 | uniformity=-3.5689 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 18/50 | loss=2.2114 | supcon=3.2939 | uniformity=-3.6083 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 19/50 | loss=2.2047 | supcon=3.2996 | uniformity=-3.6495 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 20/50 | loss=2.1592 | supcon=3.2629 | uniformity=-3.6790 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 21/50 | loss=2.2743 | supcon=3.3043 | uniformity=-3.4332 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 22/50 | loss=2.2744 | supcon=3.2925 | uniformity=-3.3936 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 23/50 | loss=2.2498 | supcon=3.2793 | uniformity=-3.4316 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 24/50 | loss=2.2140 | supcon=3.2608 | uniformity=-3.4894 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 25/50 | loss=2.2331 | supcon=3.2894 | uniformity=-3.5211 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 26/50 | loss=2.2350 | supcon=3.2879 | uniformity=-3.5098 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 27/50 | loss=2.1518 | supcon=3.2296 | uniformity=-3.5924 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 28/50 | loss=2.1527 | supcon=3.2450 | uniformity=-3.6412 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 29/50 | loss=2.1459 | supcon=3.2407 | uniformity=-3.6493 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 30/50 | loss=2.1395 | supcon=3.2502 | uniformity=-3.7022 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 31/50 | loss=2.2181 | supcon=3.2648 | uniformity=-3.4890 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 32/50 | loss=2.2457 | supcon=3.2858 | uniformity=-3.4668 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 33/50 | loss=2.1907 | supcon=3.2296 | uniformity=-3.4629 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 34/50 | loss=2.1940 | supcon=3.2455 | uniformity=-3.5050 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 35/50 | loss=2.1725 | supcon=3.2372 | uniformity=-3.5489 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 36/50 | loss=2.1653 | supcon=3.2389 | uniformity=-3.5787 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 37/50 | loss=2.1606 | supcon=3.2395 | uniformity=-3.5963 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 38/50 | loss=2.0998 | supcon=3.1939 | uniformity=-3.6469 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 39/50 | loss=2.1414 | supcon=3.2418 | uniformity=-3.6682 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 40/50 | loss=2.1193 | supcon=3.2274 | uniformity=-3.6934 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 41/50 | loss=2.2121 | supcon=3.2514 | uniformity=-3.4642 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 42/50 | loss=2.1999 | supcon=3.2350 | uniformity=-3.4500 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 43/50 | loss=2.1901 | supcon=3.2418 | uniformity=-3.5058 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 44/50 | loss=2.1923 | supcon=3.2438 | uniformity=-3.5051 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 45/50 | loss=2.1777 | supcon=3.2306 | uniformity=-3.5097 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 46/50 | loss=2.1279 | supcon=3.2041 | uniformity=-3.5874 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 47/50 | loss=2.1211 | supcon=3.2104 | uniformity=-3.6308 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 48/50 | loss=2.1175 | supcon=3.2154 | uniformity=-3.6599 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 49/50 | loss=2.1077 | supcon=3.2101 | uniformity=-3.6749 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 50/50 | loss=2.0891 | supcon=3.2000 | uniformity=-3.7030 | lr=1.00e-04
+  Restored best checkpoint (loss=2.0891)
+
+Saved model to 'Dataset 1/ablation_models/selfattention_no_warmstart.pt'
+  Embeddings saved → Dataset 1/fused_embeddings/ablation_selfattention_no_warmstart.npy  shape=(6106, 1024)
+  Building HNSW index...
+  Running GT evaluation...
+  GT results:
+    recall       @5: 0.0818  @10: 0.1406  @20: 0.2311
+    ndcg         @5: 0.9690  @10: 0.9536  @20: 0.9305
+    precision    @5: 0.9589  @10: 0.9315  @20: 0.8853
+  Running profile evaluation (k=10)...
+    ILD@10        0.3974
+
+============================================================
+ABLATION: HARD_LABELS_ONLY
+  Overrides : {'PSEUDO_COS_THRESHOLD': 2.0}
+============================================================
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Modality dims  : {'image_clip': 512, 'image_dino': 768, 'text_clip': 512, 'text_qwen': 1536}
+  Label entries  : 6106
+  Aligned labels : 6106/6106 non-empty
+  item_similarity smoke-test: sim=0.1500  (Children/Winter trousers vs Men/Jacket)
+
+Building concat embeddings for pseudo-label mining...
+  [PseudoLabelMiner] concat_emb: torch.Size([6106, 3328]), hard_threshold=0.6, pseudo_cos_threshold=2.0
+Initialising projections from concat baseline...
+  Concat-init complete.
+
+============================================================
+PHASE 1: Partial freeze (5 epochs, lr=0.0003)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 1395
+    Pseudo positives  : 0
+    Negatives         : 6733
+    Positive rate     : 0.1716
+    Mean label sim    : 0.3417
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P1 Epoch 1/5 | loss=3.9423 | supcon=4.5624 | uniformity=-2.0673
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 2/5 | loss=3.9587 | supcon=4.5793 | uniformity=-2.0688
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 3/5 | loss=3.9534 | supcon=4.5721 | uniformity=-2.0623
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 4/5 | loss=3.9436 | supcon=4.5623 | uniformity=-2.0623
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 5/5 | loss=3.9526 | supcon=4.5721 | uniformity=-2.0651
+
+============================================================
+PHASE 2: Full fine-tune (50 epochs, lr=0.0001)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 955
+    Pseudo positives  : 0
+    Negatives         : 7173
+    Positive rate     : 0.1175
+    Mean label sim    : 0.2573
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P2 Epoch 1/50 | loss=2.7568 | supcon=3.6205 | uniformity=-2.8791 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 2/50 | loss=2.4773 | supcon=3.4028 | uniformity=-3.0851 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 3/50 | loss=2.3856 | supcon=3.3664 | uniformity=-3.2693 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 4/50 | loss=2.3466 | supcon=3.3408 | uniformity=-3.3138 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 5/50 | loss=2.3057 | supcon=3.3272 | uniformity=-3.4051 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 6/50 | loss=2.2859 | supcon=3.3306 | uniformity=-3.4825 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 7/50 | loss=2.2293 | supcon=3.2911 | uniformity=-3.5393 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 8/50 | loss=2.1935 | supcon=3.2763 | uniformity=-3.6092 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 9/50 | loss=2.1931 | supcon=3.2859 | uniformity=-3.6428 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 10/50 | loss=2.2156 | supcon=3.3062 | uniformity=-3.6355 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 11/50 | loss=2.2626 | supcon=3.2899 | uniformity=-3.4242 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 12/50 | loss=2.2479 | supcon=3.2599 | uniformity=-3.3735 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 13/50 | loss=2.2569 | supcon=3.2730 | uniformity=-3.3872 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 14/50 | loss=2.2473 | supcon=3.2798 | uniformity=-3.4417 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 15/50 | loss=2.2392 | supcon=3.2842 | uniformity=-3.4831 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 16/50 | loss=2.1786 | supcon=3.2406 | uniformity=-3.5399 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 17/50 | loss=2.1601 | supcon=3.2337 | uniformity=-3.5786 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 18/50 | loss=2.1789 | supcon=3.2656 | uniformity=-3.6224 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 19/50 | loss=2.1428 | supcon=3.2399 | uniformity=-3.6569 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 20/50 | loss=2.1379 | supcon=3.2380 | uniformity=-3.6672 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 21/50 | loss=2.2215 | supcon=3.2619 | uniformity=-3.4682 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 22/50 | loss=2.2299 | supcon=3.2613 | uniformity=-3.4380 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 23/50 | loss=2.2207 | supcon=3.2584 | uniformity=-3.4590 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 24/50 | loss=2.2207 | supcon=3.2618 | uniformity=-3.4704 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 25/50 | loss=2.1933 | supcon=3.2431 | uniformity=-3.4993 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 26/50 | loss=2.1677 | supcon=3.2310 | uniformity=-3.5446 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 27/50 | loss=2.1407 | supcon=3.2198 | uniformity=-3.5972 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 28/50 | loss=2.1331 | supcon=3.2238 | uniformity=-3.6359 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 29/50 | loss=2.1054 | supcon=3.2043 | uniformity=-3.6631 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 30/50 | loss=2.1088 | supcon=3.2077 | uniformity=-3.6632 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 31/50 | loss=2.1862 | supcon=3.2368 | uniformity=-3.5020 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 32/50 | loss=2.1904 | supcon=3.2181 | uniformity=-3.4259 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 33/50 | loss=2.1903 | supcon=3.2323 | uniformity=-3.4734 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 34/50 | loss=2.1734 | supcon=3.2267 | uniformity=-3.5111 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 35/50 | loss=2.1998 | supcon=3.2602 | uniformity=-3.5350 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 36/50 | loss=2.1348 | supcon=3.2068 | uniformity=-3.5732 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 37/50 | loss=2.0941 | supcon=3.1773 | uniformity=-3.6106 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 38/50 | loss=2.1370 | supcon=3.2271 | uniformity=-3.6336 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 39/50 | loss=2.0809 | supcon=3.1791 | uniformity=-3.6606 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 40/50 | loss=2.0882 | supcon=3.1913 | uniformity=-3.6768 | lr=1.00e-04
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 41/50 | loss=2.1688 | supcon=3.2170 | uniformity=-3.4941 | lr=9.76e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 42/50 | loss=2.1413 | supcon=3.1925 | uniformity=-3.5041 | lr=9.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 43/50 | loss=2.1723 | supcon=3.2024 | uniformity=-3.4337 | lr=7.96e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 44/50 | loss=2.1654 | supcon=3.2148 | uniformity=-3.4981 | lr=6.58e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 45/50 | loss=2.1362 | supcon=3.1993 | uniformity=-3.5434 | lr=5.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 46/50 | loss=2.1175 | supcon=3.1956 | uniformity=-3.5936 | lr=3.52e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 47/50 | loss=2.0943 | supcon=3.1798 | uniformity=-3.6183 | lr=2.14e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 48/50 | loss=2.0820 | supcon=3.1756 | uniformity=-3.6455 | lr=1.05e-05
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 49/50 | loss=2.0578 | supcon=3.1597 | uniformity=-3.6730 | lr=3.42e-06
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P2 Epoch 50/50 | loss=2.0384 | supcon=3.1417 | uniformity=-3.6778 | lr=1.00e-04
+  Restored best checkpoint (loss=2.0384)
+
+Saved model to 'Dataset 1/ablation_models/selfattention_hard_labels_only.pt'
+  Embeddings saved → Dataset 1/fused_embeddings/ablation_selfattention_hard_labels_only.npy  shape=(6106, 1024)
+  Building HNSW index...
+  Running GT evaluation...
+  GT results:
+    recall       @5: 0.0797  @10: 0.1378  @20: 0.2263
+    ndcg         @5: 0.9639  @10: 0.9473  @20: 0.9222
+    precision    @5: 0.9534  @10: 0.9249  @20: 0.8768
+  Running profile evaluation (k=10)...
+    ILD@10        0.3948
+
+============================================================
+ABLATION: PHASE1_ONLY
+  Overrides : {'PHASE2_EPOCHS': 0}
+============================================================
+Loading embeddings and labels...
+[INFO] 6106 / 6106 items retained after completeness check.
+[INFO] Loaded 6106 labels (timestamp-based) from 'Dataset 1/labels'
+  Catalogue size : 6106 items
+  Modality dims  : {'image_clip': 512, 'image_dino': 768, 'text_clip': 512, 'text_qwen': 1536}
+  Label entries  : 6106
+  Aligned labels : 6106/6106 non-empty
+  item_similarity smoke-test: sim=0.1500  (Children/Winter trousers vs Men/Jacket)
+
+Building concat embeddings for pseudo-label mining...
+  [PseudoLabelMiner] concat_emb: torch.Size([6106, 3328]), hard_threshold=0.6, pseudo_cos_threshold=0.85
+Initialising projections from concat baseline...
+  Concat-init complete.
+
+============================================================
+PHASE 1: Partial freeze (5 epochs, lr=0.0003)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+  [BATCH DIAGNOSTICS — first batch]
+    Batch size        : 128
+    Hard positives    : 1298
+    Pseudo positives  : 3
+    Negatives         : 6827
+    Positive rate     : 0.1601
+    Mean label sim    : 0.3271
+    Max label sim     : 0.9000
+    ✓ Positives found — training signal is real.
+P1 Epoch 1/5 | loss=3.9266 | supcon=4.5629 | uniformity=-2.1207
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 2/5 | loss=3.9176 | supcon=4.5542 | uniformity=-2.1221
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 3/5 | loss=3.9354 | supcon=4.5727 | uniformity=-2.1244
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 4/5 | loss=3.9197 | supcon=4.5558 | uniformity=-2.1200
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+P1 Epoch 5/5 | loss=3.9231 | supcon=4.5600 | uniformity=-2.1227
+
+============================================================
+PHASE 2: Full fine-tune (0 epochs, lr=0.0001)
+============================================================
+
+  [CategoryAwareSampler]
+    Total categories      : 97
+    Usable categories     : 66
+    Category sizes        : min=1, median=22, max=482
+    categories_per_batch  : 16
+    items_per_category    : 8
+    effective_batch_size  : 128
+    Batches per epoch     : 38
+
+Saved model to 'Dataset 1/ablation_models/selfattention_phase1_only.pt'
+  Embeddings saved → Dataset 1/fused_embeddings/ablation_selfattention_phase1_only.npy  shape=(6106, 1024)
+  Building HNSW index...
+  Running GT evaluation...
+  GT results:
+    recall       @5: 0.0381  @10: 0.0632  @20: 0.1010
+    ndcg         @5: 0.6373  @10: 0.5883  @20: 0.5326
+    precision    @5: 0.6137  @10: 0.5516  @20: 0.4830
+  Running profile evaluation (k=10)...
+    ILD@10        0.4604
+
+============================================================
+ABLATION STUDY — COMPARISON TABLE  (Dataset 1)
+============================================================
+Ablation                P@5    P@10    P@20     N@5     N@10     N@20   R@10    ILD
+-----------------------------------------------------------------------------------
+full                 0.9518  0.9225  0.8747  0.9628   0.9453   0.9203 0.1368  0.395 ← full
+no_uniformity        0.9388  0.9056  0.8516  0.9515   0.9306   0.8999 0.1316  0.403 (-0.0169)
+no_warmstart         0.9589  0.9315  0.8853  0.9690   0.9536   0.9305 0.1406  0.397 (+0.0091)
+hard_labels_only     0.9534  0.9249  0.8768  0.9639   0.9473   0.9222 0.1378  0.395 (+0.0024)
+phase1_only          0.6137  0.5516  0.4830  0.6373   0.5883   0.5326 0.0632  0.460 (-0.3708)
+
+Note: delta shown as (ablation P@10 − full P@10).
+Negative delta = removing this component hurts performance.
+
+Re-run with DATASET=2 to validate findings on the noisy dataset.

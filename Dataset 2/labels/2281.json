@@ -1,0 +1,27 @@
+{
+    "brand": "Primark",
+    "brandtext": "Kem",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slim fit trousers with pockets and piping",
+    "usage": "Reuse"
+}

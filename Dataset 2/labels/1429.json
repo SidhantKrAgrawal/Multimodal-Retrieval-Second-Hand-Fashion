@@ -1,0 +1,25 @@
+{
+    "brand": "Charles Tyrwhitt",
+    "brandtext": "Charles Tyrwhitt",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "XL",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Men’s Pink dress shirt in SE9 London for £10.00 for sale",
+    "usage": "Reuse"
+}

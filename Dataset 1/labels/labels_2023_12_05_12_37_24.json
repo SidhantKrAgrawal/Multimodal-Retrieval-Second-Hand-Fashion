@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "U.s. polo assn.",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "61% bomull 39% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "mjukisbyxor med tryck",
+    "comment": "urtv\u00e4ttade",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "urtv\u00e4ttat och slitet",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

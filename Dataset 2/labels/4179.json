@@ -1,0 +1,27 @@
+{
+    "brand": "Cheap Monday",
+    "brandtext": "Cheap Monday",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "6/8",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Tye dye",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Tight skinny jeans in excellent clean condition as hardly worn",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Pomp De Lux",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "None",
+    "condition": 4,
+    "material": "100% cott",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Pink kids' top from Pomp De Lux, size tag missing. Good condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "C-collar",
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

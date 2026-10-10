@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "neh",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "r\u00f6d tr\u00e4nings t-shirt med reklamloggor",
+    "comment": "reklam loggor",
+    "annotator": "10",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

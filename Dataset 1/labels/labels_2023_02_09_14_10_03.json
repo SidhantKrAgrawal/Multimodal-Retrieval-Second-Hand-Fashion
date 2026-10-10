@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "40",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Long"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "60%linen 40%viscose",
+    "comment": "",
+    "usage": "Export"
+}

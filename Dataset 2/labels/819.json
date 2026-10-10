@@ -1,0 +1,25 @@
+{
+    "brand": "ASOS",
+    "brandtext": "ASOS",
+    "category": "Men",
+    "type": "Jean Jackets",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

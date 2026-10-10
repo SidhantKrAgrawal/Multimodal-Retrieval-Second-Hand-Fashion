@@ -1,0 +1,27 @@
+{
+    "brand": "Massimo Dutti",
+    "brandtext": "Massimo Dutti",
+    "category": "Men",
+    "type": "Tapered Jeans",
+    "size": "32",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Tapered Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "perfect",
+    "usage": "Reuse"
+}

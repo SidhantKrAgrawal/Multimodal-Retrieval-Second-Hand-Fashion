@@ -1,0 +1,42 @@
+{
+    "brand": "Lab Industries (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "140",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "71% cotton, 19% polyster, 2% elastane",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Regular",
+        "Tight"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

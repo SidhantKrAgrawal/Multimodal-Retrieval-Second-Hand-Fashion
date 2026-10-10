@@ -1,0 +1,42 @@
+{
+    "brand": "Amisu (New Yorker)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "74% polyester 26% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "puffig jacka med ribbad krage, fickor och silvriga dragkedjor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "smuts fl\u00e4ckar och v\u00e5gig dragkedja",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "smutsigt p\u00e5 \u00e4rmslut",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "smutsigt p\u00e5 \u00e4rmslut "
+}

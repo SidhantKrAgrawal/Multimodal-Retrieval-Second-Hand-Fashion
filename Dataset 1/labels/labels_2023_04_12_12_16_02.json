@@ -1,0 +1,29 @@
+{
+    "brand": "Hamton Republic (Kappahl)",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "XXL",
+    "colors": [
+        "Beige",
+        "Grey",
+        "Orange"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

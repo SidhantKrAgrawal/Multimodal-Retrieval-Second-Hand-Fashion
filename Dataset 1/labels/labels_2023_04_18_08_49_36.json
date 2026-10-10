@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Croft & Barrow",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "L",
+    "colors": [
+        "Blue",
+        "Pink",
+        "Black",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "73% viscose, 27% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

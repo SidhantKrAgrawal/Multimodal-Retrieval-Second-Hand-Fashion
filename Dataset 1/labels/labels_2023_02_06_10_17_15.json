@@ -1,0 +1,34 @@
+{
+    "brand": "New Look",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "38",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "White",
+        "Pink",
+        "Beige",
+        "Black",
+        "Orange"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Cropped",
+        "Loose"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%viscose",
+    "comment": "",
+    "usage": "Export"
+}

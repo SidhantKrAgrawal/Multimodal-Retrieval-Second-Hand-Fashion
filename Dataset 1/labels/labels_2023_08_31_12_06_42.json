@@ -1,0 +1,42 @@
+{
+    "brand": "Fix (Lindex)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "70",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "83% cotton, 17% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue baby jumpsuit",
+    "comment": "",
+    "annotator": "14",
+    "category": "Children",
+    "type": "Pajamas",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "80s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "orange stain",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "orange stain",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

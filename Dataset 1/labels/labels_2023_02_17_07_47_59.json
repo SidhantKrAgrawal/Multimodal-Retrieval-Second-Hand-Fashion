@@ -1,0 +1,31 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "None",
+    "colors": [
+        "Blue",
+        "Purple",
+        "Black",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "V-collar",
+        "Loose"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

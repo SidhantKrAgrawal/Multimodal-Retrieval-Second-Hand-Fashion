@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "iay guey",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Orange"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tr\u00f6ja med turtle neck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Unisex",
+    "type": "Top",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

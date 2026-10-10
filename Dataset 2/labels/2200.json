@@ -1,0 +1,25 @@
+{
+    "brand": "HUGO by Hugo Boss",
+    "brandtext": "HUGO",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "2XL",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "COS",
+    "brandtext": "COS Jumper",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "Small",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "in very nice condition",
+    "usage": "Reuse"
+}

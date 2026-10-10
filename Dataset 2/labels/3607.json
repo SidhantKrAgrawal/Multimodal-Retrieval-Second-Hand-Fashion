@@ -1,0 +1,23 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "S",
+    "colors": [],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Party dress",
+    "usage": "Reuse"
+}

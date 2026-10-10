@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "shein",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "13-14y",
+    "colors": [
+        "Black",
+        "White",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "95% polyester 5% elastan",
+    "usage": "Energy recovery",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "t-shirt med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "nopprigt"
+}

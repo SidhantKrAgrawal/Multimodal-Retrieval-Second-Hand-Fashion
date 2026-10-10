@@ -1,0 +1,25 @@
+{
+    "brand": "Lands' End",
+    "brandtext": "Lands End",
+    "category": "Women",
+    "type": "Straight Jeans",
+    "size": "L32",
+    "colors": [
+        "Indigo"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Vintage, Flattering",
+    "usage": "Reuse"
+}

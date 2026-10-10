@@ -1,0 +1,27 @@
+{
+    "brand": "E6 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Dress",
+    "size": "One Size",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

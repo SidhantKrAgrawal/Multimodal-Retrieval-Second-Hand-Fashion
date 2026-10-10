@@ -1,0 +1,27 @@
+{
+    "brand": "Primark",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "W30/L30s",
+    "colors": [
+        "Navy"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

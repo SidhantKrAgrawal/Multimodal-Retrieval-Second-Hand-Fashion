@@ -1,0 +1,42 @@
+{
+    "brand": "Cubus",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "pjamas med tryck",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Pajamas",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "flera h\u00e5l ",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "flera h\u00e5l",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "h\u00e5l"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Crossbow",
+    "category": "Children",
+    "type": "Pajamas",
+    "size": "122",
+    "colors": [
+        "Brown",
+        "White"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% Poly",
+    "comment": "",
+    "usage": "Recycle"
+}

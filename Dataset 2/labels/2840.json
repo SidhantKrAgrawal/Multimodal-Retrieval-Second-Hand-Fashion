@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "plumetis",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "M",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn maybe twice; in great condition!",
+    "usage": "Reuse"
+}

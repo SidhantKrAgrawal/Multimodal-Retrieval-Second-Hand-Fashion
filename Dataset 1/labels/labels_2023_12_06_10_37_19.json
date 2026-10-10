@@ -1,0 +1,43 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "68",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "White",
+        "Grey"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% cotton ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rosa body med prickar p\u00e5 och dr\u00f6mf\u00e5ngare bak, flera h\u00e5l",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Dots",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "h\u00e5l arm",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "h\u00e5l ben",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

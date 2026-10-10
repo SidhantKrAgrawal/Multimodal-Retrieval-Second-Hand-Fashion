@@ -1,0 +1,25 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "Marks & Spencer",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "8 (UK)",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Tag attached",
+    "usage": "Reuse"
+}

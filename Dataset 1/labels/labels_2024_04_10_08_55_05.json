@@ -1,0 +1,43 @@
+{
+    "brand": "Levi'S",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w29 l 32",
+    "colors": [
+        "Blue",
+        "Beige",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomuill",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jeans med silvriga knappar och broderi p\u00e5 bakfickor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "top left",
+    "damage3": "smuts fl\u00e4ckar"
+}

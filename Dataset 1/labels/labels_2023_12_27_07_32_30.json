@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "lupilu",
+    "brand_missing": false,
+    "size": "74",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Brown",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig l\u00e5ng\u00e4rmad tr\u00f6ja med lappar p\u00e5 armb\u00e5garna, nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

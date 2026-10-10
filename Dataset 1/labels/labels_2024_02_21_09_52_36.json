@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Jewelly",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "unknown",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white shorts ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Shorts",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "damaged elastane",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "damaged elastane"
+}

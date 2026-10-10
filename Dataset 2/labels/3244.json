@@ -1,0 +1,27 @@
+{
+    "brand": "Chicgirls",
+    "brandtext": "Chicgirls",
+    "category": "Women",
+    "type": "Coats",
+    "size": "L",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Spliced"
+    ],
+    "pattern": "Flower Printed",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New with tags, originally retailed for £81.00",
+    "usage": "Reuse"
+}

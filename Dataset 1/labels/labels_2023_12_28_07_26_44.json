@@ -1,0 +1,43 @@
+{
+    "brand": "Polarn Och Pyret",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "110",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blommig l\u00e5ng\u00e4rmad tr\u00f6ja med fl\u00e4ckar p\u00e5 axeln",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

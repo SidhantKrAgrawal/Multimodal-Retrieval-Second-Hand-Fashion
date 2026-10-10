@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Women",
+    "type": "Rain & Outdoor Jackets",
+    "size": "16",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Beautiful colour, Practically new",
+    "usage": "Reuse"
+}

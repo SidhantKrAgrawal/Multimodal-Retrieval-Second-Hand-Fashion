@@ -1,0 +1,25 @@
+{
+    "brand": "Armani",
+    "brandtext": "Armani",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "26",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Collection from Shirley Croydon",
+    "usage": "Reuse"
+}

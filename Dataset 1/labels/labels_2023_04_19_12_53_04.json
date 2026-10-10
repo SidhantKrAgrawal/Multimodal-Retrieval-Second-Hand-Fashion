@@ -1,0 +1,28 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "XS",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Cropped",
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "83% acrylic, 17% polyester",
+    "comment": "",
+    "usage": "Export"
+}

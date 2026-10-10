@@ -1,0 +1,26 @@
+{
+    "brand": "Other",
+    "brandtext": "Misty Harbour",
+    "category": "Women",
+    "type": "Trench Long Jacket",
+    "size": "M",
+    "colors": [
+        "Green",
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New, unused",
+    "usage": "Reuse"
+}

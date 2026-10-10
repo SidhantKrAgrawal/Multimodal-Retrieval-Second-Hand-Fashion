@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "L",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "69%polyester 20%rayon 2%spandex",
+    "comment": "",
+    "usage": "Export"
+}

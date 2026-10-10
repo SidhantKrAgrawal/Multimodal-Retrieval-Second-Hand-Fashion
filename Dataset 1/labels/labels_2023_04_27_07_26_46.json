@@ -1,0 +1,27 @@
+{
+    "brand": "Pomp De Lux",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "98",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 1,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Lace",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Pulled threads",
+    "material": "81% polyester, 19% cotton",
+    "comment": "",
+    "usage": "Export"
+}

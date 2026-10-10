@@ -1,0 +1,25 @@
+{
+    "brand": "Calvin Klein Jeans",
+    "brandtext": "Calvin Klein",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "29",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Reluctant sale, daughter doesn’t like them",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "E6 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Joggers",
+    "size": "10-12",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "On Trend",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Faux leather, cuffed hem",
+    "usage": "Reuse"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Polarn Och Pyret",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "122",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "95%cotton 5%elastane",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "ahkka",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "6XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "Medium",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "Tag still intact",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Outerwear",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

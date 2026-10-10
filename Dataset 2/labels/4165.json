@@ -1,0 +1,25 @@
+{
+    "brand": "Shein",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Ripped Jeans",
+    "size": "8/10",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "cotton mix",
+    "comment": "Straight leg, good clean condition",
+    "usage": "Reuse"
+}

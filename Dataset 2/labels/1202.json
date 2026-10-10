@@ -1,0 +1,27 @@
+{
+    "brand": "Levi",
+    "brandtext": "Levi",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "31 (Waist Leg 30)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Straight"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Coll",
+    "usage": "Reuse"
+}

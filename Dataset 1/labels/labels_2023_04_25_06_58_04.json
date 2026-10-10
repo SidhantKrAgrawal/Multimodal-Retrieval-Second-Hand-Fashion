@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "36",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%  polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

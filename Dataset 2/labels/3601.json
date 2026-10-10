@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Duppata",
+    "category": "Women",
+    "type": "Other",
+    "size": "M",
+    "colors": [
+        "Orange"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new Shalwar kameez with Duppata",
+    "usage": "Reuse"
+}

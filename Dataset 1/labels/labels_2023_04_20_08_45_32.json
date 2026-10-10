@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Tuffy",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "98",
+    "colors": [
+        "Pink"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Embroidered",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "M\u00e4rkes kompaniet",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "knitted beige sweater ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Blazer",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "stained",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": "stained"
+}

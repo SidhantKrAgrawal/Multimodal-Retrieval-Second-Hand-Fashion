@@ -1,0 +1,41 @@
+{
+    "brand": "Cubus",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 sammetsbyxor med fl\u00e4ckar fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

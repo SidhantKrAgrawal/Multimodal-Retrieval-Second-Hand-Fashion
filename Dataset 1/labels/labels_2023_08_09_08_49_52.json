@@ -1,0 +1,41 @@
+{
+    "brand": "Hope",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "29''",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "75% cotton 25% viscose ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans med h\u00e5l i skrevet",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "h\u00e5l i skrev",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

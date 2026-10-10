@@ -1,0 +1,27 @@
+{
+    "brand": "Just Eat",
+    "brandtext": "Just eat",
+    "category": "Men",
+    "type": "Rain & Outdoor Jackets",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Still in packaging. collection e1 or nearby drop off",
+    "usage": "Reuse"
+}

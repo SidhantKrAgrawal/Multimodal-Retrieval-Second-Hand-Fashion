@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "16",
+    "colors": [
+        "Khaki"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Unusual details.. zip on pocket, coin pocket, seems on knees, makes bendin",
+    "usage": "Reuse"
+}

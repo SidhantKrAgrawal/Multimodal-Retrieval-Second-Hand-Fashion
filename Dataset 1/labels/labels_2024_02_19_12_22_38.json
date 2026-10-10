@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "L\u00e5ng rosa kl\u00e4nning ",
+    "comment": "material, m\u00e4rke och storlek saknas",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "sm\u00e5 h\u00e5l",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "blekt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "blekt"
+}

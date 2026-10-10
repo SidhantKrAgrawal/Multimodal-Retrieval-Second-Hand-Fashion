@@ -1,0 +1,25 @@
+{
+    "brand": "New Look",
+    "brandtext": "New Look",
+    "category": "Women",
+    "type": "Straight Jeans",
+    "size": "16 (UK)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

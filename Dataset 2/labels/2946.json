@@ -1,0 +1,25 @@
+{
+    "brand": "Dorothy Perkins",
+    "brandtext": "Dorothy Perkins",
+    "category": "Women",
+    "type": "Coat",
+    "size": "10 (UK)",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New with tag, original price £49.99",
+    "usage": "Reuse"
+}

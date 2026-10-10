@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "T-shirt with pattern",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "crooked seams",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "damaged print",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "stained"
+}

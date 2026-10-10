@@ -1,0 +1,25 @@
+{
+    "brand": "Newham",
+    "brandtext": "Newham",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "16",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Neck choker design",
+    "usage": "Reuse"
+}

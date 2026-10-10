@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Paola",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% acrylic",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "pilling",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

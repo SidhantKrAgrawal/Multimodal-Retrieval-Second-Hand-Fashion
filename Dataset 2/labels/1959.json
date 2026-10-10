@@ -1,0 +1,25 @@
+{
+    "brand": "Threadbare",
+    "brandtext": "Threadbare",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Threadbare Mens Black Top Size XL in DA14 London for £4.00 for sale",
+    "usage": "Reuse"
+}

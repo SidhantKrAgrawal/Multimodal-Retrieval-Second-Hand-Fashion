@@ -1,0 +1,42 @@
+{
+    "brand": "Newbie (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "68",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vit body med moln p\u00e5, stor fl\u00e4ck fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

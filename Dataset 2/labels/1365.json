@@ -1,0 +1,27 @@
+{
+    "brand": "Express",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Modern"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Buttoned Collar, Modern fit, Excellent new condition",
+    "usage": "Reuse"
+}

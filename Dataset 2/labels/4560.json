@@ -1,0 +1,26 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "S",
+    "colors": [
+        "Black",
+        "Patterned"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Patterned",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "2 pairs of used trousers. Size small.",
+    "usage": "Reuse"
+}

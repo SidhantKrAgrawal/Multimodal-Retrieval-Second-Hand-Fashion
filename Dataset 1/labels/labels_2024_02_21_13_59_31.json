@@ -1,0 +1,42 @@
+{
+    "brand": "Cellbes",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "52% polyester av \u00e5tervunnen fiber 23% akryl 13% polyester 12% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "stickad cardigan med bl\u00e5a kanppar och m\u00f6nster",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

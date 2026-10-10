@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "shein",
+    "brand_missing": false,
+    "size": "128",
+    "sizetext": "",
+    "colors": [
+        "Orange",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "orange byxor med vit text p\u00e5 benet",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": ""
+}

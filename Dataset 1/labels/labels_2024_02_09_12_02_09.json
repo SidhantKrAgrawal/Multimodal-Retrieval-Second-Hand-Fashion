@@ -1,0 +1,43 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "",
+    "usage": "Reuse",
+    "usage_confidence": "Medium",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Children",
+    "type": "Outerwear",
+    "cut": [
+        "Cropped",
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

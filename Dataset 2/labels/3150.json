@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Faux Fur",
+    "category": "Women",
+    "type": "Parka Coat",
+    "size": "8 (UK)",
+    "colors": [
+        "Olive- Orange"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Only worn once, adjustable waist cord, two front pockets",
+    "usage": "Reuse"
+}

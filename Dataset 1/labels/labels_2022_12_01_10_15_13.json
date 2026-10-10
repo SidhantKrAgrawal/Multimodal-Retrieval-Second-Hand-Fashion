@@ -1,0 +1,32 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "42",
+    "colors": [
+        "Multicolor",
+        "Purple",
+        "Black",
+        "White",
+        "Red",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Long"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

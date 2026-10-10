@@ -1,0 +1,28 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "None",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Cropped"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Pulled threads",
+    "material": "100%Cott",
+    "comment": "",
+    "usage": "Reuse"
+}

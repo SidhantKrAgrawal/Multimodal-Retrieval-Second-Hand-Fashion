@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Gothicana EMP",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "pink dress with collar and cuff details",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "stained ",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

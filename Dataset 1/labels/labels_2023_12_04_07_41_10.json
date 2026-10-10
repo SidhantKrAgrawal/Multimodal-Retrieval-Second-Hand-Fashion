@@ -1,0 +1,43 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Purple",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tiger m\u00f6nstrade tights med fult lagat h\u00e5l bak",
+    "comment": "lagat h\u00e5l",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "regular"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "lagat h\u00e5l",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

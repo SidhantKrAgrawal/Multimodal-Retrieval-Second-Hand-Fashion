@@ -1,0 +1,29 @@
+{
+    "brand": "GAP",
+    "brandtext": "GAP",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "S",
+    "colors": [
+        "Khaki",
+        "Black",
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Black GAP across front. Has small hole at back (see pic)",
+    "usage": "Reuse"
+}

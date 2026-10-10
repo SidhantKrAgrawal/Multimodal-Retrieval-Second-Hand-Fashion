@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Redwood",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "M ",
+    "colors": [
+        "Multicolor",
+        "Red",
+        "White",
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

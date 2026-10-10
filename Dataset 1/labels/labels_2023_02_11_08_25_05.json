@@ -1,0 +1,29 @@
+{
+    "brand": "Bikbok",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "XS",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

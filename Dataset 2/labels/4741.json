@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Nasty Gal",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "8",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Faux Leather, Size Uk 8 in W14",
+    "usage": "Reuse"
+}

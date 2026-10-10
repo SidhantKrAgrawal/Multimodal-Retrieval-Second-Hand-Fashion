@@ -1,0 +1,28 @@
+{
+    "brand": "Batistini (Dressman)",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

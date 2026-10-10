@@ -1,0 +1,27 @@
+{
+    "brand": "Topman",
+    "brandtext": "Topman",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Small hole in the right hand shoulder, pictures",
+    "usage": "Reuse"
+}

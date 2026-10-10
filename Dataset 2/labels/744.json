@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "cotton",
+    "category": "Men",
+    "type": "Parka",
+    "size": "S",
+    "colors": [
+        "Light Tan"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Brand new, RRP 99.99",
+    "usage": "Reuse"
+}

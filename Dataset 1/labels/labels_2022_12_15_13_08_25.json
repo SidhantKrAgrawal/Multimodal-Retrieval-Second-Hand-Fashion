@@ -1,0 +1,28 @@
+{
+    "brand": "These Glory Days",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%wool",
+    "comment": "",
+    "usage": "Reuse"
+}

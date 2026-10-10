@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "clique",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue t-shirt with white print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "damaged print",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "damaged print",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

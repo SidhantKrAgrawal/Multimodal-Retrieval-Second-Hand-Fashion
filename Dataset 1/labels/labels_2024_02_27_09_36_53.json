@@ -1,0 +1,42 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "81% Cotton 19% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Purple sweatshirt ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "stain",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": "hole"
+}

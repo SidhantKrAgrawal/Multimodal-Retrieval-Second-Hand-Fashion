@@ -1,0 +1,43 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Brown",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "83% bomull 17% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie med olika f\u00e4rger och tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "nopprigt"
+}

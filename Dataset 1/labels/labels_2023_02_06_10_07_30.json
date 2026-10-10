@@ -1,0 +1,32 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "S ",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Brown",
+        "Blue",
+        "Black",
+        "Grey"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "2",
+    "material": "66%polyester 32%viscose 2%elstane",
+    "comment": "",
+    "usage": "Export"
+}

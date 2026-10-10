@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Bams og Bine",
+    "brand_missing": false,
+    "size": "80",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% acryllic",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "White striped baby sweater",
+    "comment": "",
+    "annotator": "14",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "80s",
+    "pattern": "Striped",
+    "pilling": 2,
+    "smell": "Major",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

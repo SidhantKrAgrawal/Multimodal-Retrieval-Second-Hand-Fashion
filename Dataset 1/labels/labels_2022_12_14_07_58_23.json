@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "GREENWOOD",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "L",
+    "colors": [
+        "Red",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Havana",
+    "brandtext": "EWI",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Puffig jacka med h\u00f6g hals",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "smutsigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

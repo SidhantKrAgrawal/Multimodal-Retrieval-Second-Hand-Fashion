@@ -1,0 +1,25 @@
+{
+    "brand": "RM10 London",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Men’s top fleece lined with pockets",
+    "usage": "Reuse"
+}

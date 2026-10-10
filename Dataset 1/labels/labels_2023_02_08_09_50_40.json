@@ -1,0 +1,29 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "38",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Lama",
+    "category": "Ladies",
+    "type": "Blazer",
+    "size": "44",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "150-250",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "40%wool 30%lama 20%acrylic 10%unknown fibers",
+    "comment": "",
+    "usage": "Reuse"
+}

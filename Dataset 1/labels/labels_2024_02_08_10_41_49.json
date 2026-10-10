@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "ahlis kungsbacka",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "prickig blus, vintage, fl\u00e4ckar i kragen",
+    "comment": "vintage",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "Dots",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ckar krage",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

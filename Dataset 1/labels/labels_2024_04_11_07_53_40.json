@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "durable dress",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "167",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "59% polyester 41% ull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "byxor med bl\u00e5a knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "l\u00f6s tr\u00e5dar"
+}

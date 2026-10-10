@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "L\u00e5ng sammets kl\u00e4ning med paljetter",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "dammig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "dammig",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

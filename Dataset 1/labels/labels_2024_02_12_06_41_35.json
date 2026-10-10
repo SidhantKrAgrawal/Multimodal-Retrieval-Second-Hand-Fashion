@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Rebel",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Black"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% Polyester",
+    "usage": "recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue and black jacket",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Blazer",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "broken zipper",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

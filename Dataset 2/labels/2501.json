@@ -1,0 +1,25 @@
+{
+    "brand": "Adidas",
+    "brandtext": "Clima 365",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "8 (UK)",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Unworn gift from abroad, Tag attached, Selling as I have o",
+    "usage": "Reuse"
+}

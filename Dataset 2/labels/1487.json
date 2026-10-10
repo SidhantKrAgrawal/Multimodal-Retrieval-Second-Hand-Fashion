@@ -1,0 +1,25 @@
+{
+    "brand": "Reebok",
+    "brandtext": "Reebok",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used but in excellent condition",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "dice",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig skjorta med fl\u00e4ckig krage och armar",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ck krage",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "fl\u00e4ck arm",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": "fl\u00e4ck arm"
+}

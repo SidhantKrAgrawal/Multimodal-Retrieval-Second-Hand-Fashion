@@ -1,0 +1,25 @@
+{
+    "brand": "Blue Harbour M&S",
+    "brandtext": "Blue Harbour",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "38",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All season",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

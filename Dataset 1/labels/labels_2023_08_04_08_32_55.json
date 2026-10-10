@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "randig skjorta/blus, lite urtv\u00e4ttad",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

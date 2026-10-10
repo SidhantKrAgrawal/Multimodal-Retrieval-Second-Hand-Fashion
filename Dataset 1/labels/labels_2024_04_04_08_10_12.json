@@ -1,0 +1,43 @@
+{
+    "brand": "Five Seasons",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "White",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "83% bomull 17% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie med broderi tryck och ficka",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar och nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

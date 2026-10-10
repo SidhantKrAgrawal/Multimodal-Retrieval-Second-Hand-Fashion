@@ -1,0 +1,28 @@
+{
+    "brand": "Ralph Lauren",
+    "brandtext": "Polo Shirt",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "L",
+    "colors": [
+        "Navy",
+        "Ivory"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Two button up. Navy stit",
+    "usage": "Reuse"
+}

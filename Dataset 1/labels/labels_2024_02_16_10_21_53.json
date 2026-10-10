@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white vintage dress",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Blazer",
+    "cut": [
+        "Long"
+    ],
+    "trend": "90s",
+    "pattern": "Lace",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

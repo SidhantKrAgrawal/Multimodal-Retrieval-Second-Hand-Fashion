@@ -1,0 +1,41 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Beige cropped trousers",
+    "comment": "sun bleached",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "hole",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "hole",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Blue Thunder",
+    "category": "Unisex",
+    "type": "T-shirt",
+    "size": "L",
+    "colors": [
+        "Multicolor",
+        "Yellow",
+        "Blue",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "90s",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Reuse"
+}

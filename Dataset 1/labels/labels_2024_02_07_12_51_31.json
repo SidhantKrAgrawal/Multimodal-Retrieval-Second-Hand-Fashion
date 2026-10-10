@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Five seasons",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "65% Cotton 35% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white t-shirt with blue details and collar",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "stained collar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

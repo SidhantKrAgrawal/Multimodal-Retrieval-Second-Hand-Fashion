@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "VEGA",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "S ",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Cropped",
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "95%polyester 5%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

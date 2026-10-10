@@ -1,0 +1,25 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "M&S & Industrialize",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "L",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "3 x Men’s Short Sleeved T-Shirts",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "sm",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "130",
+    "colors": [
+        "Blue",
+        "Red"
+    ],
+    "season": "Spring",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "tv\u00e5 f\u00e4rgad fleece kofta med logga fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Cardigan",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

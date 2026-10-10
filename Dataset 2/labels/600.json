@@ -1,0 +1,25 @@
+{
+    "brand": "Canada Goose",
+    "brandtext": "Canada Goose",
+    "category": "Men",
+    "type": "Parka",
+    "size": "SE18",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Half price from original £600",
+    "usage": "Reuse"
+}

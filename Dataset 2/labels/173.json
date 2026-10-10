@@ -1,0 +1,27 @@
+{
+    "brand": "ASOS",
+    "brandtext": "ASOS",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "Smoke and dog fre",
+    "material": "",
+    "comment": "Bit baggy, round neck, machine washable",
+    "usage": "Reuse"
+}

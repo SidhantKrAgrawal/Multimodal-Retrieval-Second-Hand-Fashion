@@ -1,0 +1,25 @@
+{
+    "brand": "French Connection",
+    "brandtext": "French Connection",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "XL",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn once",
+    "usage": "Reuse"
+}

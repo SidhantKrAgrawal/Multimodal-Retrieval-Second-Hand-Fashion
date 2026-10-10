@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Dickies",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta  jeans",
+    "comment": "dammiga och noppriga",
+    "annotator": "1",
+    "category": "Unisex",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "dammiga och h\u00e5riga",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "dammiga och h\u00e5riga",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "dammiga och h\u00e5riga"
+}

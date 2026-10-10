@@ -1,0 +1,26 @@
+{
+    "brand": "Nike",
+    "brandtext": "NFL",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "L",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Vintage NFL Charles Woodson Jersey",
+    "usage": "Reuse"
+}

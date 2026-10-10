@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "our Best Tops",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "40",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "None",
+    "holes": "Major",
+    "damage": "38",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

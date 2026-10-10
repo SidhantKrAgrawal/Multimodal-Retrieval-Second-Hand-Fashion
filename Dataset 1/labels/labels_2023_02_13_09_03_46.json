@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "None",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Spring",
+    "pilling": 2,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "Major",
+    "damage": "3",
+    "material": "60%acrylic 40%cotton",
+    "comment": "",
+    "usage": "Export"
+}

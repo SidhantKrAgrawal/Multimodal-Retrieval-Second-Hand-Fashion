@@ -1,0 +1,25 @@
+{
+    "brand": "Selected Homme",
+    "brandtext": "Selected Homme",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Collection only, worn only twice",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "36",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "48%polyester 37%viscose 11%polyamide 4%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

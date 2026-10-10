@@ -1,0 +1,25 @@
+{
+    "brand": "Slazenger",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Other",
+    "size": "XXL",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

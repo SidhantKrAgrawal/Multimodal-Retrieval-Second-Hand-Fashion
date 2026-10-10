@@ -1,0 +1,30 @@
+{
+    "brand": "Gap",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Sweater",
+    "size": "92",
+    "colors": [
+        "Multicolor",
+        "Grey",
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

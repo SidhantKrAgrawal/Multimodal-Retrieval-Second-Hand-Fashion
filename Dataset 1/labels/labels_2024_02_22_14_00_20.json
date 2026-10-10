@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Basic u",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Vit linne",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "dammig",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "dammig"
+}

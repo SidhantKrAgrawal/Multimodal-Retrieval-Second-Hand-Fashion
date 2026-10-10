@@ -1,0 +1,34 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SCREEN STARS",
+    "category": "Men",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Multicolor",
+        "Black",
+        "White",
+        "Grey",
+        "Yellow",
+        "Orange",
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

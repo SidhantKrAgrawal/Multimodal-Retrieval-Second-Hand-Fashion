@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "rael book",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "37",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "78% polyester 22% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Skjorta med spets",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

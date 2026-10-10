@@ -1,0 +1,28 @@
+{
+    "brand": "Amisu (New Yorker)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "40",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%viscose",
+    "comment": "",
+    "usage": "Export"
+}

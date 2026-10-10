@@ -1,0 +1,27 @@
+{
+    "brand": "Hugo Boss",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "XL",
+    "colors": [
+        "White"
+    ],
+    "season": "All season",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

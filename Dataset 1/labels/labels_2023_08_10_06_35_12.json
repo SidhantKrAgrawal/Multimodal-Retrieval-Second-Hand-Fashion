@@ -1,0 +1,43 @@
+{
+    "brand": "On The Peak",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White",
+        "Purple"
+    ],
+    "season": "Winter",
+    "condition": 5,
+    "material": "100% nylone ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "Medium",
+    "description": "lila vinterjacka med r\u00e4nder upptill + logga fram och bak",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Winter jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "top right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

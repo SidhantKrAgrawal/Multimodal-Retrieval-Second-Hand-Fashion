@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "tommy hilfiger",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "176",
+    "colors": [
+        "Blue",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "72% nylon 28% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "puffig jacka med m\u00e5nga fickor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar ",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "nopprigt och smutsigt i \u00e4rmslut",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "nopprigt och smutsigt i \u00e4rmslut"
+}

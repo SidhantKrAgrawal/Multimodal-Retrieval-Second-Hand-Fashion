@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Kaffe",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "Washed out",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "V-collar",
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "Pilling",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "Pilling",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Stockhlm",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "32",
+    "colors": [
+        "Black"
+    ],
+    "season": "None",
+    "condition": 4,
+    "material": "62% Polyester 38% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Black suit trousers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "damaged seam",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

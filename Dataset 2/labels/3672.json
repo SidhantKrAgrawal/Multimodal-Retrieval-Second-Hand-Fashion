@@ -1,0 +1,25 @@
+{
+    "brand": "Saiqa",
+    "brandtext": "Saiqa",
+    "category": "Women",
+    "type": "Party & Cocktail Dresses",
+    "size": "8",
+    "colors": [
+        "Copper"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New peach 3pc Asian suit by designer saiqa in E7 London for £65.00 for sale",
+    "usage": "Reuse"
+}

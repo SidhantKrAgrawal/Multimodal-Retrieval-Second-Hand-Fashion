@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Emilio",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "Stained",
+    "annotator": "24",
+    "category": "Men",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "Slightly yellow collar",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "Small red stains",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

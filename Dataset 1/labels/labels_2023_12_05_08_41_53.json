@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "mac been",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "64% polyester 36% cotton ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart hoodie med dragkedja och hand fram, mycket nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

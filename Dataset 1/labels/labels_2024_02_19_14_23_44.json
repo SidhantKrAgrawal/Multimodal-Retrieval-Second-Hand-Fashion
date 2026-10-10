@@ -1,0 +1,41 @@
+{
+    "brand": "Primark",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "122",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "sweater med volang\u00e4rmar och prickar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Dots",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt p\u00e5 \u00e4rmar och mitten",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt p\u00e5 \u00e4rmar och mitten"
+}

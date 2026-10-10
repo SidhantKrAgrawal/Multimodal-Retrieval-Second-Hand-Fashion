@@ -1,0 +1,30 @@
+{
+    "brand": "Esmara (Lidl)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "38",
+    "colors": [
+        "Black",
+        "Green",
+        "Pink",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

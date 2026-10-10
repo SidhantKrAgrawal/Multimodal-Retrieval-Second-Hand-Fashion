@@ -1,0 +1,28 @@
+{
+    "brand": "Twist & Tango",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "L",
+    "colors": [
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Loose",
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

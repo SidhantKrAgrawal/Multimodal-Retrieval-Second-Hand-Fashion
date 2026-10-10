@@ -1,0 +1,27 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "Marks & Spencer",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "8-36",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, not been worn",
+    "usage": "Reuse"
+}

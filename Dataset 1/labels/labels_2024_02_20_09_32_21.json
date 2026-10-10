@@ -1,0 +1,41 @@
+{
+    "brand": "Levi'S",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w29",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 5,
+    "material": "81% Cotton 19% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "tight blue jeans ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

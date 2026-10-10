@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "lindex kids",
+    "brand_missing": false,
+    "size": "98",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Blue",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "64% bomull 36% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig t-shirt",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar p\u00e5 krage",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

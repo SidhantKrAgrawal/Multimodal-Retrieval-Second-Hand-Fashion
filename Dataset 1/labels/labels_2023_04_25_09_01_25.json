@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Denim Day",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "98",
+    "colors": [
+        "White",
+        "Grey"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

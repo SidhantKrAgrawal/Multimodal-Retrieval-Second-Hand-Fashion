@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Villervalla",
+    "category": "Children",
+    "type": "Dress",
+    "size": "92",
+    "colors": [
+        "Orange",
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

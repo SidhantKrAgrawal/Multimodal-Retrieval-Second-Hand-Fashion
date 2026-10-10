@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Only mine",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% silke",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "sweater",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "h\u00e5l",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

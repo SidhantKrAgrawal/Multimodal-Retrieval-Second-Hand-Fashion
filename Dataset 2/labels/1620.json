@@ -1,0 +1,28 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "M",
+    "colors": [
+        "Navy Blue",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Polka Dot",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Bundle of 2 different men's shirts",
+    "usage": "Reuse"
+}

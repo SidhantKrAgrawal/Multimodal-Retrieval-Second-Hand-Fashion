@@ -1,0 +1,35 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Rain jacket",
+    "size": "98",
+    "colors": [
+        "Multicolor",
+        "Purple",
+        "Pink",
+        "Orange",
+        "Blue",
+        "Black",
+        "Beige",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Nutmeg",
+    "brandtext": "Nutmeg",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "S",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Plaid"
+    ],
+    "pattern": "Plaid",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "plaid trousers",
+    "usage": "Reuse"
+}

@@ -1,0 +1,29 @@
+{
+    "brand": "Everest",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Training top",
+    "size": "38",
+    "colors": [
+        "White",
+        "Beige"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Geometric print",
+    "trend": "Sports",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

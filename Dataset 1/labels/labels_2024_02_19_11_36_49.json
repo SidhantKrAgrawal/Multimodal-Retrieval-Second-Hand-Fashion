@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "GDR",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "C46",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "72% polyester 28% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Kappa med beiga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Outerwear",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "h\u00e5l och smutsigt",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

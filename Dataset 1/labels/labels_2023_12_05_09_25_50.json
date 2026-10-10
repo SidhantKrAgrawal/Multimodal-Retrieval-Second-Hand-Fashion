@@ -1,0 +1,41 @@
+{
+    "brand": "Newbody",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00e5tt linne med fl\u00e4ck bak och i armh\u00e5la",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "fl\u00e4ckar armh\u00e5la",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "fl\u00e4ck"
+}

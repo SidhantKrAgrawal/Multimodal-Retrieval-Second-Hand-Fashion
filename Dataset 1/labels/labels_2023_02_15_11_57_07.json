@@ -1,0 +1,28 @@
+{
+    "brand": "Ralph Lauren",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "XXL",
+    "colors": [
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 4,
+    "price": "150-250",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%acrylic",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "READY TO DYE",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "None",
+    "colors": [
+        "Green"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%silk",
+    "comment": "",
+    "usage": "Export"
+}

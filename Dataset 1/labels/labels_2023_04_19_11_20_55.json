@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Studio Total",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "None",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "Size 28",
+    "usage": "Export"
+}

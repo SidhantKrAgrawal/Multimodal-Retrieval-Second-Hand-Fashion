@@ -1,0 +1,25 @@
+{
+    "brand": "Man",
+    "brandtext": "",
+    "category": "Unisex",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Green"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Parker Jacket",
+    "usage": "Reuse"
+}

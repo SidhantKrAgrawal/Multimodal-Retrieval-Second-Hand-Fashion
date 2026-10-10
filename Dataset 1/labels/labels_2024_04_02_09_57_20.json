@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "uniq young",
+    "brand_missing": false,
+    "size": "170",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "70% bomull 30% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "cardigan med p\u00e4rltryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Cardigan",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "smuts fl\u00e4ck och luddig",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "luddig",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "luddig"
+}

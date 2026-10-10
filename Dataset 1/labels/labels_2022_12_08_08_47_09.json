@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "number One",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "40",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 2,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

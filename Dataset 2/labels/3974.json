@@ -1,0 +1,25 @@
+{
+    "brand": "Stradivarius",
+    "brandtext": "Stradivarius and primal",
+    "category": "Women",
+    "type": "High Waisted Jeans",
+    "size": "6",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

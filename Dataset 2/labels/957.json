@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara extra large jeans size like the balenciaga uk 30",
+    "category": "Men",
+    "type": "Ripped Jeans",
+    "size": "30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Khadi",
+    "brandtext": "Khadi",
+    "category": "Women",
+    "type": "Other",
+    "size": "One Size",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Embroidery khaddar shirt 3.25m Shalwar 2.5m Printed Sha",
+    "usage": "Reuse"
+}

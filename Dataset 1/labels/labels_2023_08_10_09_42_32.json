@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "berendsen",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart l\u00e5ng\u00e4rmad tr\u00f6ja med volvo tryck fram, fl\u00e4ck p\u00e5 arm, flera sm\u00e5 h\u00e5l fram, mycket luddig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "fl\u00e4ck arm",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "flera sm\u00e5 h\u00e5l",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

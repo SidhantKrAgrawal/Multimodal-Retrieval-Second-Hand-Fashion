@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "mxdc sport",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Orange",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta tr\u00e4ningsshorts med orange s\u00f6mmar och logga p\u00e5 benet",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "Sports",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": ""
+}

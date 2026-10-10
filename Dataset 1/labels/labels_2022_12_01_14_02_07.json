@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "GRAFiTVS",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "None",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "95%cotton 5%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

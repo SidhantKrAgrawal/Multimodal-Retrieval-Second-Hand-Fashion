@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Capture",
+    "category": "Ladies",
+    "type": "Blazer",
+    "size": "38",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "30%wool 30%polyester 30%acrylic 10%other",
+    "comment": "",
+    "usage": "Reuse"
+}

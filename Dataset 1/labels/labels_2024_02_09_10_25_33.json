@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Volvo",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Yellow 90s jacket with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "90s",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "damaged zipper",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "stain"
+}

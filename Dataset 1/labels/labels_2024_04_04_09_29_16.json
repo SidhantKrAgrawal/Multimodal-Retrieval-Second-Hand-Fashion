@@ -1,0 +1,42 @@
+{
+    "brand": "Ellos",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "48",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "86% polyester 14% ull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng kappa",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "luddig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "luddig",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

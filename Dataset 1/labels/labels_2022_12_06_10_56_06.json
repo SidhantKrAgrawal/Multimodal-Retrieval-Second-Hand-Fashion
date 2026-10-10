@@ -1,0 +1,31 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "42",
+    "colors": [
+        "Black",
+        "Beige",
+        "Brown",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "C-collar",
+        "Loose"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% viscose",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Newbody",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% nylone",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta tr\u00e4nings tights, logga p\u00e5 benet halvt borta",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": ""
+}

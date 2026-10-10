@@ -1,0 +1,25 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Leo",
+    "category": "Women",
+    "type": "Coat",
+    "size": "6/8",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Leo print, Uk size 6/8, Very classy piece",
+    "usage": "Reuse"
+}

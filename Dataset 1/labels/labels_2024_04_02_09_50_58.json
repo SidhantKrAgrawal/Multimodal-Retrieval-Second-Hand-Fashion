@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kort sweater med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom center",
+    "damage": "luddigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "luddigt p\u00e5 \u00e4rmsluten",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

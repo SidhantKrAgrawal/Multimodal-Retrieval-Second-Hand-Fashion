@@ -1,0 +1,25 @@
+{
+    "brand": "Wrangler",
+    "brandtext": "Wrangler",
+    "category": "Women",
+    "type": "Winter Coats",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "for sale",
+    "usage": "Export"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "qipsy",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Winter",
+    "condition": 2,
+    "material": "Outer: 100% polyester; inner: 60% acrylic, 40% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "Very dirty all over, strong cigeratte smell",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Outerwear",
+    "cut": [
+        "Regular",
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "Major",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

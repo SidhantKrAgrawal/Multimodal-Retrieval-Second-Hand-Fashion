@@ -1,0 +1,27 @@
+{
+    "brand": "Smith & Brook",
+    "brandtext": "Smith's& brooks",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

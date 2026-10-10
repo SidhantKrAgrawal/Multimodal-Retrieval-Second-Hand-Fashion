@@ -1,0 +1,27 @@
+{
+    "brand": "ZARA",
+    "brandtext": "ZARA Man",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Smart looking style",
+    "usage": "Reuse"
+}

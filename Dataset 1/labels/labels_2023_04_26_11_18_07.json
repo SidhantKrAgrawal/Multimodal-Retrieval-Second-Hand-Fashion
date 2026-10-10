@@ -1,0 +1,29 @@
+{
+    "brand": "Lindex",
+    "brandtext": "Kids",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "134",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "None",
+    "pilling": 4,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "Loose"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "pulled thread",
+    "material": "100% viscose",
+    "comment": "",
+    "usage": "Recycle"
+}

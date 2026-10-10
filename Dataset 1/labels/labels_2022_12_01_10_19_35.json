@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "MARIFA",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "None",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "55%polyester 45%wool",
+    "comment": "",
+    "usage": "Reuse"
+}

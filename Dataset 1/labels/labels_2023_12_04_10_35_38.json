@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "CeLaVi",
+    "brand_missing": false,
+    "size": "140",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "condition": 2,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 fodrade regnbyxor med logga, fl\u00e4ck bak och lerfl\u00e4ckar \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Winter trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top left",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

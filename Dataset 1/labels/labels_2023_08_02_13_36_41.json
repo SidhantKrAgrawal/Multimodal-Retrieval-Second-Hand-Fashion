@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "WE (Wool Exclusive)",
+    "brand_missing": false,
+    "size": "116",
+    "sizetext": "110-116 (5-6 years)",
+    "colors": [
+        "Pink",
+        "Purple"
+    ],
+    "season": "None",
+    "condition": 4,
+    "material": "100% wool",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Pink wool tights with purple seams for kids from WE (Wool Exclusive), size 110-116. Good condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "Regular",
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

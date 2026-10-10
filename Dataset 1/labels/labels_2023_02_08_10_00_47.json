@@ -1,0 +1,35 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "36",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Black",
+        "Grey",
+        "Blue",
+        "Orange",
+        "Pink",
+        "Turquoise"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50%cotton 50%viscose",
+    "comment": "",
+    "usage": "Export"
+}

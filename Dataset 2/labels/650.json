@@ -1,0 +1,25 @@
+{
+    "brand": "Zavetti Canada",
+    "brandtext": "Zavetti Canada",
+    "category": "Men",
+    "type": "Coat",
+    "size": "M",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Original from Foot Asylum, Only worn a few times but looks brand new",
+    "usage": "Reuse"
+}

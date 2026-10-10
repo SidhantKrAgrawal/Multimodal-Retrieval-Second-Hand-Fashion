@@ -1,0 +1,25 @@
+{
+    "brand": "DA17 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "8 (UK)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Good quality soft trousers",
+    "usage": "Reuse"
+}

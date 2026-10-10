@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Petit",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "140",
+    "colors": [
+        "Black",
+        "Beige"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

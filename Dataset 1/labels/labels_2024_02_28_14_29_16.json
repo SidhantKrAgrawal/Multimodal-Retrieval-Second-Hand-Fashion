@@ -1,0 +1,41 @@
+{
+    "brand": "Eton",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "43",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "77% cotton, 23% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Men",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "stained collar"
+}

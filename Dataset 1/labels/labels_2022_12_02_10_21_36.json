@@ -1,0 +1,28 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "M ",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Glitter",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

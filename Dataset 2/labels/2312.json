@@ -1,0 +1,28 @@
+{
+    "brand": "Zar Parachute",
+    "brandtext": "Zar Parachute",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "M",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Relaxed",
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Patch, pockets",
+    "usage": "Reuse"
+}

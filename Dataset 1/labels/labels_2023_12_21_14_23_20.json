@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Cope",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "130",
+    "colors": [
+        "Red",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig sweater ",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "nopprigt"
+}

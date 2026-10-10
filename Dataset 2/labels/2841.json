@@ -1,0 +1,25 @@
+{
+    "brand": "Pretty Little Thing",
+    "brandtext": "Pretty Little Thing",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "10",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

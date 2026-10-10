@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "fashion jeans",
+    "brand_missing": false,
+    "size": "34",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "72% bomull 28% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jeans med glitter detaljer",
+    "comment": "urtv\u00e4ttade",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Oversize"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "l\u00f6s tr\u00e5d",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "blekt tyg",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": ""
+}

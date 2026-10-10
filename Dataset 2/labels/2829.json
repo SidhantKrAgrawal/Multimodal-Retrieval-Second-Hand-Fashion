@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara",
+    "category": "Women",
+    "type": "Blouse",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Oversized"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Lace insert, entire lace slip",
+    "usage": "Reuse"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Selected Homme",
+    "brandtext": "Selected Homme",
+    "category": "Women",
+    "type": "Dress",
+    "size": "8",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular",
+        "Fit and Flare"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

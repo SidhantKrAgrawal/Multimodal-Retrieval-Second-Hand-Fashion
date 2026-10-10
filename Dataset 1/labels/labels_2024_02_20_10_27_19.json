@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Earth positive",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "74% Cotton 26% Viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "grey tank top with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Tank top ",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "damaged print",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "top left",
+    "damage3": "stain"
+}

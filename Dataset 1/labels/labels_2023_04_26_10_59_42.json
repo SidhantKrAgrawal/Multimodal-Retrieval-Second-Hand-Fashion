@@ -1,0 +1,27 @@
+{
+    "brand": "Rosebud",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "XS",
+    "colors": [
+        "Grey"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "66% viscose, 34% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

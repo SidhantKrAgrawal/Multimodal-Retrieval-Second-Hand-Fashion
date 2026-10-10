@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Xlnt",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "L",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "98% Polyester 2% Elastane",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "TU",
+    "brandtext": "TU",
+    "category": "Women",
+    "type": "Jackets",
+    "size": "10",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

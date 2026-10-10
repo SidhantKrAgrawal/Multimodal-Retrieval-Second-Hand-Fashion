@@ -1,0 +1,27 @@
+{
+    "brand": "None",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "32/30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All season",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Straight"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

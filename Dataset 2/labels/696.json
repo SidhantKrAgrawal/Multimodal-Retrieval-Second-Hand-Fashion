@@ -1,0 +1,27 @@
+{
+    "brand": "River Island",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Blazer Jackets",
+    "size": "S",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Smart Casual"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Too small for seller",
+    "usage": "Reuse"
+}

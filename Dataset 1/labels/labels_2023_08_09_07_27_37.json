@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "terinit",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 kofta med dragkedja och logga fram, lite nopprig och n\u00e5gon fl\u00e4ck, urtv\u00e4ttade muffar",
+    "comment": "vintage sports",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "Logo print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

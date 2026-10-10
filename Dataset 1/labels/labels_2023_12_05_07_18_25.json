@@ -1,0 +1,42 @@
+{
+    "brand": "Park Lane",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 l\u00e5ng\u00e4rmad tr\u00f6ja med h\u00f6g krage, flera h\u00e5l p\u00e5 armarna och urtv\u00e4ttad",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Top",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "h\u00e5l arm",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "h\u00e5l arm",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

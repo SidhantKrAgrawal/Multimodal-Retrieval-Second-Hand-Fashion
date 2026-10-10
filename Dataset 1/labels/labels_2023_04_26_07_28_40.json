@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "\u00c5hlens",
+    "category": "Children",
+    "type": "Shirt",
+    "size": "86",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Pink",
+        "Yellow"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

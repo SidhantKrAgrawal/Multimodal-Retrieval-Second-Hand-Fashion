@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Xdsystem",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "130",
+    "colors": [
+        "White",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "sweater med turtle neck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "smutsigt",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "smutsigt"
+}

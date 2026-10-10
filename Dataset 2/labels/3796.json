@@ -1,0 +1,26 @@
+{
+    "brand": "E7 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Dress",
+    "size": "M",
+    "colors": [
+        "Beige",
+        "Gold"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Lovely Ciecero Leopard print dress which can also be worn as a top with leggings. Gold silk neck, an",
+    "usage": "Reuse"
+}

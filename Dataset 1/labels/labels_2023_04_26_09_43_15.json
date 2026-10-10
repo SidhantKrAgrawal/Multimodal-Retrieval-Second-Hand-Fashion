@@ -1,0 +1,29 @@
+{
+    "brand": "Adidas",
+    "brandtext": "",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "152",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "Sports",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "minor smell of perfume",
+    "usage": "Recycle"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Burton",
+    "brandtext": "Burton",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "38",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New in sealed packaging",
+    "usage": "Reuse"
+}

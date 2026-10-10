@@ -1,0 +1,28 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Sweater",
+    "size": "None",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,32 @@
+{
+    "brand": "Newbie (Kappahl)",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Blouse",
+    "size": "122",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Green",
+        "Pink",
+        "Brown"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

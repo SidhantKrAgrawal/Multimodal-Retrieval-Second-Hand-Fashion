@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Red & Blue",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "98",
+    "colors": [
+        "Blue",
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,31 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "None",
+    "colors": [
+        "Multicolor",
+        "Yellow",
+        "White",
+        "Green",
+        "Pink"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Cropped"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Pulled thread",
+    "material": "100%Visc",
+    "comment": "",
+    "usage": "Reuse"
+}

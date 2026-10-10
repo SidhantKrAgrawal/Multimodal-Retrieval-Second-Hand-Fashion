@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "63% polyester 37% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "lila blus med broderade blommor p\u00e5 kragen, lite gul i armh\u00e5lor och krage, vintage",
+    "comment": "vintage",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

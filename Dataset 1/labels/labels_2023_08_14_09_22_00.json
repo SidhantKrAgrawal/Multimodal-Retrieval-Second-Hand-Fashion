@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SVESKO",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "80s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "hole",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "hole",
+    "damage3image": "back",
+    "damage3loc": "None",
+    "damage3": ""
+}

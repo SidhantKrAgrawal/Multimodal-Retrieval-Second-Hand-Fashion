@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Ilse Jacobsen",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "M ",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "5",
+    "cut": [
+        "V-collar",
+        "Oversize"
+    ],
+    "pattern": "Glitter",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "85% viscose, 15% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

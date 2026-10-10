@@ -1,0 +1,30 @@
+{
+    "brand": "Craft",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Training top",
+    "size": "44",
+    "colors": [
+        "Black",
+        "Red",
+        "Grey",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "Logo print",
+    "trend": "Sports",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Pulled threads",
+    "material": "92% polyester, 8% lycra",
+    "comment": "",
+    "usage": "Export"
+}

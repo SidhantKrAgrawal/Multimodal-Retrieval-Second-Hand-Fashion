@@ -1,0 +1,27 @@
+{
+    "brand": "Mckenzie",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "S/M",
+    "colors": [
+        "CM16 Forest"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Excellent clean condition",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "full tilt",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "washed out",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "pilling",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "pilling",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Lilly of Sweden",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Lace",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "50%cotton 50%viscose",
+    "comment": "",
+    "usage": "Export"
+}

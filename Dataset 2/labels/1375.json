@@ -1,0 +1,27 @@
+{
+    "brand": "Ben Sherman",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "L",
+    "colors": [
+        "Dark Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny Fit"
+    ],
+    "pattern": "Checked",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "New, Made from 100% cotton poplin for ultimate comfort, Tailored skinny fit.",
+    "usage": "Reuse"
+}

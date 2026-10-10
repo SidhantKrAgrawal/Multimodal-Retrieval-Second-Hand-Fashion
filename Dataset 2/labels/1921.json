@@ -1,0 +1,26 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Printed T-Shirts",
+    "size": "L",
+    "colors": [
+        "Blue",
+        "Multi"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Graphic",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

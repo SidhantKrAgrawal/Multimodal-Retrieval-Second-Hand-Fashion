@@ -1,0 +1,43 @@
+{
+    "brand": "Wico",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Brown",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "61% polyester 39% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "top med m\u00f6nster",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "80s",
+    "pattern": "Animal print",
+    "pilling": 4,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "dragen tr\u00e5d och luktar illa",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "luddigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "luktar illa"
+}

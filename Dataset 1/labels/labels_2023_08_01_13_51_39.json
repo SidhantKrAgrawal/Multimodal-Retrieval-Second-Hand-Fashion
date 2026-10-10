@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Gallini",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "None",
+    "condition": 4,
+    "material": "75% acry, 25% wool",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Black vintage cardigan with red details from Gallini, size XL. Good condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Men",
+    "type": "Cardigan",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

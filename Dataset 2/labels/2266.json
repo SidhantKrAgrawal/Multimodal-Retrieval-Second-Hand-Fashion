@@ -1,0 +1,25 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Summer",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "used but in good condition",
+    "usage": "Reuse"
+}

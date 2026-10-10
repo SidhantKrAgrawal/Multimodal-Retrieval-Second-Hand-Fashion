@@ -1,0 +1,42 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "xlnt",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% acrylic",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "melerad stickad v\u00e4st, urtv\u00e4ttad",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Vest",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": ""
+}

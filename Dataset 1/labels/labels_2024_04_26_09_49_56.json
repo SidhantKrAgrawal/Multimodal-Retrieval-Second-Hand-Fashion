@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "sewelly",
+    "brand_missing": false,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Green",
+        "Pink"
+    ],
+    "season": "Spring",
+    "condition": 2,
+    "material": "81% Cotton 19% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jeans with floralprint",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

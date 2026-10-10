@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Dr.Zipe",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Winter",
+    "condition": 2,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "termobyxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Outerwear",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom left",
+    "damage": "l\u00f6sa tr\u00e5dar, slitet och smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Peak Performance",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "33",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Polyester ",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "pulled threads",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

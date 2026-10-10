@@ -1,0 +1,42 @@
+{
+    "brand": "Five Seasons",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 vindjacka med logga fram, vitt streck bak",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "vitt streck",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

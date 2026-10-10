@@ -1,0 +1,27 @@
+{
+    "brand": "All Saints",
+    "brandtext": "All Saints",
+    "category": "Men",
+    "type": "Slim Jeans",
+    "size": "32",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Great looking men’s All Saints Cigarette Slim Jeans Size W32 in very good condition",
+    "usage": "Reuse"
+}

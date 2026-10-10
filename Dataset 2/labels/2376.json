@@ -1,0 +1,27 @@
+{
+    "brand": "Hollister",
+    "brandtext": "Hollister",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "36",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Excellent used condition",
+    "usage": "Reuse"
+}

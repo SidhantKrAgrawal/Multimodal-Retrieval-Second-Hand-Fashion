@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vero moda",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "60% akryl 40% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "ribbstickad sweater",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

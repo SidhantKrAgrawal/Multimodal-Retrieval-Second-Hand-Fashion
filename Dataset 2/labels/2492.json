@@ -1,0 +1,27 @@
+{
+    "brand": "Superdry",
+    "brandtext": "Superdry",
+    "category": "Women",
+    "type": "Other",
+    "size": "M",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Vintage",
+    "usage": "Reuse"
+}

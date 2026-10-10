@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "L",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

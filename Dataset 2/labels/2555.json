@@ -1,0 +1,27 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "Marks & Spencer",
+    "category": "Women",
+    "type": "Long Sleeve Tops",
+    "size": "12",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "The shirt needs iron",
+    "usage": "Reuse"
+}

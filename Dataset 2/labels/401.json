@@ -1,0 +1,25 @@
+{
+    "brand": "Polo Sport",
+    "brandtext": "Polo ASSN",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Lovely Polo ASSN cardigan in like new condition only worn about 3 times.",
+    "usage": "Reuse"
+}

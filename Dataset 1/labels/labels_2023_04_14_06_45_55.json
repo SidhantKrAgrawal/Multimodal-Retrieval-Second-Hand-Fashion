@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "GINA BENOTTI",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "44",
+    "colors": [
+        "White",
+        "Red",
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Minor",
+    "damage": "Washed out",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Export"
+}

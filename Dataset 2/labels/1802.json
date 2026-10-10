@@ -1,0 +1,25 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "One zipped",
+    "usage": "Reuse"
+}

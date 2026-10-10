@@ -1,0 +1,30 @@
+{
+    "brand": "Mckinley (Intersport)",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Outerwear",
+    "size": "122",
+    "colors": [
+        "Multicolor",
+        "Pink",
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

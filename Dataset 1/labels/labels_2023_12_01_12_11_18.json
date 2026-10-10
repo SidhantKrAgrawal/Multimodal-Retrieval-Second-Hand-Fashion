@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Multicolor",
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 4,
+    "material": "100% viskos",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "randig pjamas",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Pajamas",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "l\u00f6s tr\u00e5d",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "l\u00f6s tr\u00e5d",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Men",
+    "type": "Basic T-Shirts",
+    "size": "L",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "Small hole",
+    "material": "",
+    "comment": "Small hole otherwise good used condition",
+    "usage": "Reuse"
+}

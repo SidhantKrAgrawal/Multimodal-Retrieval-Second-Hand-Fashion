@@ -1,0 +1,42 @@
+{
+    "brand": "Ralph Lauren",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "\u00e4rml\u00f6s skjorta med vita knappar och broderi tryck",
+    "comment": "material g\u00e5r ej att l\u00e4sa",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "stora smuts fl\u00e4ckar",
+    "damage2image": "back",
+    "damage2loc": "bottom center",
+    "damage2": "liten smuts fl\u00e4ck ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

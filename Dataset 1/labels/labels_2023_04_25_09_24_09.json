@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Pytteliten",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "80",
+    "colors": [
+        "Orange",
+        "Black"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

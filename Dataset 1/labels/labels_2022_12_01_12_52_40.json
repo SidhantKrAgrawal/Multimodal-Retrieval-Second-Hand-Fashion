@@ -1,0 +1,28 @@
+{
+    "brand": "Park Lane",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "M ",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

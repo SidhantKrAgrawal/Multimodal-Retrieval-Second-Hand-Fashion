@@ -1,0 +1,27 @@
+{
+    "brand": "Dorothy Perkins",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "36",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "5",
+    "material": "52%cotton 48%acrylic",
+    "comment": "",
+    "usage": "Export"
+}

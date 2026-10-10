@@ -1,0 +1,29 @@
+{
+    "brand": "Flash",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Red",
+        "Blue",
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "stain",
+    "material": "100%cott",
+    "comment": "",
+    "usage": "Recycle"
+}

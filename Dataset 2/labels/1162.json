@@ -1,0 +1,27 @@
+{
+    "brand": "Matalan",
+    "brandtext": "Matalan",
+    "category": "Men",
+    "type": "Straight Jeans",
+    "size": "36L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Straight leg"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

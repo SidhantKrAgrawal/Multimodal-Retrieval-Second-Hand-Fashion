@@ -1,0 +1,43 @@
+{
+    "brand": "Skill",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "146",
+    "sizetext": "146/152",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% cott",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Yellow tank top for kids from Skill, size 146/152. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "Tank top ",
+    "cut": [
+        "Regular",
+        "C-collar",
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+myproject/
+
+# macOS
+.DS_Store
+
+
+# Datasets - images (too large for GitHub)
+Dataset 1/images/
+Dataset 2/images/
+Dataset 2/images
+Dataset 2/generate_embeddings/app/frontend/my-app/public/images/
+
+# Pre-computed embeddings (regenerable from scripts)
+Dataset 1/embeddings/
+Dataset 2/embeddings/
+Dataset 1/fused_embeddings/
+Dataset 2/fused_embeddings/
+
+# Trained model checkpoints
+Dataset 1/models/
+Dataset 2/models/
+Dataset 1/ablation_models/
+Dataset 2/ablation_models/
+
+# Generated results and qualitative outputs
+# (held-out results are kept: every number in the paper comes from them)
+Dataset 1/results/*
+Dataset 2/results/*
+!Dataset 1/results/heldout_results.json
+!Dataset 2/results/heldout_results.json
+
+# Common ML artifacts
+*.pt
+*.pth
+*.pkl
+*.h5
+*.ckpt
+*.safetensors
+*.npy
+*.npz
+
+# Not part of the public release
+paper_context/
+*.log
+generate_qual_report.py
+generate_umap_report.py
+experiments/tier_significance.py
+Dataset 1/results_tier_significance.txt
+Dataset 2/results_tier_significance.txt
+
+# Raw scraped listings (seller text, locations, URLs)
+Dataset 2/labels.csv
+Dataset 2/generate_embeddings/app/frontend/my-app/public/labels.csv

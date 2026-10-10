@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Jersey modeller",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "38",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "77% wool, 23% acrylic",
+    "comment": "Vintage",
+    "usage": "Reuse"
+}

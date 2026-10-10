@@ -1,0 +1,41 @@
+{
+    "brand": "G-Star Raw",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "63% Viscose 37% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "damaged fabric",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "hole",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "River Island",
+    "brandtext": "River Island",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "S",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50%wool 50%polyester",
+    "comment": "half leather half wool Cardigan",
+    "usage": "Reuse"
+}

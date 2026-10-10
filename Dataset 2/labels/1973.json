@@ -1,0 +1,25 @@
+{
+    "brand": "River Island",
+    "brandtext": "River Island",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "L",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "bobbly and cube fad",
+    "usage": "Reuse"
+}

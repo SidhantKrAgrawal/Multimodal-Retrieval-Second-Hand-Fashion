@@ -1,0 +1,42 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "128",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "62% bomull 38% viskos",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "ljusbl\u00e5a jeans",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top right",
+    "damage": "l\u00f6s tr\u00e5d",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

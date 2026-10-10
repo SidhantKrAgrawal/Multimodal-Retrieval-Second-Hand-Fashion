@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Pripps",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "60% Acryl 40% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "red sweatshirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "90s",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "stain",
+    "damage3image": "back",
+    "damage3loc": "middle right",
+    "damage3": "hole"
+}

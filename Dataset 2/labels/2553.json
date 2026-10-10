@@ -1,0 +1,23 @@
+{
+    "brand": "Primark",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Other",
+    "size": "6 (UK)",
+    "colors": [],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Could do with a wash",
+    "usage": "Reuse"
+}

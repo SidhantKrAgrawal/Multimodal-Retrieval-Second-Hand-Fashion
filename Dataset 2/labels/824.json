@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Men",
+    "type": "Jackets",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "",
+    "comment": "Minor rip",
+    "usage": "Reuse"
+}

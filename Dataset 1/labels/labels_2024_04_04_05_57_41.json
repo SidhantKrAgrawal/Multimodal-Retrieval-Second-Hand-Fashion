@@ -1,0 +1,42 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "62% nylon 38% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "t-shirt med br\u00f6st ficka",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 4,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "luktar illa och dammig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "luktar illa och dammig ",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "luddig"
+}

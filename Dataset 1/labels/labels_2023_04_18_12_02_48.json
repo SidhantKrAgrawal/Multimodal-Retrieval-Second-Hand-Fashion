@@ -1,0 +1,29 @@
+{
+    "brand": "Jack And Jones",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "S ",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

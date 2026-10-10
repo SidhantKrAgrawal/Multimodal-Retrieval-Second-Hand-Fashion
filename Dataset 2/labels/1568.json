@@ -1,0 +1,27 @@
+{
+    "brand": "Polo",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Polo shirt",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn for only once",
+    "usage": "Reuse"
+}

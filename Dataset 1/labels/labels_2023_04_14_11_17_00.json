@@ -1,0 +1,27 @@
+{
+    "brand": "Brandtex",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "42",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 2,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "vintage",
+    "usage": "Reuse"
+}

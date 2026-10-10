@@ -1,0 +1,29 @@
+{
+    "brand": "Gina Tricot",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "size": "XS",
+    "colors": [
+        "Green",
+        "White",
+        "Blue"
+    ],
+    "season": "None",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Washed out",
+    "material": "81% Cotton 19% Polyester",
+    "comment": "",
+    "usage": "Export"
+}

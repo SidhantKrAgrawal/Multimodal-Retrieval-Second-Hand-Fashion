@@ -1,0 +1,28 @@
+{
+    "brand": "Tenson",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Outerwear",
+    "size": "98",
+    "colors": [
+        "Pink",
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Major",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

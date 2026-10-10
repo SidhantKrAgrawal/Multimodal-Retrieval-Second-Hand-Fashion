@@ -1,0 +1,25 @@
+{
+    "brand": "Polo Ralph Lauren",
+    "brandtext": "Polo Ralph Lauren",
+    "category": "Women",
+    "type": "T-Shirts",
+    "size": "S",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Like new, worn a handful of times",
+    "usage": "Reuse"
+}

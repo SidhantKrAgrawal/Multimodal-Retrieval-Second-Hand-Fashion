@@ -1,0 +1,1449 @@
+Loading embeddings and labels...
+[WARNING] Skipped 15 items due to missing files:
+  15x — missing embedding in txt_embeddings_fashionclip
+[INFO] 4683 / 4698 items retained after completeness check.
+[INFO] Loaded 4727 labels (index-based) from 'Dataset 2/labels'
+
+============================================================
+METHOD: SELFATTENTION
+============================================================
+  Embedding dim: 1024  ⚠ expected 2048
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [4215] → 572.pt
+    [1327] → 2211.pt
+    [1073] → 1982.pt
+    [1114] → 2018.pt
+    [903] → 1828.pt
+    [1276] → 2164.pt
+    [1613] → 2477.pt
+    [1142] → 2043.pt
+    [1317] → 2201.pt
+    [1432] → 2312.pt
+  PDF   → Dataset 2/results/results_example_selfattention_hnsw.pdf
+  GT results:
+    recall       @5: 0.1069  @10: 0.1738  @20: 0.2692
+    ndcg         @5: 0.8929  @10: 0.8637  @20: 0.8310
+    precision    @5: 0.8718  @10: 0.8215  @20: 0.7522
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — selfattention / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.997  ████████████████████
+  season           0.879  ██████████████████░░
+  type             0.872  █████████████████░░░
+  pattern          0.793  ████████████████░░░░
+  colors           0.771  ███████████████░░░░░
+  cut              0.722  ██████████████░░░░░░
+  condition        0.649  █████████████░░░░░░░
+  price            0.375  ████████░░░░░░░░░░░░
+  brand            0.182  ████░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 6.13
+  price                 2.94
+  colors                2.32
+  condition             2.02
+  pattern               1.72
+  type                  1.60
+  season                1.48
+  cut                   1.30
+  category              1.01
+
+🔀  Intra-List Diversity (ILD): 0.3109   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: COATTENTION
+============================================================
+  Embedding dim: 1024  ⚠ expected 2048
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [4215] → 572.pt
+    [503] → 1461.pt
+    [1482] → 2359.pt
+    [17] → 1013.pt
+    [1114] → 2018.pt
+    [1613] → 2477.pt
+    [1317] → 2201.pt
+    [1375] → 2261.pt
+    [1110] → 2014.pt
+    [1262] → 2151.pt
+  PDF   → Dataset 2/results/results_example_coattention_hnsw.pdf
+  GT results:
+    recall       @5: 0.0934  @10: 0.1590  @20: 0.2560
+    ndcg         @5: 0.8373  @10: 0.8177  @20: 0.7934
+    precision    @5: 0.8214  @10: 0.7845  @20: 0.7278
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — coattention / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.996  ████████████████████
+  season           0.859  █████████████████░░░
+  type             0.849  █████████████████░░░
+  pattern          0.773  ███████████████░░░░░
+  colors           0.736  ███████████████░░░░░
+  cut              0.680  ██████████████░░░░░░
+  condition        0.644  █████████████░░░░░░░
+  price            0.375  ███████░░░░░░░░░░░░░
+  brand            0.170  ███░░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 6.92
+  price                 2.99
+  colors                2.96
+  condition             2.05
+  pattern               1.94
+  type                  1.79
+  season                1.61
+  cut                   1.48
+  category              1.01
+
+🔀  Intra-List Diversity (ILD): 0.3449   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: CROSSATTENTION
+============================================================
+  Embedding dim: 1024  ⚠ expected 2048
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [4215] → 572.pt
+    [4505] → 835.pt
+    [4108] → 475.pt
+    [4263] → 617.pt
+    [4534] → 861.pt
+    [1613] → 2477.pt
+    [1482] → 2359.pt
+    [17] → 1013.pt
+    [4236] → 592.pt
+    [4416] → 755.pt
+  PDF   → Dataset 2/results/results_example_crossattention_hnsw.pdf
+  GT results:
+    recall       @5: 0.1024  @10: 0.1696  @20: 0.2607
+    ndcg         @5: 0.8841  @10: 0.8525  @20: 0.8170
+    precision    @5: 0.8645  @10: 0.8109  @20: 0.7391
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — crossattention / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.997  ████████████████████
+  type             0.871  █████████████████░░░
+  season           0.867  █████████████████░░░
+  pattern          0.786  ████████████████░░░░
+  colors           0.764  ███████████████░░░░░
+  cut              0.692  ██████████████░░░░░░
+  condition        0.633  █████████████░░░░░░░
+  price            0.374  ███████░░░░░░░░░░░░░
+  brand            0.162  ███░░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 6.54
+  price                 2.94
+  colors                2.41
+  condition             2.04
+  pattern               1.78
+  type                  1.59
+  season                1.53
+  cut                   1.33
+  category              1.01
+
+🔀  Intra-List Diversity (ILD): 0.3195   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: CONCAT
+============================================================
+  Embedding dim: 3328  ⚠ expected 2432
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [903] → 1828.pt
+    [904] → 1829.pt
+    [896] → 1821.pt
+    [1114] → 2018.pt
+    [1351] → 2233.pt
+    [1317] → 2201.pt
+    [1012] → 1926.pt
+    [912] → 1836.pt
+    [2007] → 2831.pt
+    [1360] → 2241.pt
+  PDF   → Dataset 2/results/results_example_concat_hnsw.pdf
+  GT results:
+    recall       @5: 0.0477  @10: 0.0799  @20: 0.1279
+    ndcg         @5: 0.5510  @10: 0.5218  @20: 0.4938
+    precision    @5: 0.5290  @10: 0.4896  @20: 0.4462
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — concat / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.914  ██████████████████░░
+  pattern          0.805  ████████████████░░░░
+  season           0.775  ███████████████░░░░░
+  cut              0.687  ██████████████░░░░░░
+  condition        0.684  ██████████████░░░░░░
+  colors           0.607  ████████████░░░░░░░░
+  type             0.574  ███████████░░░░░░░░░
+  price            0.383  ████████░░░░░░░░░░░░
+  brand            0.240  █████░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 5.95
+  colors                3.37
+  type                  3.25
+  price                 2.94
+  condition             2.02
+  season                1.84
+  pattern               1.67
+  cut                   1.40
+  category              1.37
+
+🔀  Intra-List Diversity (ILD): 0.4069   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: CONCAT_PCA_512
+============================================================
+  Embedding dim: 512
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [903] → 1828.pt
+    [904] → 1829.pt
+    [896] → 1821.pt
+    [1317] → 2201.pt
+    [1351] → 2233.pt
+    [1114] → 2018.pt
+    [912] → 1836.pt
+    [1012] → 1926.pt
+    [2007] → 2831.pt
+    [1816] → 266.pt
+  PDF   → Dataset 2/results/results_example_concat_pca_512_hnsw.pdf
+  GT results:
+    recall       @5: 0.0471  @10: 0.0784  @20: 0.1280
+    ndcg         @5: 0.5495  @10: 0.5200  @20: 0.4936
+    precision    @5: 0.5277  @10: 0.4883  @20: 0.4472
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — concat_pca_512 / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.916  ██████████████████░░
+  pattern          0.800  ████████████████░░░░
+  season           0.772  ███████████████░░░░░
+  cut              0.684  ██████████████░░░░░░
+  condition        0.682  ██████████████░░░░░░
+  colors           0.608  ████████████░░░░░░░░
+  type             0.571  ███████████░░░░░░░░░
+  price            0.384  ████████░░░░░░░░░░░░
+  brand            0.233  █████░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 6.19
+  colors                3.42
+  type                  3.28
+  price                 2.95
+  condition             2.03
+  season                1.86
+  pattern               1.71
+  cut                   1.43
+  category              1.37
+
+🔀  Intra-List Diversity (ILD): 0.4115   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: CONCAT_TEXT_HEAVY
+============================================================
+  Embedding dim: 3328  ⚠ expected 2432
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [4215] → 572.pt
+    [1114] → 2018.pt
+    [1327] → 2211.pt
+    [492] → 1451.pt
+    [1816] → 266.pt
+    [1101] → 2006.pt
+    [659] → 1601.pt
+    [1221] → 2114.pt
+    [4447] → 783.pt
+    [869] → 1791.pt
+  PDF   → Dataset 2/results/results_example_concat_text_heavy_hnsw.pdf
+  GT results:
+    recall       @5: 0.0710  @10: 0.1154  @20: 0.1814
+    ndcg         @5: 0.6805  @10: 0.6504  @20: 0.6193
+    precision    @5: 0.6583  @10: 0.6136  @20: 0.5592
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — concat_text_heavy / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.952  ███████████████████░
+  season           0.815  ████████████████░░░░
+  pattern          0.809  ████████████████░░░░
+  condition        0.735  ███████████████░░░░░
+  colors           0.735  ███████████████░░░░░
+  cut              0.709  ██████████████░░░░░░
+  type             0.670  █████████████░░░░░░░
+  price            0.396  ████████░░░░░░░░░░░░
+  brand            0.320  ██████░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 4.95
+  price                 2.90
+  type                  2.81
+  colors                2.58
+  condition             1.91
+  season                1.74
+  pattern               1.65
+  cut                   1.33
+  category              1.25
+
+🔀  Intra-List Diversity (ILD): 0.3503   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: CONCAT_IMAGE_HEAVY
+============================================================
+  Embedding dim: 3328  ⚠ expected 2432
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [903] → 1828.pt
+    [904] → 1829.pt
+    [896] → 1821.pt
+    [2069] → 2889.pt
+    [1360] → 2241.pt
+    [1291] → 2178.pt
+    [1351] → 2233.pt
+    [2035] → 2857.pt
+    [1804] → 2649.pt
+    [1349] → 2231.pt
+  PDF   → Dataset 2/results/results_example_concat_image_heavy_hnsw.pdf
+  GT results:
+    recall       @5: 0.0240  @10: 0.0388  @20: 0.0640
+    ndcg         @5: 0.3420  @10: 0.3199  @20: 0.3007
+    precision    @5: 0.3264  @10: 0.2991  @20: 0.2731
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — concat_image_heavy / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.793  ████████████████░░░░
+  pattern          0.781  ████████████████░░░░
+  season           0.703  ██████████████░░░░░░
+  cut              0.649  █████████████░░░░░░░
+  condition        0.612  ████████████░░░░░░░░
+  type             0.415  ████████░░░░░░░░░░░░
+  colors           0.391  ████████░░░░░░░░░░░░
+  price            0.363  ███████░░░░░░░░░░░░░
+  brand            0.142  ███░░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 7.09
+  colors                4.50
+  type                  4.05
+  price                 3.01
+  condition             2.08
+  season                2.03
+  pattern               1.83
+  category              1.62
+  cut                   1.53
+
+🔀  Intra-List Diversity (ILD): 0.4869   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: CONCAT_DINO_BOOST
+============================================================
+  Embedding dim: 3328  ⚠ expected 2432
+
+  --- Backend: HNSW ---
+
+  Query : 1914.pt
+  Retrieved:
+    [903] → 1828.pt
+    [904] → 1829.pt
+    [896] → 1821.pt
+    [1351] → 2233.pt
+    [1360] → 2241.pt
+    [2069] → 2889.pt
+    [912] → 1836.pt
+    [1317] → 2201.pt
+    [1291] → 2178.pt
+    [1114] → 2018.pt
+  PDF   → Dataset 2/results/results_example_concat_dino_boost_hnsw.pdf
+  GT results:
+    recall       @5: 0.0374  @10: 0.0609  @20: 0.0999
+    ndcg         @5: 0.4807  @10: 0.4508  @20: 0.4227
+    precision    @5: 0.4597  @10: 0.4216  @20: 0.3815
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — concat_dino_boost / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.884  ██████████████████░░
+  pattern          0.795  ████████████████░░░░
+  season           0.751  ███████████████░░░░░
+  cut              0.672  █████████████░░░░░░░
+  condition        0.662  █████████████░░░░░░░
+  colors           0.523  ██████████░░░░░░░░░░
+  type             0.517  ██████████░░░░░░░░░░
+  price            0.378  ████████░░░░░░░░░░░░
+  brand            0.201  ████░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 6.39
+  colors                3.84
+  type                  3.52
+  price                 2.97
+  condition             2.04
+  season                1.90
+  pattern               1.73
+  category              1.46
+  cut                   1.45
+
+🔀  Intra-List Diversity (ILD): 0.4373   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+METHOD: LATE FUSION (Weighted Exponential Score)
+  Modalities : ['image_clip', 'image_dino', 'text_clip', 'text_qwen']
+  Weights    : {'image_clip': 0.8, 'image_dino': 0.8, 'text_clip': 0.8, 'text_qwen': 0.8}
+  Alpha      : 5.0  |  Search-k: 60
+============================================================
+  Built HNSW indexes: ['image_clip', 'image_dino', 'text_clip', 'text_qwen']
+
+  Query : 668.pt
+  Late-fusion retrieved:
+    [4144] → 507.pt  score: 2.16030
+    [4146] → 509.pt  score: 1.93699
+    [4471] → 804.pt  score: 1.59629
+    [4439] → 776.pt  score: 1.48752
+    [4462] → 797.pt  score: 1.37536
+    [4038] → 468.pt  score: 1.16874
+    [4490] → 821.pt  score: 1.15691
+    [4491] → 822.pt  score: 1.11001
+    [4449] → 785.pt  score: 1.02954
+    [4119] → 485.pt  score: 0.99653
+  PDF   → Dataset 2/results/results_example_latefusion.pdf
+
+  Running GT evaluation...
+  GT results:
+    recall       @5: 0.0619  @10: 0.1016  @20: 0.1608
+    ndcg         @5: 0.6242  @10: 0.5939  @20: 0.5609
+    precision    @5: 0.6041  @10: 0.5593  @20: 0.5043
+  Collecting per-query scores for significance tests...
+
+  Running profile evaluation...
+
+============================================================
+Profile Report — late_fusion / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.922  ██████████████████░░
+  pattern          0.812  ████████████████░░░░
+  season           0.808  ████████████████░░░░
+  condition        0.711  ██████████████░░░░░░
+  cut              0.699  ██████████████░░░░░░
+  colors           0.676  ██████████████░░░░░░
+  type             0.628  █████████████░░░░░░░
+  price            0.392  ████████░░░░░░░░░░░░
+  brand            0.283  ██████░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 5.41
+  type                  3.00
+  price                 2.91
+  colors                2.91
+  condition             1.97
+  season                1.75
+  pattern               1.63
+  cut                   1.38
+  category              1.35
+
+🔀  Intra-List Diversity (ILD): 0.3762   (0=identical results, 1=fully varied)
+============================================================
+
+
+  Building LateFusionSearchAdapter for sensitivity analysis...
+
+======================================================================
+COMPARISON — FOCUS  (avg match rate, k=10)
+======================================================================
+  Attribute       selfattentio  coattention   crossattenti  concat        concat_pca_5  concat_text_  concat_image  concat_dino_  late_fusion 
+  --------------------------------------------------------------------------------------------------------------------------------------------
+  category        0.997         0.996         0.997         0.914         0.916         0.952         0.793         0.884         0.922       
+  type            0.872         0.849         0.871         0.574         0.571         0.670         0.415         0.517         0.628       
+  colors          0.771         0.736         0.764         0.607         0.608         0.735         0.391         0.523         0.676       
+  season          0.879         0.859         0.867         0.775         0.772         0.815         0.703         0.751         0.808       
+  brand           0.182         0.170         0.162         0.240         0.233         0.320         0.142         0.201         0.283       
+  pattern         0.793         0.773         0.786         0.805         0.800         0.809         0.781         0.795         0.812       
+  cut             0.722         0.680         0.692         0.687         0.684         0.709         0.649         0.672         0.699       
+  price           0.375         0.375         0.374         0.383         0.384         0.396         0.363         0.378         0.392       
+  condition       0.649         0.644         0.633         0.684         0.682         0.735         0.612         0.662         0.711       
+
+  ILD             0.3109        0.3449        0.3195        0.4069        0.4115        0.3503        0.4869        0.4373        0.3762      
+======================================================================
+
+
+============================================================
+STATISTICAL SIGNIFICANCE TESTS
+============================================================
+  Methods in test: ['selfattention', 'coattention', 'crossattention', 'concat', 'concat_pca_512', 'concat_text_heavy', 'concat_image_heavy', 'concat_dino_boost', 'late_fusion']
+
+========================================================================
+  selfattention  vs  coattention
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0504 ▲     0.0000     0.0000  +0.290       small  ✅  sig.
+  precision@10         +0.0370 ▲     0.0000     0.0000  +0.279       small  ✅  sig.
+  precision@20         +0.0244 ▲     0.0000     0.0000  +0.234       small  ✅  sig.
+  recall@5          +0.0135 ▲     0.0000     0.0000  +0.136  negligible  ✅  sig.
+  recall@10         +0.0147 ▲     0.0000     0.0000  +0.137  negligible  ✅  sig.
+  recall@20         +0.0132 ▲     0.0000     0.0000  +0.118  negligible  ✅  sig.
+  ndcg@5          +0.0557 ▲     0.0000     0.0000  +0.307       small  ✅  sig.
+  ndcg@10         +0.0460 ▲     0.0000     0.0000  +0.313       small  ✅  sig.
+  ndcg@20         +0.0375 ▲     0.0000     0.0000  +0.293       small  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  crossattention
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0073 ▲     0.0000     0.0001  +0.059  negligible  ✅  sig.
+  precision@10         +0.0105 ▲     0.0000     0.0000  +0.104  negligible  ✅  sig.
+  precision@20         +0.0130 ▲     0.0000     0.0000  +0.157  negligible  ✅  sig.
+  recall@5          +0.0045 ▲     0.0008     0.0003  +0.053  negligible  ✅  sig.
+  recall@10         +0.0042 ▲     0.0000     0.0008  +0.049  negligible  ✅  sig.
+  recall@20         +0.0085 ▲     0.0000     0.0000  +0.091  negligible  ✅  sig.
+  ndcg@5          +0.0089 ▲     0.0000     0.0000  +0.069  negligible  ✅  sig.
+  ndcg@10         +0.0112 ▲     0.0000     0.0000  +0.104  negligible  ✅  sig.
+  ndcg@20         +0.0140 ▲     0.0000     0.0000  +0.141  negligible  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  concat
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.3428 ▲     0.0000     0.0000  +1.108       large  ✅  sig.
+  precision@10         +0.3319 ▲     0.0000     0.0000  +1.216       large  ✅  sig.
+  precision@20         +0.3059 ▲     0.0000     0.0000  +1.238       large  ✅  sig.
+  recall@5          +0.0592 ▲     0.0000     0.0000  +0.419       small  ✅  sig.
+  recall@10         +0.0939 ▲     0.0000     0.0000  +0.515      medium  ✅  sig.
+  recall@20         +0.1413 ▲     0.0000     0.0000  +0.619      medium  ✅  sig.
+  ndcg@5          +0.3420 ▲     0.0000     0.0000  +1.076       large  ✅  sig.
+  ndcg@10         +0.3419 ▲     0.0000     0.0000  +1.215       large  ✅  sig.
+  ndcg@20         +0.3371 ▲     0.0000     0.0000  +1.306       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  concat_pca_512
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.3441 ▲     0.0000     0.0000  +1.105       large  ✅  sig.
+  precision@10         +0.3332 ▲     0.0000     0.0000  +1.216       large  ✅  sig.
+  precision@20         +0.3050 ▲     0.0000     0.0000  +1.231       large  ✅  sig.
+  recall@5          +0.0598 ▲     0.0000     0.0000  +0.421       small  ✅  sig.
+  recall@10         +0.0954 ▲     0.0000     0.0000  +0.521      medium  ✅  sig.
+  recall@20         +0.1412 ▲     0.0000     0.0000  +0.617      medium  ✅  sig.
+  ndcg@5          +0.3435 ▲     0.0000     0.0000  +1.075       large  ✅  sig.
+  ndcg@10         +0.3437 ▲     0.0000     0.0000  +1.219       large  ✅  sig.
+  ndcg@20         +0.3374 ▲     0.0000     0.0000  +1.304       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2135 ▲     0.0000     0.0000  +0.771      medium  ✅  sig.
+  precision@10         +0.2078 ▲     0.0000     0.0000  +0.854       large  ✅  sig.
+  precision@20         +0.1930 ▲     0.0000     0.0000  +0.871       large  ✅  sig.
+  recall@5          +0.0359 ▲     0.0000     0.0000  +0.285       small  ✅  sig.
+  recall@10         +0.0584 ▲     0.0000     0.0000  +0.365       small  ✅  sig.
+  recall@20         +0.0878 ▲     0.0000     0.0000  +0.436       small  ✅  sig.
+  ndcg@5          +0.2125 ▲     0.0000     0.0000  +0.749      medium  ✅  sig.
+  ndcg@10         +0.2133 ▲     0.0000     0.0000  +0.850       large  ✅  sig.
+  ndcg@20         +0.2116 ▲     0.0000     0.0000  +0.901       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  concat_image_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.5454 ▲     0.0000     0.0000  +1.679       large  ✅  sig.
+  precision@10         +0.5224 ▲     0.0000     0.0000  +1.787       large  ✅  sig.
+  precision@20         +0.4791 ▲     0.0000     0.0000  +1.747       large  ✅  sig.
+  recall@5          +0.0829 ▲     0.0000     0.0000  +0.531      medium  ✅  sig.
+  recall@10         +0.1349 ▲     0.0000     0.0000  +0.658      medium  ✅  sig.
+  recall@20         +0.2052 ▲     0.0000     0.0000  +0.797      medium  ✅  sig.
+  ndcg@5          +0.5510 ▲     0.0000     0.0000  +1.642       large  ✅  sig.
+  ndcg@10         +0.5438 ▲     0.0000     0.0000  +1.842       large  ✅  sig.
+  ndcg@20         +0.5303 ▲     0.0000     0.0000  +1.969       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.4121 ▲     0.0000     0.0000  +1.282       large  ✅  sig.
+  precision@10         +0.3998 ▲     0.0000     0.0000  +1.403       large  ✅  sig.
+  precision@20         +0.3707 ▲     0.0000     0.0000  +1.425       large  ✅  sig.
+  recall@5          +0.0695 ▲     0.0000     0.0000  +0.468       small  ✅  sig.
+  recall@10         +0.1129 ▲     0.0000     0.0000  +0.581      medium  ✅  sig.
+  recall@20         +0.1693 ▲     0.0000     0.0000  +0.697      medium  ✅  sig.
+  ndcg@5          +0.4123 ▲     0.0000     0.0000  +1.248       large  ✅  sig.
+  ndcg@10         +0.4130 ▲     0.0000     0.0000  +1.415       large  ✅  sig.
+  ndcg@20         +0.4082 ▲     0.0000     0.0000  +1.530       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  selfattention  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2678 ▲     0.0000     0.0000  +0.906       large  ✅  sig.
+  precision@10         +0.2622 ▲     0.0000     0.0000  +0.999       large  ✅  sig.
+  precision@20         +0.2479 ▲     0.0000     0.0000  +1.017       large  ✅  sig.
+  recall@5          +0.0450 ▲     0.0000     0.0000  +0.338       small  ✅  sig.
+  recall@10         +0.0722 ▲     0.0000     0.0000  +0.427       small  ✅  sig.
+  recall@20         +0.1084 ▲     0.0000     0.0000  +0.515      medium  ✅  sig.
+  ndcg@5          +0.2687 ▲     0.0000     0.0000  +0.887       large  ✅  sig.
+  ndcg@10         +0.2698 ▲     0.0000     0.0000  +1.005       large  ✅  sig.
+  ndcg@20         +0.2700 ▲     0.0000     0.0000  +1.073       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  crossattention
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.0431 ▼     0.0000     0.0000  -0.250       small  ✅  sig.
+  precision@10         -0.0265 ▼     0.0000     0.0000  -0.201       small  ✅  sig.
+  precision@20         -0.0114 ▼     0.0000     0.0000  -0.107  negligible  ✅  sig.
+  recall@5          -0.0090 ▼     0.0000     0.0000  -0.092  negligible  ✅  sig.
+  recall@10         -0.0105 ▼     0.0000     0.0000  -0.098  negligible  ✅  sig.
+  recall@20         -0.0047 ▼     0.0000     0.0040  -0.043  negligible  ✅  sig.
+  ndcg@5          -0.0468 ▼     0.0000     0.0000  -0.256       small  ✅  sig.
+  ndcg@10         -0.0348 ▼     0.0000     0.0000  -0.233       small  ✅  sig.
+  ndcg@20         -0.0235 ▼     0.0000     0.0000  -0.180  negligible  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  concat
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2924 ▲     0.0000     0.0000  +0.937       large  ✅  sig.
+  precision@10         +0.2949 ▲     0.0000     0.0000  +1.087       large  ✅  sig.
+  precision@20         +0.2815 ▲     0.0000     0.0000  +1.181       large  ✅  sig.
+  recall@5          +0.0457 ▲     0.0000     0.0000  +0.349       small  ✅  sig.
+  recall@10         +0.0792 ▲     0.0000     0.0000  +0.452       small  ✅  sig.
+  recall@20         +0.1281 ▲     0.0000     0.0000  +0.581      medium  ✅  sig.
+  ndcg@5          +0.2863 ▲     0.0000     0.0000  +0.892       large  ✅  sig.
+  ndcg@10         +0.2959 ▲     0.0000     0.0000  +1.044       large  ✅  sig.
+  ndcg@20         +0.2996 ▲     0.0000     0.0000  +1.156       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  concat_pca_512
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2937 ▲     0.0000     0.0000  +0.938       large  ✅  sig.
+  precision@10         +0.2962 ▲     0.0000     0.0000  +1.089       large  ✅  sig.
+  precision@20         +0.2806 ▲     0.0000     0.0000  +1.176       large  ✅  sig.
+  recall@5          +0.0463 ▲     0.0000     0.0000  +0.356       small  ✅  sig.
+  recall@10         +0.0807 ▲     0.0000     0.0000  +0.459       small  ✅  sig.
+  recall@20         +0.1280 ▲     0.0000     0.0000  +0.578      medium  ✅  sig.
+  ndcg@5          +0.2878 ▲     0.0000     0.0000  +0.896       large  ✅  sig.
+  ndcg@10         +0.2977 ▲     0.0000     0.0000  +1.052       large  ✅  sig.
+  ndcg@20         +0.2999 ▲     0.0000     0.0000  +1.157       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.1631 ▲     0.0000     0.0000  +0.568      medium  ✅  sig.
+  precision@10         +0.1708 ▲     0.0000     0.0000  +0.682      medium  ✅  sig.
+  precision@20         +0.1686 ▲     0.0000     0.0000  +0.790      medium  ✅  sig.
+  recall@5          +0.0224 ▲     0.0000     0.0000  +0.172  negligible  ✅  sig.
+  recall@10         +0.0437 ▲     0.0000     0.0000  +0.271       small  ✅  sig.
+  recall@20         +0.0746 ▲     0.0000     0.0000  +0.371       small  ✅  sig.
+  ndcg@5          +0.1568 ▲     0.0000     0.0000  +0.528      medium  ✅  sig.
+  ndcg@10         +0.1673 ▲     0.0000     0.0000  +0.636      medium  ✅  sig.
+  ndcg@20         +0.1741 ▲     0.0000     0.0000  +0.721      medium  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  concat_image_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.4950 ▲     0.0000     0.0000  +1.509       large  ✅  sig.
+  precision@10         +0.4853 ▲     0.0000     0.0000  +1.673       large  ✅  sig.
+  precision@20         +0.4547 ▲     0.0000     0.0000  +1.712       large  ✅  sig.
+  recall@5          +0.0694 ▲     0.0000     0.0000  +0.492       small  ✅  sig.
+  recall@10         +0.1202 ▲     0.0000     0.0000  +0.619      medium  ✅  sig.
+  recall@20         +0.1920 ▲     0.0000     0.0000  +0.774      medium  ✅  sig.
+  ndcg@5          +0.4953 ▲     0.0000     0.0000  +1.458       large  ✅  sig.
+  ndcg@10         +0.4977 ▲     0.0000     0.0000  +1.669       large  ✅  sig.
+  ndcg@20         +0.4927 ▲     0.0000     0.0000  +1.819       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.3617 ▲     0.0000     0.0000  +1.121       large  ✅  sig.
+  precision@10         +0.3628 ▲     0.0000     0.0000  +1.285       large  ✅  sig.
+  precision@20         +0.3463 ▲     0.0000     0.0000  +1.378       large  ✅  sig.
+  recall@5          +0.0560 ▲     0.0000     0.0000  +0.413       small  ✅  sig.
+  recall@10         +0.0982 ▲     0.0000     0.0000  +0.530      medium  ✅  sig.
+  recall@20         +0.1561 ▲     0.0000     0.0000  +0.669      medium  ✅  sig.
+  ndcg@5          +0.3566 ▲     0.0000     0.0000  +1.074       large  ✅  sig.
+  ndcg@10         +0.3669 ▲     0.0000     0.0000  +1.252       large  ✅  sig.
+  ndcg@20         +0.3707 ▲     0.0000     0.0000  +1.387       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  coattention  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2173 ▲     0.0000     0.0000  +0.736      medium  ✅  sig.
+  precision@10         +0.2252 ▲     0.0000     0.0000  +0.858       large  ✅  sig.
+  precision@20         +0.2235 ▲     0.0000     0.0000  +0.954       large  ✅  sig.
+  recall@5          +0.0315 ▲     0.0000     0.0000  +0.247       small  ✅  sig.
+  recall@10         +0.0574 ▲     0.0000     0.0000  +0.349       small  ✅  sig.
+  recall@20         +0.0952 ▲     0.0000     0.0000  +0.463       small  ✅  sig.
+  ndcg@5          +0.2131 ▲     0.0000     0.0000  +0.700      medium  ✅  sig.
+  ndcg@10         +0.2238 ▲     0.0000     0.0000  +0.823       large  ✅  sig.
+  ndcg@20         +0.2325 ▲     0.0000     0.0000  +0.918       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  crossattention  vs  concat
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.3355 ▲     0.0000     0.0000  +1.058       large  ✅  sig.
+  precision@10         +0.3214 ▲     0.0000     0.0000  +1.159       large  ✅  sig.
+  precision@20         +0.2929 ▲     0.0000     0.0000  +1.173       large  ✅  sig.
+  recall@5          +0.0547 ▲     0.0000     0.0000  +0.402       small  ✅  sig.
+  recall@10         +0.0897 ▲     0.0000     0.0000  +0.484       small  ✅  sig.
+  recall@20         +0.1328 ▲     0.0000     0.0000  +0.577      medium  ✅  sig.
+  ndcg@5          +0.3331 ▲     0.0000     0.0000  +1.025       large  ✅  sig.
+  ndcg@10         +0.3307 ▲     0.0000     0.0000  +1.150       large  ✅  sig.
+  ndcg@20         +0.3231 ▲     0.0000     0.0000  +1.219       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  crossattention  vs  concat_pca_512
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.3368 ▲     0.0000     0.0000  +1.057       large  ✅  sig.
+  precision@10         +0.3226 ▲     0.0000     0.0000  +1.159       large  ✅  sig.
+  precision@20         +0.2919 ▲     0.0000     0.0000  +1.166       large  ✅  sig.
+  recall@5          +0.0553 ▲     0.0000     0.0000  +0.406       small  ✅  sig.
+  recall@10         +0.0912 ▲     0.0000     0.0000  +0.490       small  ✅  sig.
+  recall@20         +0.1327 ▲     0.0000     0.0000  +0.575      medium  ✅  sig.
+  ndcg@5          +0.3346 ▲     0.0000     0.0000  +1.025       large  ✅  sig.
+  ndcg@10         +0.3325 ▲     0.0000     0.0000  +1.155       large  ✅  sig.
+  ndcg@20         +0.3234 ▲     0.0000     0.0000  +1.218       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  crossattention  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2062 ▲     0.0000     0.0000  +0.720      medium  ✅  sig.
+  precision@10         +0.1973 ▲     0.0000     0.0000  +0.784      medium  ✅  sig.
+  precision@20         +0.1800 ▲     0.0000     0.0000  +0.796      medium  ✅  sig.
+  recall@5          +0.0314 ▲     0.0000     0.0000  +0.240       small  ✅  sig.
+  recall@10         +0.0542 ▲     0.0000     0.0000  +0.321       small  ✅  sig.
+  recall@20         +0.0793 ▲     0.0000     0.0000  +0.382       small  ✅  sig.
+  ndcg@5          +0.2036 ▲     0.0000     0.0000  +0.690      medium  ✅  sig.
+  ndcg@10         +0.2021 ▲     0.0000     0.0000  +0.770      medium  ✅  sig.
+  ndcg@20         +0.1976 ▲     0.0000     0.0000  +0.805       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  crossattention  vs  concat_image_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.5381 ▲     0.0000     0.0000  +1.635       large  ✅  sig.
+  precision@10         +0.5118 ▲     0.0000     0.0000  +1.734       large  ✅  sig.
+  precision@20         +0.4660 ▲     0.0000     0.0000  +1.685       large  ✅  sig.
+  recall@5          +0.0784 ▲     0.0000     0.0000  +0.530      medium  ✅  sig.
+  recall@10         +0.1308 ▲     0.0000     0.0000  +0.640      medium  ✅  sig.
+  recall@20         +0.1967 ▲     0.0000     0.0000  +0.769      medium  ✅  sig.
+  ndcg@5          +0.5421 ▲     0.0000     0.0000  +1.596       large  ✅  sig.
+  ndcg@10         +0.5325 ▲     0.0000     0.0000  +1.777       large  ✅  sig.
+  ndcg@20         +0.5163 ▲     0.0000     0.0000  +1.877       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  crossattention  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.4048 ▲     0.0000     0.0000  +1.240       large  ✅  sig.
+  precision@10         +0.3893 ▲     0.0000     0.0000  +1.352       large  ✅  sig.
+  precision@20         +0.3576 ▲     0.0000     0.0000  +1.365       large  ✅  sig.
+  recall@5          +0.0650 ▲     0.0000     0.0000  +0.457       small  ✅  sig.
+  recall@10         +0.1087 ▲     0.0000     0.0000  +0.559      medium  ✅  sig.
+  recall@20         +0.1608 ▲     0.0000     0.0000  +0.664      medium  ✅  sig.
+  ndcg@5          +0.4034 ▲     0.0000     0.0000  +1.204       large  ✅  sig.
+  ndcg@10         +0.4017 ▲     0.0000     0.0000  +1.357       large  ✅  sig.
+  ndcg@20         +0.3942 ▲     0.0000     0.0000  +1.448       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  crossattention  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2604 ▲     0.0000     0.0000  +0.859       large  ✅  sig.
+  precision@10         +0.2516 ▲     0.0000     0.0000  +0.940       large  ✅  sig.
+  precision@20         +0.2348 ▲     0.0000     0.0000  +0.949       large  ✅  sig.
+  recall@5          +0.0405 ▲     0.0000     0.0000  +0.303       small  ✅  sig.
+  recall@10         +0.0680 ▲     0.0000     0.0000  +0.390       small  ✅  sig.
+  recall@20         +0.0999 ▲     0.0000     0.0000  +0.463       small  ✅  sig.
+  ndcg@5          +0.2599 ▲     0.0000     0.0000  +0.834       large  ✅  sig.
+  ndcg@10         +0.2586 ▲     0.0000     0.0000  +0.933       large  ✅  sig.
+  ndcg@20         +0.2561 ▲     0.0000     0.0000  +0.981       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat  vs  concat_pca_512
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0013 ▲     0.3163     0.3222  +0.015  negligible  ❌  n.s.
+  precision@10         +0.0013 ▲     0.1225     0.1319  +0.022  negligible  ❌  n.s.
+  precision@20         -0.0009 ▼     0.2198     0.1072  -0.024  negligible  ❌  n.s.
+  recall@5          +0.0006 ▲     0.2943     0.1696  +0.020  negligible  ❌  n.s.
+  recall@10         +0.0015 ▲     0.2532     0.0173  +0.035  negligible  ❌  n.s.
+  recall@20         -0.0001 ▼     0.0429     0.7773  -0.004  negligible  ✅  sig.
+  ndcg@5          +0.0015 ▲     0.0998     0.1628  +0.021  negligible  ❌  n.s.
+  ndcg@10         +0.0018 ▲     0.0379     0.0139  +0.036  negligible  ✅  sig.
+  ndcg@20         +0.0003 ▲     0.6341     0.6134  +0.007  negligible  ❌  n.s.
+
+  N queries: 4579
+
+========================================================================
+  concat  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.1293 ▼     0.0000     0.0000  -0.515      medium  ✅  sig.
+  precision@10         -0.1241 ▼     0.0000     0.0000  -0.611      medium  ✅  sig.
+  precision@20         -0.1129 ▼     0.0000     0.0000  -0.704      medium  ✅  sig.
+  recall@5          -0.0234 ▼     0.0000     0.0000  -0.252       small  ✅  sig.
+  recall@10         -0.0355 ▼     0.0000     0.0000  -0.313       small  ✅  sig.
+  recall@20         -0.0535 ▼     0.0000     0.0000  -0.427       small  ✅  sig.
+  ndcg@5          -0.1295 ▼     0.0000     0.0000  -0.504      medium  ✅  sig.
+  ndcg@10         -0.1286 ▼     0.0000     0.0000  -0.606      medium  ✅  sig.
+  ndcg@20         -0.1255 ▼     0.0000     0.0000  -0.715      medium  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat  vs  concat_image_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2026 ▲     0.0000     0.0000  +0.853       large  ✅  sig.
+  precision@10         +0.1905 ▲     0.0000     0.0000  +1.037       large  ✅  sig.
+  precision@20         +0.1731 ▲     0.0000     0.0000  +1.168       large  ✅  sig.
+  recall@5          +0.0237 ▲     0.0000     0.0000  +0.369       small  ✅  sig.
+  recall@10         +0.0410 ▲     0.0000     0.0000  +0.440       small  ✅  sig.
+  recall@20         +0.0639 ▲     0.0000     0.0000  +0.579      medium  ✅  sig.
+  ndcg@5          +0.2090 ▲     0.0000     0.0000  +0.863       large  ✅  sig.
+  ndcg@10         +0.2019 ▲     0.0000     0.0000  +1.060       large  ✅  sig.
+  ndcg@20         +0.1931 ▲     0.0000     0.0000  +1.240       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0693 ▲     0.0000     0.0000  +0.445       small  ✅  sig.
+  precision@10         +0.0680 ▲     0.0000     0.0000  +0.604      medium  ✅  sig.
+  precision@20         +0.0648 ▲     0.0000     0.0000  +0.755      medium  ✅  sig.
+  recall@5          +0.0103 ▲     0.0000     0.0000  +0.257       small  ✅  sig.
+  recall@10         +0.0190 ▲     0.0000     0.0000  +0.278       small  ✅  sig.
+  recall@20         +0.0280 ▲     0.0000     0.0000  +0.374       small  ✅  sig.
+  ndcg@5          +0.0703 ▲     0.0000     0.0000  +0.482       small  ✅  sig.
+  ndcg@10         +0.0710 ▲     0.0000     0.0000  +0.653      medium  ✅  sig.
+  ndcg@20         +0.0711 ▲     0.0000     0.0000  +0.814       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.0750 ▼     0.0000     0.0000  -0.327       small  ✅  sig.
+  precision@10         -0.0697 ▼     0.0000     0.0000  -0.353       small  ✅  sig.
+  precision@20         -0.0580 ▼     0.0000     0.0000  -0.336       small  ✅  sig.
+  recall@5          -0.0142 ▼     0.0000     0.0000  -0.182  negligible  ✅  sig.
+  recall@10         -0.0217 ▼     0.0000     0.0000  -0.215       small  ✅  sig.
+  recall@20         -0.0329 ▼     0.0000     0.0000  -0.281       small  ✅  sig.
+  ndcg@5          -0.0732 ▼     0.0000     0.0000  -0.325       small  ✅  sig.
+  ndcg@10         -0.0721 ▼     0.0000     0.0000  -0.370       small  ✅  sig.
+  ndcg@20         -0.0671 ▼     0.0000     0.0000  -0.385       small  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_pca_512  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.1306 ▼     0.0000     0.0000  -0.514      medium  ✅  sig.
+  precision@10         -0.1254 ▼     0.0000     0.0000  -0.615      medium  ✅  sig.
+  precision@20         -0.1120 ▼     0.0000     0.0000  -0.694      medium  ✅  sig.
+  recall@5          -0.0239 ▼     0.0000     0.0000  -0.251       small  ✅  sig.
+  recall@10         -0.0370 ▼     0.0000     0.0000  -0.324       small  ✅  sig.
+  recall@20         -0.0534 ▼     0.0000     0.0000  -0.428       small  ✅  sig.
+  ndcg@5          -0.1310 ▼     0.0000     0.0000  -0.503      medium  ✅  sig.
+  ndcg@10         -0.1304 ▼     0.0000     0.0000  -0.611      medium  ✅  sig.
+  ndcg@20         -0.1258 ▼     0.0000     0.0000  -0.712      medium  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_pca_512  vs  concat_image_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.2013 ▲     0.0000     0.0000  +0.842       large  ✅  sig.
+  precision@10         +0.1892 ▲     0.0000     0.0000  +1.028       large  ✅  sig.
+  precision@20         +0.1741 ▲     0.0000     0.0000  +1.174       large  ✅  sig.
+  recall@5          +0.0231 ▲     0.0000     0.0000  +0.368       small  ✅  sig.
+  recall@10         +0.0395 ▲     0.0000     0.0000  +0.449       small  ✅  sig.
+  recall@20         +0.0640 ▲     0.0000     0.0000  +0.585      medium  ✅  sig.
+  ndcg@5          +0.2075 ▲     0.0000     0.0000  +0.854       large  ✅  sig.
+  ndcg@10         +0.2001 ▲     0.0000     0.0000  +1.053       large  ✅  sig.
+  ndcg@20         +0.1929 ▲     0.0000     0.0000  +1.242       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_pca_512  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0680 ▲     0.0000     0.0000  +0.436       small  ✅  sig.
+  precision@10         +0.0667 ▲     0.0000     0.0000  +0.597      medium  ✅  sig.
+  precision@20         +0.0657 ▲     0.0000     0.0000  +0.771      medium  ✅  sig.
+  recall@5          +0.0097 ▲     0.0000     0.0000  +0.235       small  ✅  sig.
+  recall@10         +0.0175 ▲     0.0000     0.0000  +0.284       small  ✅  sig.
+  recall@20         +0.0281 ▲     0.0000     0.0000  +0.373       small  ✅  sig.
+  ndcg@5          +0.0688 ▲     0.0000     0.0000  +0.471       small  ✅  sig.
+  ndcg@10         +0.0693 ▲     0.0000     0.0000  +0.648      medium  ✅  sig.
+  ndcg@20         +0.0708 ▲     0.0000     0.0000  +0.824       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_pca_512  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.0763 ▼     0.0000     0.0000  -0.325       small  ✅  sig.
+  precision@10         -0.0710 ▼     0.0000     0.0000  -0.356       small  ✅  sig.
+  precision@20         -0.0571 ▼     0.0000     0.0000  -0.328       small  ✅  sig.
+  recall@5          -0.0148 ▼     0.0000     0.0000  -0.184  negligible  ✅  sig.
+  recall@10         -0.0232 ▼     0.0000     0.0000  -0.219       small  ✅  sig.
+  recall@20         -0.0328 ▼     0.0000     0.0000  -0.283       small  ✅  sig.
+  ndcg@5          -0.0747 ▼     0.0000     0.0000  -0.324       small  ✅  sig.
+  ndcg@10         -0.0739 ▼     0.0000     0.0000  -0.373       small  ✅  sig.
+  ndcg@20         -0.0674 ▼     0.0000     0.0000  -0.382       small  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_text_heavy  vs  concat_image_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.3319 ▲     0.0000     0.0000  +1.013       large  ✅  sig.
+  precision@10         +0.3145 ▲     0.0000     0.0000  +1.157       large  ✅  sig.
+  precision@20         +0.2860 ▲     0.0000     0.0000  +1.251       large  ✅  sig.
+  recall@5          +0.0471 ▲     0.0000     0.0000  +0.412       small  ✅  sig.
+  recall@10         +0.0766 ▲     0.0000     0.0000  +0.532      medium  ✅  sig.
+  recall@20         +0.1174 ▲     0.0000     0.0000  +0.683      medium  ✅  sig.
+  ndcg@5          +0.3385 ▲     0.0000     0.0000  +0.991       large  ✅  sig.
+  ndcg@10         +0.3305 ▲     0.0000     0.0000  +1.155       large  ✅  sig.
+  ndcg@20         +0.3186 ▲     0.0000     0.0000  +1.305       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_text_heavy  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.1986 ▲     0.0000     0.0000  +0.678      medium  ✅  sig.
+  precision@10         +0.1920 ▲     0.0000     0.0000  +0.801       large  ✅  sig.
+  precision@20         +0.1777 ▲     0.0000     0.0000  +0.906       large  ✅  sig.
+  recall@5          +0.0336 ▲     0.0000     0.0000  +0.330       small  ✅  sig.
+  recall@10         +0.0545 ▲     0.0000     0.0000  +0.422       small  ✅  sig.
+  recall@20         +0.0815 ▲     0.0000     0.0000  +0.545      medium  ✅  sig.
+  ndcg@5          +0.1998 ▲     0.0000     0.0000  +0.660      medium  ✅  sig.
+  ndcg@10         +0.1996 ▲     0.0000     0.0000  +0.791      medium  ✅  sig.
+  ndcg@20         +0.1966 ▲     0.0000     0.0000  +0.920       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_text_heavy  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0542 ▲     0.0000     0.0000  +0.271       small  ✅  sig.
+  precision@10         +0.0544 ▲     0.0000     0.0000  +0.360       small  ✅  sig.
+  precision@20         +0.0549 ▲     0.0000     0.0000  +0.444       small  ✅  sig.
+  recall@5          +0.0091 ▲     0.0000     0.0000  +0.124  negligible  ✅  sig.
+  recall@10         +0.0138 ▲     0.0000     0.0000  +0.176  negligible  ✅  sig.
+  recall@20         +0.0206 ▲     0.0000     0.0000  +0.241       small  ✅  sig.
+  ndcg@5          +0.0563 ▲     0.0000     0.0000  +0.278       small  ✅  sig.
+  ndcg@10         +0.0565 ▲     0.0000     0.0000  +0.368       small  ✅  sig.
+  ndcg@20         +0.0584 ▲     0.0000     0.0000  +0.464       small  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_image_heavy  vs  concat_dino_boost
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.1333 ▼     0.0000     0.0000  -0.699      medium  ✅  sig.
+  precision@10         -0.1225 ▼     0.0000     0.0000  -0.863       large  ✅  sig.
+  precision@20         -0.1084 ▼     0.0000     0.0000  -0.986       large  ✅  sig.
+  recall@5          -0.0134 ▼     0.0000     0.0000  -0.271       small  ✅  sig.
+  recall@10         -0.0220 ▼     0.0000     0.0000  -0.375       small  ✅  sig.
+  recall@20         -0.0359 ▼     0.0000     0.0000  -0.467       small  ✅  sig.
+  ndcg@5          -0.1387 ▼     0.0000     0.0000  -0.733      medium  ✅  sig.
+  ndcg@10         -0.1308 ▼     0.0000     0.0000  -0.915       large  ✅  sig.
+  ndcg@20         -0.1220 ▼     0.0000     0.0000  -1.081       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_image_heavy  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.2777 ▼     0.0000     0.0000  -0.934       large  ✅  sig.
+  precision@10         -0.2602 ▼     0.0000     0.0000  -1.028       large  ✅  sig.
+  precision@20         -0.2312 ▼     0.0000     0.0000  -1.054       large  ✅  sig.
+  recall@5          -0.0379 ▼     0.0000     0.0000  -0.394       small  ✅  sig.
+  recall@10         -0.0628 ▼     0.0000     0.0000  -0.495       small  ✅  sig.
+  recall@20         -0.0968 ▼     0.0000     0.0000  -0.624      medium  ✅  sig.
+  ndcg@5          -0.2822 ▼     0.0000     0.0000  -0.929       large  ✅  sig.
+  ndcg@10         -0.2740 ▼     0.0000     0.0000  -1.060       large  ✅  sig.
+  ndcg@20         -0.2602 ▼     0.0000     0.0000  -1.150       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  concat_dino_boost  vs  late_fusion
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.1444 ▼     0.0000     0.0000  -0.541      medium  ✅  sig.
+  precision@10         -0.1377 ▼     0.0000     0.0000  -0.600      medium  ✅  sig.
+  precision@20         -0.1228 ▼     0.0000     0.0000  -0.610      medium  ✅  sig.
+  recall@5          -0.0245 ▼     0.0000     0.0000  -0.285       small  ✅  sig.
+  recall@10         -0.0407 ▼     0.0000     0.0000  -0.355       small  ✅  sig.
+  recall@20         -0.0609 ▼     0.0000     0.0000  -0.440       small  ✅  sig.
+  ndcg@5          -0.1435 ▼     0.0000     0.0000  -0.539      medium  ✅  sig.
+  ndcg@10         -0.1431 ▼     0.0000     0.0000  -0.619      medium  ✅  sig.
+  ndcg@20         -0.1382 ▼     0.0000     0.0000  -0.666      medium  ✅  sig.
+
+  N queries: 4579
+
+=======================================================================================================================================
+SIGNIFICANCE SUMMARY TABLE
+Δ = method_a − method_b  |  * p<0.05  ** p<0.01  *** p<0.001
+Primary test: Wilcoxon signed-rank (two-sided)
+=======================================================================================================================================
+  Pair                                      P@5       P@10       P@20        R@5       R@10       R@20        N@5       N@10       N@20
+  -------------------------------------------------------------------------------------------------------------------------------------
+  selfattention vs coattention        +0.050***  +0.037***  +0.024***  +0.013***  +0.015***  +0.013***  +0.056***  +0.046***  +0.038***
+  selfattention vs crossattention     +0.007***  +0.011***  +0.013***  +0.004***  +0.004***  +0.008***  +0.009***  +0.011***  +0.014***
+  selfattention vs concat             +0.343***  +0.332***  +0.306***  +0.059***  +0.094***  +0.141***  +0.342***  +0.342***  +0.337***
+  selfattention vs concat_pca_512     +0.344***  +0.333***  +0.305***  +0.060***  +0.095***  +0.141***  +0.343***  +0.344***  +0.337***
+  selfattention vs concat_text_heav   +0.214***  +0.208***  +0.193***  +0.036***  +0.058***  +0.088***  +0.212***  +0.213***  +0.212***
+  selfattention vs concat_image_hea   +0.545***  +0.522***  +0.479***  +0.083***  +0.135***  +0.205***  +0.551***  +0.544***  +0.530***
+  selfattention vs concat_dino_boos   +0.412***  +0.400***  +0.371***  +0.069***  +0.113***  +0.169***  +0.412***  +0.413***  +0.408***
+  selfattention vs late_fusion        +0.268***  +0.262***  +0.248***  +0.045***  +0.072***  +0.108***  +0.269***  +0.270***  +0.270***
+  coattention vs crossattention       -0.043***  -0.026***  -0.011***  -0.009***  -0.011***  -0.005***  -0.047***  -0.035***  -0.024***
+  coattention vs concat               +0.292***  +0.295***  +0.282***  +0.046***  +0.079***  +0.128***  +0.286***  +0.296***  +0.300***
+  coattention vs concat_pca_512       +0.294***  +0.296***  +0.281***  +0.046***  +0.081***  +0.128***  +0.288***  +0.298***  +0.300***
+  coattention vs concat_text_heav     +0.163***  +0.171***  +0.169***  +0.022***  +0.044***  +0.075***  +0.157***  +0.167***  +0.174***
+  coattention vs concat_image_hea     +0.495***  +0.485***  +0.455***  +0.069***  +0.120***  +0.192***  +0.495***  +0.498***  +0.493***
+  coattention vs concat_dino_boos     +0.362***  +0.363***  +0.346***  +0.056***  +0.098***  +0.156***  +0.357***  +0.367***  +0.371***
+  coattention vs late_fusion          +0.217***  +0.225***  +0.223***  +0.032***  +0.057***  +0.095***  +0.213***  +0.224***  +0.233***
+  crossattention vs concat            +0.335***  +0.321***  +0.293***  +0.055***  +0.090***  +0.133***  +0.333***  +0.331***  +0.323***
+  crossattention vs concat_pca_512    +0.337***  +0.323***  +0.292***  +0.055***  +0.091***  +0.133***  +0.335***  +0.332***  +0.323***
+  crossattention vs concat_text_heav  +0.206***  +0.197***  +0.180***  +0.031***  +0.054***  +0.079***  +0.204***  +0.202***  +0.198***
+  crossattention vs concat_image_hea  +0.538***  +0.512***  +0.466***  +0.078***  +0.131***  +0.197***  +0.542***  +0.533***  +0.516***
+  crossattention vs concat_dino_boos  +0.405***  +0.389***  +0.358***  +0.065***  +0.109***  +0.161***  +0.403***  +0.402***  +0.394***
+  crossattention vs late_fusion       +0.260***  +0.252***  +0.235***  +0.040***  +0.068***  +0.100***  +0.260***  +0.259***  +0.256***
+  concat vs concat_pca_512               +0.001     +0.001     -0.001     +0.001     +0.001    -0.000*     +0.002    +0.002*     +0.000
+  concat vs concat_text_heav          -0.129***  -0.124***  -0.113***  -0.023***  -0.036***  -0.054***  -0.130***  -0.129***  -0.126***
+  concat vs concat_image_hea          +0.203***  +0.190***  +0.173***  +0.024***  +0.041***  +0.064***  +0.209***  +0.202***  +0.193***
+  concat vs concat_dino_boos          +0.069***  +0.068***  +0.065***  +0.010***  +0.019***  +0.028***  +0.070***  +0.071***  +0.071***
+  concat vs late_fusion               -0.075***  -0.070***  -0.058***  -0.014***  -0.022***  -0.033***  -0.073***  -0.072***  -0.067***
+  concat_pca_512 vs concat_text_heav  -0.131***  -0.125***  -0.112***  -0.024***  -0.037***  -0.053***  -0.131***  -0.130***  -0.126***
+  concat_pca_512 vs concat_image_hea  +0.201***  +0.189***  +0.174***  +0.023***  +0.040***  +0.064***  +0.207***  +0.200***  +0.193***
+  concat_pca_512 vs concat_dino_boos  +0.068***  +0.067***  +0.066***  +0.010***  +0.018***  +0.028***  +0.069***  +0.069***  +0.071***
+  concat_pca_512 vs late_fusion       -0.076***  -0.071***  -0.057***  -0.015***  -0.023***  -0.033***  -0.075***  -0.074***  -0.067***
+  concat_text_heav vs concat_image_hea  +0.332***  +0.315***  +0.286***  +0.047***  +0.077***  +0.117***  +0.339***  +0.330***  +0.319***
+  concat_text_heav vs concat_dino_boos  +0.199***  +0.192***  +0.178***  +0.034***  +0.055***  +0.081***  +0.200***  +0.200***  +0.197***
+  concat_text_heav vs late_fusion     +0.054***  +0.054***  +0.055***  +0.009***  +0.014***  +0.021***  +0.056***  +0.057***  +0.058***
+  concat_image_hea vs concat_dino_boos  -0.133***  -0.123***  -0.108***  -0.013***  -0.022***  -0.036***  -0.139***  -0.131***  -0.122***
+  concat_image_hea vs late_fusion     -0.278***  -0.260***  -0.231***  -0.038***  -0.063***  -0.097***  -0.282***  -0.274***  -0.260***
+  concat_dino_boos vs late_fusion     -0.144***  -0.138***  -0.123***  -0.025***  -0.041***  -0.061***  -0.144***  -0.143***  -0.138***
+
+  Δ = method_a − method_b.  Positive = method_a better.
+  * p<0.05  ** p<0.01  *** p<0.001  (Wilcoxon signed-rank, two-sided)
+  Effect sizes (Cohen's d) available in verbose report.
+=======================================================================================================================================
+
+============================================================
+EFFECT SIZE SUMMARY  (Cohen's d, k=10)
+Bands: negligible <0.2 | small 0.2 | medium 0.5 | large 0.8
+============================================================
+  Pair                                     P@k       R@k       N@k  Size
+  ----------------------------------------------------------
+  selfattention vs coattention          +0.279    +0.137    +0.313  small
+  selfattention vs crossattention       +0.104    +0.049    +0.104  negligible
+  selfattention vs concat               +1.216    +0.515    +1.215  large
+  selfattention vs concat_pca_512       +1.216    +0.521    +1.219  large
+  selfattention vs concat_text_hea      +0.854    +0.365    +0.850  medium
+  selfattention vs concat_image_he      +1.787    +0.658    +1.842  large
+  selfattention vs concat_dino_boo      +1.403    +0.581    +1.415  large
+  selfattention vs late_fusion          +0.999    +0.427    +1.005  large
+  coattention vs crossattention         -0.201    -0.098    -0.233  negligible
+  coattention vs concat                 +1.087    +0.452    +1.044  large
+  coattention vs concat_pca_512         +1.089    +0.459    +1.052  large
+  coattention vs concat_text_hea        +0.682    +0.271    +0.636  medium
+  coattention vs concat_image_he        +1.673    +0.619    +1.669  large
+  coattention vs concat_dino_boo        +1.285    +0.530    +1.252  large
+  coattention vs late_fusion            +0.858    +0.349    +0.823  medium
+  crossattention vs concat              +1.159    +0.484    +1.150  large
+  crossattention vs concat_pca_512      +1.159    +0.490    +1.155  large
+  crossattention vs concat_text_hea     +0.784    +0.321    +0.770  medium
+  crossattention vs concat_image_he     +1.734    +0.640    +1.777  large
+  crossattention vs concat_dino_boo     +1.352    +0.559    +1.357  large
+  crossattention vs late_fusion         +0.940    +0.390    +0.933  medium
+  concat vs concat_pca_512              +0.022    +0.035    +0.036  negligible
+  concat vs concat_text_hea             -0.611    -0.313    -0.606  medium
+  concat vs concat_image_he             +1.037    +0.440    +1.060  large
+  concat vs concat_dino_boo             +0.604    +0.278    +0.653  medium
+  concat vs late_fusion                 -0.353    -0.215    -0.370  small
+  concat_pca_512 vs concat_text_hea     -0.615    -0.324    -0.611  medium
+  concat_pca_512 vs concat_image_he     +1.028    +0.449    +1.053  large
+  concat_pca_512 vs concat_dino_boo     +0.597    +0.284    +0.648  medium
+  concat_pca_512 vs late_fusion         -0.356    -0.219    -0.373  small
+  concat_text_hea vs concat_image_he    +1.157    +0.532    +1.155  large
+  concat_text_hea vs concat_dino_boo    +0.801    +0.422    +0.791  medium
+  concat_text_hea vs late_fusion        +0.360    +0.176    +0.368  small
+  concat_image_he vs concat_dino_boo    -0.863    -0.375    -0.915  medium
+  concat_image_he vs late_fusion        -1.028    -0.495    -1.060  large
+  concat_dino_boo vs late_fusion        -0.600    -0.355    -0.619  medium
+
+============================================================
+GROUND TRUTH SENSITIVITY ANALYSIS
+  Methods: ['selfattention', 'coattention', 'crossattention', 'concat', 'concat_pca_512', 'concat_text_heavy', 'concat_image_heavy', 'concat_dino_boost', 'late_fusion']
+  Late fusion included via LateFusionSearchAdapter.
+  Note: late fusion search is slower per query than early fusion —
+  expect this section to take proportionally longer.
+  Note: threshold is scaled proportionally in leave-one-out,
+  preventing NaN results when high-weight attributes are omitted.
+============================================================
+
+██████████████████████████████████████████████████████████████████████
+  GROUND TRUTH SENSITIVITY ANALYSIS
+  Methods: selfattention, coattention, crossattention, concat, concat_pca_512, concat_text_heavy, concat_image_heavy, concat_dino_boost, late_fusion
+  Reporting: precision@10
+██████████████████████████████████████████████████████████████████████
+
+[1/3] Threshold sweep...
+
+========================================================================
+THRESHOLD SWEEP  —  precision@10
+========================================================================
+  Threshold    Avg Rel  selfattenti  coattention  crossattent  concat       concat_pca_  concat_text  concat_imag  concat_dino  late_fusion
+  -----------------------------------------------------------------------------------------------------------------------------------------
+  0.50           500.0  0.9849       0.9820       0.9842       0.7773       0.7773       0.8915       0.5290       0.6907       0.8348     
+  0.55           386.3  0.9797       0.9757       0.9780       0.7159       0.7157       0.8464       0.4745       0.6306       0.7851     
+  0.60           381.5  0.9799       0.9755       0.9781       0.7031       0.7032       0.8280       0.4690       0.6210       0.7698     
+  0.65           142.6  0.8376       0.8051       0.8234       0.5220       0.5198       0.6661       0.3138       0.4464       0.6025     
+  0.70           133.8  0.8215       0.7845       0.8109       0.4896       0.4883       0.6136       0.2991       0.4216       0.5587     
+  0.75            41.8  0.7153       0.6792       0.7109       0.3722       0.3718       0.5345       0.1697       0.2903       0.4582     
+  0.80            31.1  0.7085       0.6605       0.7076       0.2973       0.2968       0.4401       0.1298       0.2295       0.3773     
+  0.85            31.0  0.7103       0.6605       0.7104       0.2900       0.2896       0.4264       0.1271       0.2246       0.3654     
+  0.90             3.2  0.2085       0.1835       0.1882       0.1150       0.1127       0.1805       0.0455       0.0829       0.1571     
+
+  Rank stability:
+    Best method is 'selfattention' at 89% of threshold settings
+    Avg Spearman ρ (adjacent thresholds): 0.9896  (1.0 = perfectly stable)
+
+[2a/3] Weight perturbation — all attributes (20 samples)...
+
+============================================================
+WEIGHT PERTURBATION (all attributes free)  —  precision@10
+  (20 random weight perturbations)
+============================================================
+  Baseline ranking:
+    selfattention > crossattention > coattention > concat_text_heavy > late_fusion > concat > concat_pca_512 > concat_dino_boost > concat_image_heavy
+  Baseline scores:
+    selfattention                 0.8215
+    crossattention                0.8109
+    coattention                   0.7845
+    concat_text_heavy             0.6136
+    late_fusion                   0.5587
+    concat                        0.4896
+    concat_pca_512                0.4883
+    concat_dino_boost             0.4216
+    concat_image_heavy            0.2991
+
+  Rank stability across perturbations:
+    Mean Spearman ρ : 0.9950
+    Std  Spearman ρ : 0.0076
+
+  Verdict: ✅  Highly stable — conclusions robust to weight choice.
+
+[2b/3] Weight perturbation — category FIXED (20 samples)...
+
+============================================================
+WEIGHT PERTURBATION (category fixed at 0.35)  —  precision@10
+  (20 random weight perturbations)
+  Fixed  : category  (weights held at base values)
+  Varied : type, colors, season, brand
+============================================================
+  Baseline ranking:
+    selfattention > crossattention > coattention > concat_text_heavy > late_fusion > concat > concat_pca_512 > concat_dino_boost > concat_image_heavy
+  Baseline scores:
+    selfattention                 0.8215
+    crossattention                0.8109
+    coattention                   0.7845
+    concat_text_heavy             0.6136
+    late_fusion                   0.5587
+    concat                        0.4896
+    concat_pca_512                0.4883
+    concat_dino_boost             0.4216
+    concat_image_heavy            0.2991
+
+  Rank stability across perturbations:
+    Mean Spearman ρ : 0.9983
+    Std  Spearman ρ : 0.0050
+
+  Verdict: ✅  Highly stable — conclusions robust to weight choice.
+
+  ── Perturbation comparison ──────────────────────────────
+    All attributes free  : mean ρ = 0.9950  std = 0.0076
+    Category fixed       : mean ρ = 0.9983  std = 0.0050
+    Stability gain from fixing category: Δρ = +0.0033
+  ─────────────────────────────────────────────────────────
+
+[3/3] Leave-one-attribute-out...
+
+========================================================================
+LEAVE-ONE-ATTRIBUTE-OUT  —  precision@10
+  Δ = score_omitted − baseline_score
+  Threshold is scaled proportionally when an attribute is removed.
+========================================================================
+  Omitted     Eff.Thr   AvgRel  selfattenti  coattention  crossattent  concat       concat_pca_  concat_text  concat_imag  concat_dino  late_fusion
+  -------------------------------------------------------------------------------------------------------------------------------------------------
+  (baseline)    0.700           0.8215       0.7845       0.8109       0.4896       0.4883       0.6136       0.2991       0.4216       0.5587     
+  category      0.428     48.5  -0.1310      -0.1407      -0.1218      -0.1684      -0.1683      -0.1528      -0.1470      -0.1696      -0.1585    
+  type          0.506    259.3  -0.0813      -0.0649      -0.0728      -0.0292      -0.0273      -0.0019      -0.0528      -0.0463      -0.0142    
+  colors        0.583    178.1  +0.0607      +0.0736      +0.0701      +0.0496      +0.0495      +0.0333      +0.0588      +0.0550      +0.0381    
+  season        0.622     46.2  -0.1012      -0.1042      -0.0976      -0.1034      -0.1037      -0.0634      -0.1227      -0.1191      -0.0842    
+  brand         0.661    133.7  -0.0004      -0.0004      -0.0004      -0.0003      -0.0003      -0.0003      -0.0002      -0.0002      -0.0002    
+
+  Attribute impact (avg |Δ| across methods, descending):
+    category    (w=0.35)  avg|Δ|=0.1509  ███████████████
+    season      (w=0.10)  avg|Δ|=0.0999  █████████
+    colors      (w=0.15)  avg|Δ|=0.0543  █████
+    type        (w=0.25)  avg|Δ|=0.0434  ████
+    brand       (w=0.05)  avg|Δ|=0.0003  
+
+██████████████████████████████████████████████████████████████████████
+  SENSITIVITY ANALYSIS COMPLETE
+██████████████████████████████████████████████████████████████████████
+
+============================================================
+Done.

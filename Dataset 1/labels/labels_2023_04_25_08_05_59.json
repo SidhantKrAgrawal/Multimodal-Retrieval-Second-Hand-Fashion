@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "American Eagle",
+    "category": "Men",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Red"
+    ],
+    "season": "None",
+    "pilling": 4,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "62% cotton, 38% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

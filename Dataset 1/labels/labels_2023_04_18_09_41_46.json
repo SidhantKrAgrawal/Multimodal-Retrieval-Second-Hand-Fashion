@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Clique",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "36",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "Company print",
+    "usage": "Recycle"
+}

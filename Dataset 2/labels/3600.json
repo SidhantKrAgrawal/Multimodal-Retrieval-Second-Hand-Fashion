@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Women",
+    "type": "Salwar Khameez",
+    "size": "44",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Complete new salwar khameez with most of the work done by thread",
+    "usage": "Reuse"
+}

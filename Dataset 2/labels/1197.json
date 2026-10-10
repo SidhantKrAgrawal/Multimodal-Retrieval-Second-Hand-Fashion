@@ -1,0 +1,28 @@
+{
+    "brand": "G-Star",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "32",
+    "colors": [
+        "Blue",
+        "Navy"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new condition, Open to reasonable offers.",
+    "usage": "Reuse"
+}

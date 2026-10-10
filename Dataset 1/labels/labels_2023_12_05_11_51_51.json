@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Shein",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Energy recovery",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tights med m\u00f6nster",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "slitet ",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "l\u00f6sa tr\u00e5dar",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": "l\u00f6sa tr\u00e5dar"
+}

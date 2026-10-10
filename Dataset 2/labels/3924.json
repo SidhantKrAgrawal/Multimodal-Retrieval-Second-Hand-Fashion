@@ -1,0 +1,25 @@
+{
+    "brand": "Levi's",
+    "brandtext": "Levi's",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "25",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Barely worn, Brought for £100",
+    "usage": "Reuse"
+}

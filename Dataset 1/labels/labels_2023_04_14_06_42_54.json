@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": " New colors of Benetton",
+    "category": "Children",
+    "type": "Top",
+    "size": "None",
+    "colors": [
+        "White",
+        "Red",
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Export"
+}

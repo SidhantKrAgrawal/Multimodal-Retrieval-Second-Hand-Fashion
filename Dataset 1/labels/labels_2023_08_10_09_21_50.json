@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "84% cotton 16% nylone ",
+    "usage": "Remake",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00e5 l\u00e5ng\u00e4rmad tr\u00f6ja, missf\u00e4rgad upptill, h\u00e5l h\u00f6ger armh\u00e5la + v\u00e4nster arm",
+    "comment": "solblekt/missf\u00e4rgad",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "h\u00e5l armh\u00e5la",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "h\u00e5l arm",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

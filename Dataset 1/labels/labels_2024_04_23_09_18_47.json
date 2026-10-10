@@ -1,0 +1,41 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "78% akryl 22% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickad tr\u00f6ja med ribbat m\u00f6nster runt krage, \u00e4ndslut och \u00e4rmslut ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "luddigt p\u00e5 \u00e4rmsluten",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "luddigt ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

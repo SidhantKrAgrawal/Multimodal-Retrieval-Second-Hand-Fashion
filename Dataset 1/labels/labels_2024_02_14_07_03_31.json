@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "U",
+    "brand_missing": false,
+    "size": "170",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% viscose ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta shorts med broderi l\u00e4ngst ner, nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

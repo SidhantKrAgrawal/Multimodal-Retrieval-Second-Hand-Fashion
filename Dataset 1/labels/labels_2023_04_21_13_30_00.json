@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "street one",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "38",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "98% cotton 2% elastan",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "engelsons",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta tights",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "dragna tr\u00e5dar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "dragna tr\u00e5dar",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "dragna tr\u00e5dar"
+}

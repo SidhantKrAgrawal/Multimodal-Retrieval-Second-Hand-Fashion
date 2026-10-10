@@ -1,0 +1,25 @@
+{
+    "brand": "Paul Smith",
+    "brandtext": "Paul Smith",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "XXL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Clapperboard",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

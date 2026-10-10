@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "S",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Men’s Zara sweater",
+    "usage": "Reuse"
+}

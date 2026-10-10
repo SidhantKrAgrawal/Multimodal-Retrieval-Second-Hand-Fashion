@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Sprit",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "shorts",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shorts",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top left",
+    "damage": "smuts fl\u00e4ckar ",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

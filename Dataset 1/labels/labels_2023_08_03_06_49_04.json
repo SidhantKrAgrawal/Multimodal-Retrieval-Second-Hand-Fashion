@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "classic teddy",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "130",
+    "colors": [
+        "Brown",
+        "Beige"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans shorts",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": ""
+}

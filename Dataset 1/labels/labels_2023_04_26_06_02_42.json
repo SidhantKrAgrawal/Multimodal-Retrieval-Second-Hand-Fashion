@@ -1,0 +1,30 @@
+{
+    "brand": "Polarn Och Pyret",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "56",
+    "colors": [
+        "Multicolor",
+        "Pink",
+        "White",
+        "Green"
+    ],
+    "season": "Summer",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

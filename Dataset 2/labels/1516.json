@@ -1,0 +1,27 @@
+{
+    "brand": "Polo Ralph Lauren",
+    "brandtext": "Polo Ralph Lauren",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "S",
+    "colors": [
+        "Green"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slim Fit Polo Shirt",
+    "usage": "Reuse"
+}

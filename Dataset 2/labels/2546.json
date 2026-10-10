@@ -1,0 +1,25 @@
+{
+    "brand": "Uniqlo",
+    "brandtext": "Uniqlo black lace top",
+    "category": "Women",
+    "type": "Blouses",
+    "size": "XS",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Lace",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "In great condition",
+    "usage": "Reuse"
+}

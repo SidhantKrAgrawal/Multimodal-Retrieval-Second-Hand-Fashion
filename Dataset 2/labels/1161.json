@@ -1,0 +1,28 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "W36 L32",
+    "colors": [
+        "Khaki",
+        "Colour"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Collection Only, Bargain £1",
+    "usage": "Reuse"
+}

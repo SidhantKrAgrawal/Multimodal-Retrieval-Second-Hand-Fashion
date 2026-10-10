@@ -1,0 +1,27 @@
+{
+    "brand": "Tommy Jeans",
+    "brandtext": "Tommy Jeans",
+    "category": "Women",
+    "type": "Slim Jeans",
+    "size": "W14",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Notable detail: Sophie Skinny style",
+    "usage": "Reuse"
+}

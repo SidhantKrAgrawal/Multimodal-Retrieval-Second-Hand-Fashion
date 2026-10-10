@@ -1,0 +1,27 @@
+{
+    "brand": "Bikbok",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "M ",
+    "colors": [
+        "Red"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "80% viscose, 20 polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

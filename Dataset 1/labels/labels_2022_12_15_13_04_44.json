@@ -1,0 +1,34 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Top",
+    "size": "110",
+    "colors": [
+        "Multicolor",
+        "Pink",
+        "White",
+        "Brown",
+        "Blue",
+        "Green",
+        "Yellow"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

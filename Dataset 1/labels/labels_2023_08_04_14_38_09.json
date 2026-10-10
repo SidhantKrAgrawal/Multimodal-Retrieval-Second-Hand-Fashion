@@ -1,0 +1,43 @@
+{
+    "brand": "Hamton Republic (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "missing",
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% cott",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "missf\u00e4rat, sned s\u00f6m",
+    "annotator": "17",
+    "category": "Ladies",
+    "type": "Pajamas",
+    "cut": [
+        "Loose",
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 4,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

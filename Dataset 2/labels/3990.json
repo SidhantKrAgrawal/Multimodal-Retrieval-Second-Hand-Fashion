@@ -1,0 +1,27 @@
+{
+    "brand": "BIBA",
+    "brandtext": "Biba",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "16R",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Zip bite broken",
+    "usage": "Reuse"
+}

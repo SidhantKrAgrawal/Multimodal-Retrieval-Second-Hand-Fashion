@@ -1,0 +1,30 @@
+{
+    "brand": "Adidas",
+    "brandtext": "",
+    "category": "Unisex",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Blue",
+        "Green",
+        "Yellow"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

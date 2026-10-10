@@ -1,0 +1,26 @@
+{
+    "brand": "Gul Ahmed",
+    "brandtext": "Gul Ahmed",
+    "category": "Women",
+    "type": "Day Dresses",
+    "size": "M",
+    "colors": [
+        "Black",
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "With lace, tassel & pearl details",
+    "usage": "Reuse"
+}

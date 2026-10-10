@@ -1,0 +1,28 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Dress",
+    "size": "One Size",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Unstitched",
+    "usage": "Reuse"
+}

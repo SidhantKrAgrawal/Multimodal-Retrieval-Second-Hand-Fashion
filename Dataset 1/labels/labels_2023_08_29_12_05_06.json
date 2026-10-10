@@ -1,0 +1,43 @@
+{
+    "brand": "Billabong",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Pink",
+        "Blue"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% poly",
+    "usage": "Export",
+    "usage_confidence": "Medium",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "17",
+    "category": "Unisex",
+    "type": "Shorts",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "gulbrun liten fl\u00e4ck",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

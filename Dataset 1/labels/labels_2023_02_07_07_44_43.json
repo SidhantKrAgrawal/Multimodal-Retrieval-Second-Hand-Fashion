@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "J.Elliot Shirt",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "XL",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Pulled threads, sweat stains",
+    "material": "63% polyester, 37% cotton ",
+    "comment": "",
+    "usage": "Export"
+}

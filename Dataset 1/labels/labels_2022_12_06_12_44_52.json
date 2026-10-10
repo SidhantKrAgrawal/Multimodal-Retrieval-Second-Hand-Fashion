@@ -1,0 +1,27 @@
+{
+    "brand": "Flash",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "M ",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "Cropped"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "80% cotton, 18% polyester, 2% elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

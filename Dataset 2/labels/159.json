@@ -1,0 +1,25 @@
+{
+    "brand": "Polo Ralph Lauren",
+    "brandtext": "Polo Ralph Lauren",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 3,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Smart looking style Polo Ralph Lauren Jumper",
+    "usage": "Reuse"
+}

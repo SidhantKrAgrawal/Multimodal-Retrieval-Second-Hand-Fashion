@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "Running Bare",
+    "brand_missing": true,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Regular",
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "turn waistband",
+    "damage2image": "back",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

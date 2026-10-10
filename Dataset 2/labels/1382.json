@@ -1,0 +1,25 @@
+{
+    "brand": "F&F",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "L",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

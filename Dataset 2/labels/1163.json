@@ -1,0 +1,27 @@
+{
+    "brand": "Jack&Jones",
+    "brandtext": "Jack&Jones",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "32 (EU)",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "anti fit",
+    "usage": "Reuse"
+}

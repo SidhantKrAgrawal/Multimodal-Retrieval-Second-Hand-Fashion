@@ -1,0 +1,41 @@
+{
+    "brand": "Mckinley (Intersport)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "160",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "blue winter trousers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Winter trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "stained",
+    "damage2image": "back",
+    "damage2loc": "top center",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "stained"
+}

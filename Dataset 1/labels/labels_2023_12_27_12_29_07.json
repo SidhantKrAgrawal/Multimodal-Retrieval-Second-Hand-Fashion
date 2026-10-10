@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "ribbade sport tights ",
+    "comment": "material lapp borta",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Long"
+    ],
+    "trend": "Sports",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "h\u00e5l och nopprigt",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "l\u00f6sa tr\u00e5dar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

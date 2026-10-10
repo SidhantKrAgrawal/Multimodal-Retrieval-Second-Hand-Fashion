@@ -1,0 +1,30 @@
+{
+    "brand": "Cappuchini",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Shirt",
+    "size": "44",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "Pink",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "60% nylon, 40% cotton",
+    "comment": "",
+    "usage": "Export"
+}

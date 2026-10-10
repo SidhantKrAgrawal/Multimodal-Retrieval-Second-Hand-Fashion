@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "XXL",
+    "colors": [
+        "Multicolor",
+        "Red",
+        "Pink",
+        "Blue"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

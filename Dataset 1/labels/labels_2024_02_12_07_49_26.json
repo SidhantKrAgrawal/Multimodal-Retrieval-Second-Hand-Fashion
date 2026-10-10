@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Vero moda",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "condition": 2,
+    "material": "69% Acryl 31% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "brwon knitted cardigan",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "holes",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "hole",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "hole"
+}

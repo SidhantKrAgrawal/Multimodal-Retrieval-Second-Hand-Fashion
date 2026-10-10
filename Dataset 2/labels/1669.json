@@ -1,0 +1,25 @@
+{
+    "brand": "Karl Jackson",
+    "brandtext": "Karl Jackson",
+    "category": "Men",
+    "type": "Tuxedo",
+    "size": "48 (EU)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn once, silk ribbon",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "OFF-WHITE",
+    "brandtext": "OFF-WHITE",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand New never worn track pants with a slightly loose fit. The joggers come with original tags.",
+    "usage": "Reuse"
+}

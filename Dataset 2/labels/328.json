@@ -1,0 +1,25 @@
+{
+    "brand": "Thom Browne",
+    "brandtext": "Thom Browne’s signature white engineered 4-Bar arm stripe features on this grey classic cotton crewn",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "S",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Thom Browne’s signature white engineered 4-Bar arm stripe features on this grey classic cotton crewn",
+    "usage": "Reuse"
+}

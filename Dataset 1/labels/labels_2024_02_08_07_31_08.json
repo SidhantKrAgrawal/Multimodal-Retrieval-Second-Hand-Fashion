@@ -1,0 +1,41 @@
+{
+    "brand": "Mango",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans med flera sm\u00e5 fl\u00e4ckar \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": "fl\u00e4ckar"
+}

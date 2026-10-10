@@ -1,0 +1,25 @@
+{
+    "brand": "F&F",
+    "brandtext": "F&F",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "16",
+    "colors": [
+        "Black"
+    ],
+    "season": "All season",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

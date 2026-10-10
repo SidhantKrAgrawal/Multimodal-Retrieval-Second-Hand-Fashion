@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Beige",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tr\u00e4nings tights med tryck ",
+    "comment": "m\u00e4rke saknas",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tights",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "luddigt och smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "sprucket tryck ",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "spruket tryck "
+}

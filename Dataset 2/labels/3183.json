@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara poncho",
+    "category": "Women",
+    "type": "Capes & Ponchos",
+    "size": "10-14/16",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "well-made and good quality fabric – wool and polyamide",
+    "usage": "Reuse"
+}

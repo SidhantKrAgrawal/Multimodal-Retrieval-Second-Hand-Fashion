@@ -1,0 +1,25 @@
+{
+    "brand": "None",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Saree",
+    "size": "10 bl",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Floral",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Family wedding gift, never used",
+    "usage": "Reuse"
+}

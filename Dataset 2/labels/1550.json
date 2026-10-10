@@ -1,0 +1,27 @@
+{
+    "brand": "T.M.Lewin",
+    "brandtext": "T.M.Lewin",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "38 (EU)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "2 x quality men's shirt",
+    "usage": "Reuse"
+}

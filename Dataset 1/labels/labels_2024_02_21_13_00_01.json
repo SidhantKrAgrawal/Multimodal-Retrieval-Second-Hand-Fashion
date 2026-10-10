@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vero moda (nelly& glamorous)",
+    "brand_missing": false,
+    "size": "34",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Kl\u00e4nning med puff \u00e4rmar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

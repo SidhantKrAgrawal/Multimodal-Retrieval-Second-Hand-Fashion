@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "By Timo",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "M ",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "Embroidered",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "STR",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "32",
+    "colors": [
+        "White",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% viskos",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kl\u00e4nning med rutigt m\u00f6nster och volang nertill",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "liten smuts fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "l\u00f6s tr\u00e5d",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

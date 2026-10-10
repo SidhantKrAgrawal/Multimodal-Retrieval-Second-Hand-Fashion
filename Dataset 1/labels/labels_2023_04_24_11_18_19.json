@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Norman Wells Sportswear",
+    "category": "Unisex",
+    "type": "Jacket",
+    "size": "None",
+    "colors": [
+        "Red"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Sports",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% nylon",
+    "comment": "",
+    "usage": "Export"
+}

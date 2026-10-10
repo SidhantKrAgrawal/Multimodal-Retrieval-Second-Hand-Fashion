@@ -1,0 +1,41 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "svart blus med broderad krage och svarta knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "h\u00e5rig",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "h\u00e5rig",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "h\u00e5rig"
+}

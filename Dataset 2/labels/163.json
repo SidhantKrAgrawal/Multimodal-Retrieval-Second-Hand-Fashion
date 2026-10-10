@@ -1,0 +1,25 @@
+{
+    "brand": "Mango Man",
+    "brandtext": "Mango Man Cashmere Blend",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "S",
+    "colors": [
+        "Orange"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Cashmere Blend",
+    "comment": "Cashmere Blend Jumper",
+    "usage": "Reuse"
+}

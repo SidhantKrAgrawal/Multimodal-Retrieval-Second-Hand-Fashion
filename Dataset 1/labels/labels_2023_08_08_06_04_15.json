@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "ebbe",
+    "brand_missing": false,
+    "size": "68",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vit body med paraply p\u00e5, flera sm\u00e5 fl\u00e4ckar fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Pajamas",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

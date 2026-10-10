@@ -1,0 +1,27 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Leggings",
+    "size": "10 (UK)",
+    "colors": [
+        "Green"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Leggings s-m and tank top one size, used, in good condition, i can post for 5 or collect from Batter",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "George",
+    "brandtext": "George",
+    "category": "Women",
+    "type": "Coats",
+    "size": "12",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

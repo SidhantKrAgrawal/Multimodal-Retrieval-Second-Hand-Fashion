@@ -1,0 +1,31 @@
+{
+    "brand": "Mywear (Ica)",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Outerwear",
+    "size": "XXL",
+    "colors": [
+        "Multicolor",
+        "Brown",
+        "Black",
+        "White",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

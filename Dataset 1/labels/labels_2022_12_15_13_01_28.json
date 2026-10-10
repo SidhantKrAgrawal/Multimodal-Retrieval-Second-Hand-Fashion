@@ -1,0 +1,27 @@
+{
+    "brand": "Levi'S",
+    "brandtext": "",
+    "category": "Unisex",
+    "type": "Hoodie",
+    "size": "S ",
+    "colors": [
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

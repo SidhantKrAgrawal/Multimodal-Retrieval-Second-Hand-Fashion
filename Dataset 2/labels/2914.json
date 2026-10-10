@@ -1,0 +1,25 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "M&S",
+    "category": "Women",
+    "type": "Long Sleeve Tops",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Long Sleeve Bugle Beaded Front with Shiny Leaf Design. 25 inch Length 38 inch Bust. Round Neck as Ph",
+    "usage": "Reuse"
+}

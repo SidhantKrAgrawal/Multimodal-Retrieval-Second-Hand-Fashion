@@ -1,0 +1,41 @@
+{
+    "brand": "Lindex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "bl\u00e5 jeans kjol med tv\u00e5 fl\u00e4ckar fram",
+    "comment": "g\u00e5r vidare p\u00e5 trend i special",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "fl\u00e4ck",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "fl\u00e4ck",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Levi",
+    "brandtext": "Levi’s",
+    "category": "Men",
+    "type": "Straight Jeans",
+    "size": "29",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Original Levi’s. Can be worn turned as crop or cut off for shorts",
+    "usage": "Reuse"
+}

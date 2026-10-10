@@ -1,0 +1,28 @@
+{
+    "brand": "Mywear (Ica)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Vest",
+    "size": "42",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 1,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Turtle neck"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Broken zipper",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Recycle"
+}

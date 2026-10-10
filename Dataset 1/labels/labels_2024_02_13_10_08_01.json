@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Basic u",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "White and black striped t-shirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Loose",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": "stain"
+}

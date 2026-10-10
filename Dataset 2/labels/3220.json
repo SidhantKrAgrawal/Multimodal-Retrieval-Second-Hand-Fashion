@@ -1,0 +1,25 @@
+{
+    "brand": "Michael Kors",
+    "brandtext": "Michael Kors",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "L",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "I wore it a couple of times",
+    "usage": "Reuse"
+}

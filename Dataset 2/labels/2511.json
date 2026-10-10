@@ -1,0 +1,25 @@
+{
+    "brand": "New Look",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Other",
+    "size": "12",
+    "colors": [
+        "Cream"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

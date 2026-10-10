@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "uniq young",
+    "brand_missing": false,
+    "size": "170",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "rosa byxor med r\u00e4nder p\u00e5 sidorna",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

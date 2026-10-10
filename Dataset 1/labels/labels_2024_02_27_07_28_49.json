@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Almia",
+    "brand_missing": false,
+    "size": "50",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "Black"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% Acryl",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kitted sweater with pattern",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Loose",
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "holes",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

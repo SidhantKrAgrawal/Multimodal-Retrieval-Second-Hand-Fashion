@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Shine",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "50% Wool 50% Acryl",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "150-250",
+    "price_confidence": "High",
+    "description": "Blue knitted cardigan with shoulderpads and embroidery",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "Embroidered",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

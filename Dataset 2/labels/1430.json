@@ -1,0 +1,28 @@
+{
+    "brand": "T.M.Lewin",
+    "brandtext": "T.M.Lewin",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "M",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Cotton",
+    "comment": "Great Condition",
+    "usage": "Reuse"
+}

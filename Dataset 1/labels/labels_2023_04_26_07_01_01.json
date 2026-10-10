@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Dreams",
+    "category": "Children",
+    "type": "Tunic",
+    "size": "140",
+    "colors": [
+        "Multicolor",
+        "Grey",
+        "Pink",
+        "Green"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "very askew and cracked print",
+    "material": "95% cotton, 5% viscose",
+    "comment": "",
+    "usage": "Export"
+}

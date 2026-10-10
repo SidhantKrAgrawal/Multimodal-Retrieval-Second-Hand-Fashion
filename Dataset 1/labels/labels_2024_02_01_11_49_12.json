@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "puffig jacka ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "smutsigt",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smutsigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

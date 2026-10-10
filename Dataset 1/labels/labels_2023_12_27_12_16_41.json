@@ -1,0 +1,41 @@
+{
+    "brand": "Newbody",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart t-shirt",
+    "comment": "lite dammig",
+    "annotator": "1",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "lite dammig",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "lite dammig",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

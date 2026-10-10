@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "M ",
+    "colors": [
+        "Black",
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "Sports",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

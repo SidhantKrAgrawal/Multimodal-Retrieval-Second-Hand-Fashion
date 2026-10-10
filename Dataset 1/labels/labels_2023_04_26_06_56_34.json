@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "i love eco (ica)",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "98",
+    "colors": [
+        "Green",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "askew",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

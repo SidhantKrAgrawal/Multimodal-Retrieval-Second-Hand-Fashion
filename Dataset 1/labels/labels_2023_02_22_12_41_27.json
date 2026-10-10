@@ -1,0 +1,30 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "M ",
+    "colors": [
+        "Multicolor",
+        "Yellow",
+        "Grey",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Transparent",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% poly",
+    "comment": "",
+    "usage": "Reuse"
+}

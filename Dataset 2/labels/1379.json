@@ -1,0 +1,27 @@
+{
+    "brand": "Other",
+    "brandtext": "Mexx",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "L",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Semi-Slim Fit"
+    ],
+    "pattern": "Check",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Semi-Slim Fit. Coupe Semi-Ajustee. Check pattern: dark violet and light violet.",
+    "usage": "Reuse"
+}

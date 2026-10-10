@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Marc Lauge",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "34",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Tight",
+        "Cropped"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Bubbly zipper",
+    "material": "100% cotton ",
+    "comment": "",
+    "usage": "Recycle"
+}

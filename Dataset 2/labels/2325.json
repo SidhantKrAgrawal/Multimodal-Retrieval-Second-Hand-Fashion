@@ -1,0 +1,27 @@
+{
+    "brand": "Champion",
+    "brandtext": "Champion Reverse Weave",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "M",
+    "colors": [
+        "Tan"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Straight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "New in box, straight h fit",
+    "usage": "Reuse"
+}

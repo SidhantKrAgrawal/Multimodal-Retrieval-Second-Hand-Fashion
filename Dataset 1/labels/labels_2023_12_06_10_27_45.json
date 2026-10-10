@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "prettylittlethings",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vit t-shirt med rymden och text bak, urtv\u00e4ttad, grova svettfl\u00e4ckar i armh\u00e5lorna",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "fl\u00e4ck armh\u00e5la",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "fl\u00e4ck armh\u00e5la",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

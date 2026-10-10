@@ -1,0 +1,37 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Red",
+        "Multicolor",
+        "White",
+        "Yellow",
+        "Black",
+        "Pink",
+        "Turquoise",
+        "Purple",
+        "Blue",
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Long"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "60%cotton 40%polyester",
+    "comment": "",
+    "usage": "Export"
+}

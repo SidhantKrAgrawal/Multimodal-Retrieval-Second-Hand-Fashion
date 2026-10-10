@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "None",
+    "condition": 1,
+    "material": "100% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Top med en \u00e4rm",
+    "comment": "saknas m\u00e4rke och storlek",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "None"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle left",
+    "damage": "stora smuts fl\u00e4ckar och nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt och smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "middle right",
+    "damage3": "nopprigt p\u00e5 \u00e4rm"
+}

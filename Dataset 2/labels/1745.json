@@ -1,0 +1,25 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "L",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Polka Dot",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "New condition - No tags. Huge clear out so check out other items.",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Ralph Lauren",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "75% polyester 25% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "Several stains",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "None"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

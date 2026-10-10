@@ -1,0 +1,25 @@
+{
+    "brand": "E6 London",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Little pen mark on sleeve",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

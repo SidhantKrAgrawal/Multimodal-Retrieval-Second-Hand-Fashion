@@ -1,0 +1,26 @@
+{
+    "brand": "Penfield",
+    "brandtext": "Camo Olive Tan",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Olive",
+        "Tan"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Camo",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New without tags. Been sitting in my wardrobe",
+    "usage": "Reuse"
+}

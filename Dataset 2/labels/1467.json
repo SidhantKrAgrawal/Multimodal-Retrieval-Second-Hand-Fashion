@@ -1,0 +1,25 @@
+{
+    "brand": "Debenhams",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "XL",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "TO FIT CHEST 45-48° 114-122CM, Half sleeves, Used but in very good con",
+    "usage": "Reuse"
+}

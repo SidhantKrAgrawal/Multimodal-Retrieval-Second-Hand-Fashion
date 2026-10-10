@@ -1,0 +1,41 @@
+{
+    "brand": "Monki",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w30",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "unknown",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Grey tight jeans",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "damaged elastane ",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "damaged elastane",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

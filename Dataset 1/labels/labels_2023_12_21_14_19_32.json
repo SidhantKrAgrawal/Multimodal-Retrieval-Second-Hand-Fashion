@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "skinnyfit & denim",
+    "brand_missing": false,
+    "size": "140",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "70% bomull 30% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "gr\u00e5a jeans",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "l\u00f6sa tr\u00e5dar"
+}

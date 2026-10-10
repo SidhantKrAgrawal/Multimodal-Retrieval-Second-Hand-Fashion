@@ -1,0 +1,27 @@
+{
+    "brand": "E15 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "One Size",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Elasticated midriff",
+    "usage": "Reuse"
+}

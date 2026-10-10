@@ -1,0 +1,25 @@
+{
+    "brand": "Superdry",
+    "brandtext": "Superdry",
+    "category": "Women",
+    "type": "Bomber Jackets",
+    "size": "14",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

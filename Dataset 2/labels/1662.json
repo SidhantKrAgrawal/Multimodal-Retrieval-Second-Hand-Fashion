@@ -1,0 +1,27 @@
+{
+    "brand": "Slazenger",
+    "brandtext": "Slazenger",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "XL",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

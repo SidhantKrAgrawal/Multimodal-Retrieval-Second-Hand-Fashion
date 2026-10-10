@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Milini",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "c 44",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "87% Acryl 13% Cont?",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "150-250",
+    "price_confidence": "High",
+    "description": "Black and white houndtooth skirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "90s",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

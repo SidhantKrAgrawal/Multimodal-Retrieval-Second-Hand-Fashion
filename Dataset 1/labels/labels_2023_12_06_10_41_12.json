@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "crivit",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "64% cotton 36% polyester ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "lila hoodie med dragkedja, mycket nopprig",
+    "comment": "",
+    "annotator": "10",
+    "category": "Unisex",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

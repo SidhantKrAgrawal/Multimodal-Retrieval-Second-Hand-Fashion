@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara",
+    "category": "Men",
+    "type": "Coat",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "UK size, cash on",
+    "usage": "Reuse"
+}

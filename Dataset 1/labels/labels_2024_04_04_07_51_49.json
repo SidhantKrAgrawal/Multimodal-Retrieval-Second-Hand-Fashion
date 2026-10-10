@@ -1,0 +1,42 @@
+{
+    "brand": "Hamton Republic (Kappahl)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kabelstickad l\u00e5ng\u00e4rmad sweater med bruna knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "lite smutsigt runt krage",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "liten smuts fl\u00e4ck",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

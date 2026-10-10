@@ -1,0 +1,28 @@
+{
+    "brand": "Free Quent",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "S ",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "50%cotton 50%viscose",
+    "comment": "",
+    "usage": "Export"
+}

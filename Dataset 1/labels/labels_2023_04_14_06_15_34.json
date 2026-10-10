@@ -1,0 +1,28 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Pajamas",
+    "size": "68",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "A bit washed out",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Reuse"
+}

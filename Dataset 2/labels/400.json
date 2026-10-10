@@ -1,0 +1,26 @@
+{
+    "brand": "Dolce & Gabbana",
+    "brandtext": "D&G",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "XL",
+    "colors": [
+        "Grey",
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

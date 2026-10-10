@@ -1,0 +1,42 @@
+{
+    "brand": "Primark",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "prickiga shorts med bl\u00e5a knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Shorts",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Dots",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "blekta",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "blekta",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

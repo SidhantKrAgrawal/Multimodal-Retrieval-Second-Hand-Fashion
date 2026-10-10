@@ -1,0 +1,27 @@
+{
+    "brand": "Tommy Hilfiger",
+    "brandtext": "New York Fit Check Shirt",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New York Fit Check Shirt",
+    "usage": "Reuse"
+}

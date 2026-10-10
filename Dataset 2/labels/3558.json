@@ -1,0 +1,27 @@
+{
+    "brand": "Solid",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "8",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Indian wedding long dress with embroidery, comes with trousers and scarf",
+    "usage": "Reuse"
+}

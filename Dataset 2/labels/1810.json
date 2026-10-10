@@ -1,0 +1,28 @@
+{
+    "brand": "Emporio Armani",
+    "brandtext": "Emporio Armani",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "XS",
+    "colors": [
+        "White",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Original Armani T-shirts in E11 Forest",
+    "usage": "Reuse"
+}

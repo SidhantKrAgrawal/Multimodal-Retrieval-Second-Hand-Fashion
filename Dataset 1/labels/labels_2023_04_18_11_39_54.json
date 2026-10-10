@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "XS",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 1,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Turtle neck"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% acrylic ",
+    "comment": "",
+    "usage": "Export"
+}

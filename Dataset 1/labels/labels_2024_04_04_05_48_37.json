@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "b.young",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "vita shorts med silvriga knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shorts",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "smuts fl\u00e4ckar ",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "smutsigt p\u00e5 fickor ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

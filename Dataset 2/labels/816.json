@@ -1,0 +1,25 @@
+{
+    "brand": "Savile Row",
+    "brandtext": "Grey Crushed Velvet",
+    "category": "Men",
+    "type": "Blazer Jackets",
+    "size": "L",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Morris",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "34",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "78% bomull 22% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beiga chinos med broderi tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "blekta",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "blekta",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "luktar illa"
+}

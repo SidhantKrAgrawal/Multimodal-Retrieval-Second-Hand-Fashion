@@ -1,0 +1,27 @@
+{
+    "brand": "E7 London",
+    "brandtext": "E7 London",
+    "category": "Women",
+    "type": "Blouses",
+    "size": "S",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Silky crepe",
+    "comment": "Dusty pink blouses in silky crepe material with long elasticated sleeves. I had 2 made with collar a",
+    "usage": "Reuse"
+}

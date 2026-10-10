@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Replay",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "None",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "None"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "Major",
+    "damage": "",
+    "material": "80% cotton, 13% polyester, 7% elestane",
+    "comment": "W/L 30/32",
+    "usage": "Export"
+}

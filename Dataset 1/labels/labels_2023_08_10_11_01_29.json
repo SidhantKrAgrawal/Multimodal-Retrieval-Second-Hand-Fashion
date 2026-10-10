@@ -1,0 +1,41 @@
+{
+    "brand": "Brandtex",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "missing",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "59% polyester, 41% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "Washed out",
+    "annotator": "24",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

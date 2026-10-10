@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "Free size",
+    "colors": [
+        "Blue",
+        "Pink",
+        "Yellow"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng kl\u00e4nning med broderi m\u00f6nster ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "smuts fl\u00e4ckar"
+}

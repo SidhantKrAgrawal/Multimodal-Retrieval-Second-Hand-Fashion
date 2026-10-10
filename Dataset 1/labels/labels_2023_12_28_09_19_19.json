@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "umbro",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "156",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% nylone",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 tr\u00e4nings shorts med flera dragna tr\u00e5dar",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Sports",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

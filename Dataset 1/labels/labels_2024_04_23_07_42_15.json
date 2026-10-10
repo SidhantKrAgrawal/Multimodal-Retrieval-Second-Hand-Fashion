@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Purple",
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng\u00e4rmad tr\u00f6ja med tryck och ribbat m\u00f6nster p\u00e5 krage, \u00e4ndslut och \u00e4rmslut",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt och smuts fl\u00e4ckar ",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "luddigt",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "luddigt"
+}

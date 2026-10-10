@@ -1,0 +1,27 @@
+{
+    "brand": "Maison Scotch",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "34",
+    "colors": [
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "92%cotton 6%polyester 2%elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

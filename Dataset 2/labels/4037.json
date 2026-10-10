@@ -1,0 +1,27 @@
+{
+    "brand": "Boo-hoo",
+    "brandtext": "Boo-hoo",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "20",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand-new without tags, daughter tried them on that they were too big",
+    "usage": "Reuse"
+}

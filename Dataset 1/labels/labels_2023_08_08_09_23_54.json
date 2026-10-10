@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "stuts",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "Medium",
+    "description": "vit stickad l\u00e5ng\u00e4rmad tr\u00f6ja med h\u00e5l som bildar ett v\u00e5gigt m\u00f6nster",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "70",
+    "colors": [
+        "Blue",
+        "White",
+        "Red"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "92% cotton, 8% ?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue baby jumpsuit",
+    "comment": "",
+    "annotator": "14",
+    "category": "Children",
+    "type": "Pajamas",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top right",
+    "damage": "light brown stain",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

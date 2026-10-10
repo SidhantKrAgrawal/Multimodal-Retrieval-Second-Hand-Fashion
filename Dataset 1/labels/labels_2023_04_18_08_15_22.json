@@ -1,0 +1,29 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "M ",
+    "colors": [
+        "Green",
+        "Beige",
+        "Black"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Unknown",
+    "comment": "",
+    "usage": "Recycle"
+}

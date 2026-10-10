@@ -1,0 +1,27 @@
+{
+    "brand": "Boohoo",
+    "brandtext": "Boohoo",
+    "category": "Women",
+    "type": "Coat",
+    "size": "UK 12",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Knee length with pockets and long collar",
+    "usage": "Reuse"
+}

@@ -1,0 +1,32 @@
+{
+    "brand": "Indiska",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "M ",
+    "colors": [
+        "White",
+        "Yellow",
+        "Blue",
+        "Purple",
+        "Multicolor"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "V-collar",
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

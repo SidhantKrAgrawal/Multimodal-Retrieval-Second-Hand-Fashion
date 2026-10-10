@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "BASECAMP",
+    "category": "Ladies",
+    "type": "Rain jacket",
+    "size": "S ",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

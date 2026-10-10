@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jumpsuit med tryck",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Dress",
+    "cut": [
+        "None"
+    ],
+    "trend": "None",
+    "pattern": "Animal print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "trasiga sn\u00f6rren",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "l\u00f6sa tr\u00e5dar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

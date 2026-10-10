@@ -1,0 +1,27 @@
+{
+    "brand": "Levi",
+    "brandtext": "Made & Crafted",
+    "category": "Women",
+    "type": "Straight Jeans",
+    "size": "W25 L30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Column Taper"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

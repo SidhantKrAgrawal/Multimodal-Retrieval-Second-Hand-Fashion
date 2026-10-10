@@ -1,0 +1,27 @@
+{
+    "brand": "M&S",
+    "brandtext": "Mens",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "40 (Waist Leg)",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slight mark shown on picture",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Printer",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "54% Cotton 46% Viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "grey t-shirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "top right",
+    "damage3": "stain"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "BR2 London",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "M",
+    "colors": [
+        "Red"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

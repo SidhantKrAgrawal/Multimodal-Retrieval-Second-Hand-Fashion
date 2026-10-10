@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "D.M.D (Denim Day)",
+    "category": "Children",
+    "type": "Sweater",
+    "size": "86",
+    "colors": [
+        "Grey",
+        "Blue",
+        "Yellow",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Unknown, No match",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Atmosphere",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "genomskinlig blus med knytning och volang \u00e4rmar ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

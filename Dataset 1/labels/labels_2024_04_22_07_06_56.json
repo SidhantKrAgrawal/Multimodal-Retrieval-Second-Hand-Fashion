@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "merkantil",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng\u00e4rmad tr\u00f6ja",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "l\u00f6s tr\u00e5d",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "luddigt",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "luddigt"
+}

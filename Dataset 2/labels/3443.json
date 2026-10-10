@@ -1,0 +1,26 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Wedding Dresses",
+    "size": "XS",
+    "colors": [
+        "Orange",
+        "Hot Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Originally bought for £800",
+    "usage": "Reuse"
+}

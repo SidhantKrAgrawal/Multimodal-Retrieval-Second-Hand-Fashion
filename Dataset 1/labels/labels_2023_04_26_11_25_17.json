@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "MyHaily's",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "S ",
+    "colors": [
+        "White",
+        "Pink",
+        "Green"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "broken waistband",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Recycle"
+}

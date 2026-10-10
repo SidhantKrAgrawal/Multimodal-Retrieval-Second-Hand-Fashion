@@ -1,0 +1,32 @@
+{
+    "brand": "Flash",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "XL",
+    "colors": [
+        "Multicolor",
+        "Green",
+        "Brown",
+        "Beige",
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "V-collar"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

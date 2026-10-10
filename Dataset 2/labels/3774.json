@@ -1,0 +1,28 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Suit",
+    "size": "L",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "3pc"
+    ],
+    "pattern": "Tillah work motifs",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Beautiful tillah work motifs, long shirt, black and red chifoon dupata",
+    "usage": "Reuse"
+}

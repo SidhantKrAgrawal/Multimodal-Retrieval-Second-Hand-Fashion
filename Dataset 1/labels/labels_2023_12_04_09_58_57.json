@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "north bend",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Winter",
+    "condition": 3,
+    "material": "100% nylone",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta t\u00e4ckbyxor med h\u00e4ngslen, h\u00e5l vid foten",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Winter trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "bottom right",
+    "damage": "h\u00e5l ben",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom center",
+    "damage3": ""
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Other",
+    "brandtext": "Zara",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "31",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Goo",
+    "material": "",
+    "comment": "Original Stone Chino Colour, Size 31 Waist, Fits 30 & 32 Waist",
+    "usage": "Reuse"
+}

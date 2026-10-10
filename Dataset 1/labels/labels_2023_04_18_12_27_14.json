@@ -1,0 +1,28 @@
+{
+    "brand": "Esmara (Lidl)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "L",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

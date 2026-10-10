@@ -1,0 +1,27 @@
+{
+    "brand": "Wrangler",
+    "brandtext": "Wrangler",
+    "category": "Men",
+    "type": "Straight Jeans",
+    "size": "42/34 (Waist Leg)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

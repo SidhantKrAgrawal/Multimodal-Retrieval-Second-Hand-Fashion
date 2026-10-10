@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "McC ( by Caramat)",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% leather",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Old leather jacket that smells really bad. Poor condition.",
+    "comment": "Smells really bad",
+    "annotator": "13",
+    "category": "Men",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "90s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "Major",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

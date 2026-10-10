@@ -1,0 +1,28 @@
+{
+    "brand": "Skill",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Trousers",
+    "size": "110",
+    "colors": [
+        "Black",
+        "Green"
+    ],
+    "season": "None",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "twisted seams",
+    "material": "51% cotton, 49% polyester",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Pomp De Lux",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "134",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randig sweater med tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "smuts fl\u00e4ckar"
+}

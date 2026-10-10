@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "98",
+    "colors": [
+        "Grey",
+        "Blue"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "95% cotton, 5% viscose",
+    "comment": "",
+    "usage": "Export"
+}

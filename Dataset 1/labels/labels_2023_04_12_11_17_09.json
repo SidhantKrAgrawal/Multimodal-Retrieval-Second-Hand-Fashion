@@ -1,0 +1,29 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "None",
+    "colors": [
+        "Beige",
+        "Brown",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Stenstr\u00f6ms (Skjorta)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% wool",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "brun pull-over med lappar p\u00e5 armb\u00e5garna",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": ""
+}

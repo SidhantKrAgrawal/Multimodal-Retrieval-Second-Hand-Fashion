@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Shorts",
+    "size": "36",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

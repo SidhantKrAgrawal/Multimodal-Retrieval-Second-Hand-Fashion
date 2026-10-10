@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Rabalder",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "M ",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "50% cotton, 50% modal",
+    "comment": "",
+    "usage": "Export"
+}

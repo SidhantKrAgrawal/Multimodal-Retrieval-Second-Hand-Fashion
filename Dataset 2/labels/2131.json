@@ -1,0 +1,28 @@
+{
+    "brand": "Uniqlo",
+    "brandtext": "Uniqlo",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "M",
+    "colors": [
+        "White",
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Few times worn",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "64% Polyester 36% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white einter jacket",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Winter jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "stains"
+}

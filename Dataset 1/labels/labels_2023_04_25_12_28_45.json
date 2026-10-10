@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Livergy",
+    "category": "Unisex",
+    "type": "Outerwear",
+    "size": "None",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 3,
+    "price": "100-150",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "size tag too faded to read",
+    "usage": "Reuse"
+}

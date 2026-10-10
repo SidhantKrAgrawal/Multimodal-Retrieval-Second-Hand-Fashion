@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Winter jacket",
+    "size": "S ",
+    "colors": [
+        "White",
+        "Beige"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "1",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

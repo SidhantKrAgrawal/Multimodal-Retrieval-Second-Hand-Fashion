@@ -1,0 +1,27 @@
+{
+    "brand": "Rex",
+    "brandtext": "Rex chinchilla",
+    "category": "Women",
+    "type": "Coats",
+    "size": "XL",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Beautiful real fur coat",
+    "usage": "Reuse"
+}

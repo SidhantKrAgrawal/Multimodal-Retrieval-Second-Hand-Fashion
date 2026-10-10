@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "vero moda",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "73% nylon 27% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "l\u00e5ng jacka med stora vita knappar och tight midja",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "sm\u00e5 h\u00e5l ",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "back",
+    "damage3loc": "middle right",
+    "damage3": "smuts fl\u00e4ck "
+}

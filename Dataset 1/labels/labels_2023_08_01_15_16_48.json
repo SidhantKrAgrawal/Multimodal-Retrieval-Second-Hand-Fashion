@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "Gallicia",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Black"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "65% cott, 35% visc",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue and black plaid women's shirt from Gallicia, size 42. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

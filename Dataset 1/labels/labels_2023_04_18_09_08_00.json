@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Vila",
+    "category": "Ladies",
+    "type": "Shorts",
+    "size": "S ",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Energy recovery"
+}

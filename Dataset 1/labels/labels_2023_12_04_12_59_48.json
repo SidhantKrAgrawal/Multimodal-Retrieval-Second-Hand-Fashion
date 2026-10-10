@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "timo",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "57% bomull 43% viskos",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "linne med spets",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

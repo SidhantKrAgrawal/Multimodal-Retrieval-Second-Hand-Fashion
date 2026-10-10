@@ -1,0 +1,43 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "122",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Pink",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "84% cotton 16% elastane",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "randiga tights, nopprig mellan benen",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Tights",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

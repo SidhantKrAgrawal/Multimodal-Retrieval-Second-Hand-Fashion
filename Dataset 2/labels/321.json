@@ -1,0 +1,25 @@
+{
+    "brand": "Under Armour",
+    "brandtext": "Under Armour",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "print starting to crack",
+    "usage": "Reuse"
+}

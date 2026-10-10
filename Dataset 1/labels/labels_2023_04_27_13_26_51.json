@@ -1,0 +1,27 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "42",
+    "colors": [
+        "Black"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "5",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "75% viscose, 25% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

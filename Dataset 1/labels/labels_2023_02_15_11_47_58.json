@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SHIRT INDUSTRY",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "XL",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

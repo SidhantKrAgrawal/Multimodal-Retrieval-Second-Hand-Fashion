@@ -1,0 +1,27 @@
+{
+    "brand": "Hush",
+    "brandtext": "Embroidered Stars",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "6",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "Striped",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Beautiful looking",
+    "usage": "Reuse"
+}

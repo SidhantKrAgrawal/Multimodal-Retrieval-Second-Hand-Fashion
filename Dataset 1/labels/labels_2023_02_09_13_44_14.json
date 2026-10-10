@@ -1,0 +1,27 @@
+{
+    "brand": "Inwear",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "40",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "88%polyester 12%elastane",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Esmara (Lidl)",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "38",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "94% cotton, 6%? content",
+    "comment": "",
+    "usage": "Reuse"
+}

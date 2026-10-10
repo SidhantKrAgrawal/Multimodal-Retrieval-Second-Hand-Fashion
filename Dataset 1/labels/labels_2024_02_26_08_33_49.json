@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Sabba",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "w29 l32",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "unknown",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "tight grey trousers",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "hole",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "damaged color",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "damaged color"
+}

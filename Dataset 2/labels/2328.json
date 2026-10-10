@@ -1,0 +1,28 @@
+{
+    "brand": "Nike",
+    "brandtext": "Tottenham Hotspur",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "L",
+    "colors": [
+        "Black",
+        "Volt Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New in box",
+    "usage": "Reuse"
+}

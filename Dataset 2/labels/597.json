@@ -1,0 +1,25 @@
+{
+    "brand": "John Rocha",
+    "brandtext": "John Rocha",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "L",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn but in good condition",
+    "usage": "Reuse"
+}

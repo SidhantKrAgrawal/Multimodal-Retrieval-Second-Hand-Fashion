@@ -1,0 +1,25 @@
+{
+    "brand": "Puma",
+    "brandtext": "Puma",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "2XL",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Joggers",
+    "usage": "Reuse"
+}

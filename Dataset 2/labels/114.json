@@ -1,0 +1,27 @@
+{
+    "brand": "None",
+    "brandtext": "None",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "L",
+    "colors": [
+        "Dark blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "30% Wool 70% Acrylic",
+    "comment": "Originally sewn brown soft leather elbow patches",
+    "usage": "Reuse"
+}

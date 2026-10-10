@@ -1,0 +1,41 @@
+{
+    "brand": "Free Quent",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "61% viskos 39% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta kostymbyxor med svarta knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "l\u00f6sa tr\u00e5dar",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "sne s\u00f6m",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "sne s\u00f6m"
+}

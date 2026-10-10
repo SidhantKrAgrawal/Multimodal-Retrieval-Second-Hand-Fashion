@@ -1,0 +1,30 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "None",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Blue",
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Geometric print",
+    "trend": "80s",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "modern production with 80s style",
+    "usage": "Reuse"
+}

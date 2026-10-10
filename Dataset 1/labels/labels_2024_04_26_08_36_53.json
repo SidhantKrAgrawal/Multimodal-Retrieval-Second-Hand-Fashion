@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Rocky",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "63% Polyester 37% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blue cropped 90s jacket with contrast stitching",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "90s",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained ",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "stained ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Purple",
+        "Yellow"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "80% wool 20% cotton ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "virkad kofta med glitter i",
+    "comment": "unik",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Long"
+    ],
+    "trend": "None",
+    "pattern": "Glitter",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

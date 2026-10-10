@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "XL",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50%cotton 50%acrylic",
+    "comment": "",
+    "usage": "Reuse"
+}

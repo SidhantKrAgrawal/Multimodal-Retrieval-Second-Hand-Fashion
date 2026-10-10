@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "oeko tex",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "v\u00e4st med broderi tryck ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Vest",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smutsigt runt krage",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "v\u00e4ldigt smutsigt  i jacka ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

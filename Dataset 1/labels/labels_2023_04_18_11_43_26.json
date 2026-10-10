@@ -1,0 +1,30 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Top",
+    "size": "M ",
+    "colors": [
+        "Multicolor",
+        "Black",
+        "White",
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Turtle neck"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

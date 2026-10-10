@@ -1,0 +1,25 @@
+{
+    "brand": "Hoodrich",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "32 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, all sizes available, RRP £60",
+    "usage": "Reuse"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Miss Milla",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "L",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

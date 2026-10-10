@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "street one",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "42",
+    "colors": [
+        "Purple"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Metallic",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "washed out",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

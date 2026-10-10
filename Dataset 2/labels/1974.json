@@ -1,0 +1,27 @@
+{
+    "brand": "Rock & Revival",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "Large",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Good used condition",
+    "usage": "Reuse"
+}

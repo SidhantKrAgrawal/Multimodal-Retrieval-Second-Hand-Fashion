@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Signature",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "60% Acryl 40% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Knitted sweater with pattern",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stained",
+    "damage3image": "front",
+    "damage3loc": "bottom left",
+    "damage3": "stained"
+}

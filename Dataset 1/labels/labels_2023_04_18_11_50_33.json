@@ -1,0 +1,30 @@
+{
+    "brand": "Guess",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Top",
+    "size": "L",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Red",
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

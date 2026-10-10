@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "bershka denim",
+    "brand_missing": false,
+    "size": "46",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "h\u00f6gmidjade ljusbl\u00e5a  jeans ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "stort h\u00e5l ",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "slitet",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

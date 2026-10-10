@@ -1,0 +1,25 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "12 (UK)",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "98% Cotton, 2% Elastan",
+    "comment": "",
+    "usage": "Reuse"
+}

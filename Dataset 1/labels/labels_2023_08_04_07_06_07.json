@@ -1,0 +1,42 @@
+{
+    "brand": "Edc (Esprit De Corps)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "38",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "?",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "camouflage m\u00f6nstrade (och f\u00e4rgade) byxor med h\u00e5l fram + skrev, saknas knappar p\u00e5 fickor bak + h\u00e5l d\u00e4r",
+    "comment": "saknas knappar p\u00e5 fickor bak",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Trousers",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "h\u00e5l i skrev + fickor",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "h\u00e5l",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Solid",
+    "brandtext": "Solid",
+    "category": "Men",
+    "type": "Winter Coats",
+    "size": "M",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Hi-Vis Yellow Security check",
+    "usage": "Reuse"
+}

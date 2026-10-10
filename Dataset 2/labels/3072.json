@@ -1,0 +1,28 @@
+{
+    "brand": "Superdry",
+    "brandtext": "Superdry",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "M",
+    "colors": [
+        "Pink",
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Super dry ski jacket",
+    "usage": "Reuse"
+}

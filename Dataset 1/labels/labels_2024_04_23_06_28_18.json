@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "etage",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "74% bomull 26% akryl",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "skimmrig jacka med tight midja och stora fickor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "smuts fl\u00e4ckar",
+    "damage2image": "back",
+    "damage2loc": "middle right",
+    "damage2": "smuts fl\u00e4ckar p\u00e5 \u00e4rm ",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": "smuts fl\u00e4ckar p\u00e5 \u00e4rm"
+}

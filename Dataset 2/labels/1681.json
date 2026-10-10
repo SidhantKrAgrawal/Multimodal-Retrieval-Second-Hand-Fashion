@@ -1,0 +1,26 @@
+{
+    "brand": "Jack & Jones",
+    "brandtext": "Jack & Jones",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "S",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Jack Jones motif on front. Only worn once.",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "KAWS",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Printed T-Shirts",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Graphic",
+    "trend": "Streetwear",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

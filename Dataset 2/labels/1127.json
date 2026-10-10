@@ -1,0 +1,27 @@
+{
+    "brand": "Topman",
+    "brandtext": "Topman",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Excellent clean condition",
+    "usage": "Reuse"
+}

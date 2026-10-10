@@ -1,0 +1,29 @@
+{
+    "brand": "Brandtex",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "44",
+    "colors": [
+        "Green",
+        "Blue",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "76% polyester 24% cotton",
+    "comment": "vintage",
+    "usage": "Reuse"
+}

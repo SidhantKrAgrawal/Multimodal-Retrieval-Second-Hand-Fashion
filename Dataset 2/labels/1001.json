@@ -1,0 +1,28 @@
+{
+    "brand": "Voi Jeans",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Skinny Jeans",
+    "size": "34/34 (Waist Leg)",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton and elastane blend",
+    "comment": "",
+    "usage": "Reuse"
+}

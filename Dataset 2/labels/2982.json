@@ -1,0 +1,25 @@
+{
+    "brand": "MONKI",
+    "brandtext": "MONKI SHAGGY FAUX FUR BUTTON FRONT TEDDY BOMB",
+    "category": "Women",
+    "type": "Coats",
+    "size": "XS",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Great with",
+    "usage": "Reuse"
+}

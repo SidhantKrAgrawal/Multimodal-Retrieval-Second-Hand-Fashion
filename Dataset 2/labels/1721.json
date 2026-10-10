@@ -1,0 +1,27 @@
+{
+    "brand": "Bershka",
+    "brandtext": "Bershka",
+    "category": "Men",
+    "type": "Other",
+    "size": "M",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "in good condition",
+    "usage": "Reuse"
+}

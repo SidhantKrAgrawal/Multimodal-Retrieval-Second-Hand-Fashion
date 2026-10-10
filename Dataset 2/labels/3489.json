@@ -1,0 +1,27 @@
+{
+    "brand": "E12 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Dress",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "3pc"
+    ],
+    "pattern": "Embroidered",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

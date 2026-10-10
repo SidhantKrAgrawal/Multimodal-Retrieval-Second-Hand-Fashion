@@ -1,0 +1,32 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "122",
+    "colors": [
+        "Pink",
+        "White",
+        "Purple",
+        "Blue",
+        "Black",
+        "Multicolor"
+    ],
+    "season": "Spring",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "70%cotton 30%polyester",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,43 @@
+{
+    "brand": "Lindex",
+    "brandtext": "Kids by",
+    "brand_missing": false,
+    "size": "104",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Blue",
+        "Beige"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% cott",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "White and blue plaid shorts for kids from Kids by Lindex, size 104. Okay condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

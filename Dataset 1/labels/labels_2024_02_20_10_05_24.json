@@ -1,0 +1,41 @@
+{
+    "brand": "Fbsisters (New Yorker)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "74% Cotton 26% Polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "blue sweatshirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Oversize"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "stains",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": "stains"
+}

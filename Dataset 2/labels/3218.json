@@ -1,0 +1,28 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Blazer",
+    "size": "10",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Oversized"
+    ],
+    "pattern": "Checked",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "PreLoved, Used once/twice, Could fit size 8 to size 12",
+    "usage": "Reuse"
+}

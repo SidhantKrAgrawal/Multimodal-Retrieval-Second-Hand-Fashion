@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "drop with dnmd",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "60% bomull 40% polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "hoddie med sn\u00f6rre, fickor och ribbade \u00e4ndslut och \u00e4rmslut",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "h\u00e5l, illa lukt, och v\u00e5gig dragkedja",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "smuts fl\u00e4ck p\u00e5 \u00e4rm ",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "illa lukt"
+}

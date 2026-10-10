@@ -1,0 +1,28 @@
+{
+    "brand": "Dressman",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "XL",
+    "colors": [
+        "White",
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

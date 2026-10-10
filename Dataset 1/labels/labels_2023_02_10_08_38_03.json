@@ -1,0 +1,27 @@
+{
+    "brand": "Cream",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "XL",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "Transparent",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "Pulled threads",
+    "material": "Not applicable",
+    "comment": "",
+    "usage": "Export"
+}

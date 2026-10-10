@@ -1,0 +1,41 @@
+{
+    "brand": "On The Peak",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "122",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "condition": 2,
+    "material": "100% poly",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Children's winter trousers from On The Peak, size 122. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "Winter trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "Stains and wear and tear.",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "Elastics are broken.",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

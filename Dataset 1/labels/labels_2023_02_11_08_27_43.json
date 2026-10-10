@@ -1,0 +1,29 @@
+{
+    "brand": "Nike",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Training top",
+    "size": "None",
+    "colors": [
+        "Black",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 4,
+    "condition": 2,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Logo print",
+    "trend": "Sports",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Export"
+}

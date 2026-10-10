@@ -1,0 +1,29 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "38",
+    "colors": [
+        "Beige",
+        "Grey",
+        "Orange"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% viscose",
+    "comment": "",
+    "usage": "Reuse"
+}

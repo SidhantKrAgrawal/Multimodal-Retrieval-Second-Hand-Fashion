@@ -1,0 +1,27 @@
+{
+    "brand": "Junkyard",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "size": "M ",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Cropped"
+    ],
+    "pattern": "Embroidered",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

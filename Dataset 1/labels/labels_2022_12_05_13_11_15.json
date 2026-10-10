@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Vero moda",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "M ",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "C-collar",
+        "Loose"
+    ],
+    "pattern": "Transparent",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Recycle"
+}

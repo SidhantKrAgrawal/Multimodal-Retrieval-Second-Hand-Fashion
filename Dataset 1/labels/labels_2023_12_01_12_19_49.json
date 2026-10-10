@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "158",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "Summer",
+    "condition": 2,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "kl\u00e4nning med fickor",
+    "comment": "urtv\u00e4ttad",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Dress",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "tr\u00e5dar l\u00f6sa ",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "sn\u00f6rren slitna ",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

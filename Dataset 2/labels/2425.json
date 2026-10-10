@@ -1,0 +1,27 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "Beige",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "16/31",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "36 inch waist and 31 inch leg",
+    "usage": "Reuse"
+}

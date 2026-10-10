@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "North Trail",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "80% nylon, 20% elastane",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "",
+    "comment": "",
+    "annotator": "24",
+    "category": "Unisex",
+    "type": "Outerwear",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "scratched knees",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

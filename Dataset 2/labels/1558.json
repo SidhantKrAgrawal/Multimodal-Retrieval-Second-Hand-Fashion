@@ -1,0 +1,27 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "Marks & Spencer",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "M",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

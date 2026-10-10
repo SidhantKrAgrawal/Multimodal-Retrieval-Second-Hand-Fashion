@@ -1,0 +1,42 @@
+{
+    "brand": "Ellos",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "6XL",
+    "colors": [
+        "Blue",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "randig hoodie med dragkedja, saknas sn\u00f6re i luvan",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": ""
+}

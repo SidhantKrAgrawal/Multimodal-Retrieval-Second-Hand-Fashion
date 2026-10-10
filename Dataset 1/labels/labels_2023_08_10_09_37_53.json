@@ -1,0 +1,41 @@
+{
+    "brand": "Soya/Soyaconcept",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% viscose",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "brun blus med spets runt armar och p\u00e5 ryggen, stor fl\u00e4ck fram",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Lace",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "fl\u00e4ck",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

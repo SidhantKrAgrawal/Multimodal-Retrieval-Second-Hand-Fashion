@@ -1,0 +1,25 @@
+{
+    "brand": "aab",
+    "brandtext": "aab",
+    "category": "Women",
+    "type": "Maxi Dresses",
+    "size": "L",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Fur on neck and sleeves",
+    "usage": "Reuse"
+}

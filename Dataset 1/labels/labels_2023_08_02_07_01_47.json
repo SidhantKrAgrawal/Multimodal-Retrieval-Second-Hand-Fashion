@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "cotton inn",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Black",
+        "Pink"
+    ],
+    "season": "Summer",
+    "condition": 4,
+    "material": "?",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "rutiga byxor som g\u00e5r till kn\u00e4na, lite noppriga",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Shorts",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

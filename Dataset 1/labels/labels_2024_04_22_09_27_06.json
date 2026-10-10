@@ -1,0 +1,41 @@
+{
+    "brand": "On The Peak",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "98",
+    "sizetext": "",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% polyester",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "flismjukisbyxor",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "slitet",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "slitet",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,31 @@
+{
+    "brand": "Lindex",
+    "brandtext": "Baby",
+    "category": "Children",
+    "type": "Top",
+    "size": "68",
+    "colors": [
+        "Pink",
+        "White",
+        "Blue",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Embroidered",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

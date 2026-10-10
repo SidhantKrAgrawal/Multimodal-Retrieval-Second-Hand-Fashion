@@ -1,0 +1,27 @@
+{
+    "brand": "Gant",
+    "brandtext": "French Connection",
+    "category": "Men",
+    "type": "Jackets",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new",
+    "usage": "Export"
+}

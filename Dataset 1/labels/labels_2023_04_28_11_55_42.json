@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "The realaxed Tee",
+    "category": "Unisex",
+    "type": "T-shirt",
+    "size": "M ",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "8",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "crooked",
+    "material": "",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Bershka",
+    "brandtext": "Bershka",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "XS",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, twist detail front and long back",
+    "usage": "Reuse"
+}

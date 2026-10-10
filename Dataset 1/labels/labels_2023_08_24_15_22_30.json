@@ -1,0 +1,42 @@
+{
+    "brand": "Polarn Och Pyret",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "110",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "None",
+    "condition": 3,
+    "material": "100% poly",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Purple fleece jacket with clouds print from Polarn & Pyret, size 110. Okay condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Children",
+    "type": "Jacket",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

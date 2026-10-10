@@ -1,0 +1,30 @@
+{
+    "brand": "Jack And Jones",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "L",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Red",
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Checkered print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "& denim",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "27/30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "bl\u00e5 jeans med h\u00e5l p\u00e5 kn\u00e4na samt sk\u00e4rp h\u00e5llare lossnat och gjort h\u00e5l i midjan",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "h\u00e5l vid linning",
+    "damage2image": "back",
+    "damage2loc": "top center",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

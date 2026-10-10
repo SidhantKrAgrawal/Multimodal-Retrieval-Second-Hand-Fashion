@@ -1,0 +1,41 @@
+{
+    "brand": "Boohoo",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "30",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "vita jeans med h\u00e5l f\u00f6r kn\u00e4na",
+    "comment": "",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Jeans",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": true,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

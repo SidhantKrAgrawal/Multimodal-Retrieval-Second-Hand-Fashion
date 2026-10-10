@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "H&M",
+    "category": "Men",
+    "type": "Printed T-Shirts",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Relaxed Fit"
+    ],
+    "pattern": "Graphic",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "None",
+    "usage": "Reuse"
+}

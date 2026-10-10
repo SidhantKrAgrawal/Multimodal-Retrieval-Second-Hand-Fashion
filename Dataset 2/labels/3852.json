@@ -1,0 +1,25 @@
+{
+    "brand": "Billionaire Boys Club",
+    "brandtext": "Billionaire Boys Club",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "29/30 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "No post only collection",
+    "usage": "Export"
+}

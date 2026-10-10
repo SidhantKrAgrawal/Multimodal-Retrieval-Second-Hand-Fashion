@@ -1,0 +1,41 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "76% Cotton 24% Nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "green cardigan",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "hole"
+}

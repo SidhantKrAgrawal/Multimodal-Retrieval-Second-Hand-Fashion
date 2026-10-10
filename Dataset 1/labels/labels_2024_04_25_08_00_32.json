@@ -1,0 +1,41 @@
+{
+    "brand": "Barbour",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "36",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% ull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickad sweater med tryck, ribbad krage, \u00e4ndslut och \u00e4rmslut",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Sweater",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle left",
+    "damage": "f\u00e4rg fl\u00e4ckar och l\u00f6sa tr\u00e5dar",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

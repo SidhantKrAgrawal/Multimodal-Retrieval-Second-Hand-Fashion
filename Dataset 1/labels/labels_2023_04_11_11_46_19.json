@@ -1,0 +1,27 @@
+{
+    "brand": "Adidas",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Tights",
+    "size": "XS",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "Major",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

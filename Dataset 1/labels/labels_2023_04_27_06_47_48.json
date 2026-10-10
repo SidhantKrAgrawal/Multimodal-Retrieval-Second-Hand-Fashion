@@ -1,0 +1,28 @@
+{
+    "brand": "Isolde",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "XL",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "14",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "81% viscose, 19% nylon",
+    "comment": "",
+    "usage": "Reuse"
+}

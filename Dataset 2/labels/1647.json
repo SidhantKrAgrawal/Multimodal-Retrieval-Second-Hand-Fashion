@@ -1,0 +1,27 @@
+{
+    "brand": "Lacoste",
+    "brandtext": "Lacoste",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "M",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Statement piece!",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Flash",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Shirt",
+    "size": "L",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 1,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "98% cotton, 2% elastane",
+    "comment": "",
+    "usage": "Recycle"
+}

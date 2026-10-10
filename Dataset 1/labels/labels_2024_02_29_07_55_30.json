@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "J.crew",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "skjorta med prick struktur och tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Shirt",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Dots",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smutsigt i krage",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "smutsigt och luddigt vid \u00e4rmsluten",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

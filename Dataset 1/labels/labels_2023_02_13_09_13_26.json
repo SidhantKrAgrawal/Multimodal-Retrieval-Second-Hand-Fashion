@@ -1,0 +1,34 @@
+{
+    "brand": "Jack And Jones",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-shirt",
+    "size": "S ",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Blue",
+        "Grey",
+        "Pink",
+        "Beige",
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

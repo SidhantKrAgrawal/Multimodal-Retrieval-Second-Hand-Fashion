@@ -1,0 +1,23 @@
+{
+    "brand": "Jack & Jones",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "M",
+    "colors": [],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

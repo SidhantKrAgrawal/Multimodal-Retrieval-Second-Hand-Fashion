@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Rosner",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "40",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "8",
+    "cut": [
+        "None"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "knee stretched",
+    "material": "100% cotton ",
+    "comment": "",
+    "usage": "Reuse"
+}

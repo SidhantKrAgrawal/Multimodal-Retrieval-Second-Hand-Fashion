@@ -1,0 +1,28 @@
+{
+    "brand": "Monki",
+    "brandtext": "Monki",
+    "category": "Women",
+    "type": "Blouse",
+    "size": "XS",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

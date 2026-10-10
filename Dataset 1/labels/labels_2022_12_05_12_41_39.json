@@ -1,0 +1,28 @@
+{
+    "brand": "365",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "M ",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Dots",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% bomull",
+    "comment": "",
+    "usage": "Recycle"
+}

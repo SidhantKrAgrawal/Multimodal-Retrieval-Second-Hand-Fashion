@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Poco loco",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "White",
+        "Grey"
+    ],
+    "season": "Winter",
+    "condition": 3,
+    "material": "100% Silk",
+    "usage": "Repair",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "Black patterned knitted sweater",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "90s",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

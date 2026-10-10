@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "joy ",
+    "brand_missing": false,
+    "size": "36",
+    "sizetext": "",
+    "colors": [
+        "Brown"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "96% bomull 4% elastan",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "brun jeans jacka",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle left",
+    "damage": "blekt tyg",
+    "damage2image": "back",
+    "damage2loc": "middle right",
+    "damage2": "blekt tyg",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

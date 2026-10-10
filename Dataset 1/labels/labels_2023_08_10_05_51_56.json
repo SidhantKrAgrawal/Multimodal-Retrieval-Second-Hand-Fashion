@@ -1,0 +1,43 @@
+{
+    "brand": "Fix (Lindex)",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "104",
+    "sizetext": "",
+    "colors": [
+        "Pink",
+        "Grey",
+        "White"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "gr\u00e5 kl\u00e4nning med stickade linjer i olika m\u00f6nster, l\u00e4tt nopprig, svag fl\u00e4ck l\u00e4ngst ner",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Dress",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom left",
+    "damage": "fl\u00e4ck",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

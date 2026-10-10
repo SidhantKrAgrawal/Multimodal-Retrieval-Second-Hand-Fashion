@@ -1,0 +1,25 @@
+{
+    "brand": "Wrangler",
+    "brandtext": "Black Wrangler",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "34 (Waist Leg)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "5 x jeans, other jeans £3-£5, Can sell separately, Buyer coll",
+    "usage": "Reuse"
+}

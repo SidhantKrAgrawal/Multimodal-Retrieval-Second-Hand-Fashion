@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "abacus",
+    "category": "Ladies",
+    "type": "Outerwear",
+    "size": "36",
+    "colors": [
+        "Pink"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

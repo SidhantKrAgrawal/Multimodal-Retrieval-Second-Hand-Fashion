@@ -1,0 +1,25 @@
+{
+    "brand": "Ben Sherman",
+    "brandtext": "Ben Sherman",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used but in very good condition",
+    "usage": "Reuse"
+}

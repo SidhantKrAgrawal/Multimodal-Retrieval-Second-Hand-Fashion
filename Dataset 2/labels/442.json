@@ -1,0 +1,27 @@
+{
+    "brand": "Lacoste",
+    "brandtext": "Lacoste",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Brand new",
+    "usage": "Reuse"
+}

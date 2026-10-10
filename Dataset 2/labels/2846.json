@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Zara UK",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "M",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New with tag",
+    "usage": "Reuse"
+}

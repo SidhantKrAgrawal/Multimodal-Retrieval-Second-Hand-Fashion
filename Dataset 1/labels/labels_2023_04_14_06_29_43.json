@@ -1,0 +1,30 @@
+{
+    "brand": "Kappahl",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Top",
+    "size": "68",
+    "colors": [
+        "Grey",
+        "Yellow",
+        "Blue",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,41 @@
+{
+    "brand": "Balmain",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% Cotton ",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "250-400",
+    "price_confidence": "High",
+    "description": "Black velvet cropped blazer with sequence and beaded details",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Blazer",
+    "cut": [
+        "Cropped"
+    ],
+    "trend": "80s",
+    "pattern": "Metallic",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

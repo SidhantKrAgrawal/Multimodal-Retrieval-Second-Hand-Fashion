@@ -1,0 +1,27 @@
+{
+    "brand": "White Stuff",
+    "brandtext": "White Stuff",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "14",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Only worn a couple of times",
+    "usage": "Reuse"
+}

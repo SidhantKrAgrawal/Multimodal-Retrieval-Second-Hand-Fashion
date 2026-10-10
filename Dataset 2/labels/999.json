@@ -1,0 +1,27 @@
+{
+    "brand": "Primark",
+    "brandtext": "Primark",
+    "category": "Men",
+    "type": "Slim Jeans",
+    "size": "S",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Slim fit",
+    "usage": "Reuse"
+}

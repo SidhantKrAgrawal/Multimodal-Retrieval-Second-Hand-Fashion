@@ -1,0 +1,28 @@
+{
+    "brand": "TM Lewin",
+    "brandtext": "TM Lewin",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "14.5",
+    "colors": [
+        "Navy",
+        "Bengal Stripe"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Brand new without tags",
+    "usage": "Reuse"
+}

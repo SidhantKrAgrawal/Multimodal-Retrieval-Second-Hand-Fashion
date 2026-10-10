@@ -1,0 +1,27 @@
+{
+    "brand": "Solid",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "M",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Bleach marks on joggers",
+    "usage": "Reuse"
+}

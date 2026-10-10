@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "sport master",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Green"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "80% nylone 20% elastane",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "Medium",
+    "description": "vit kofta med dragkejda och r\u00e4nder fram, svaga fl\u00e4ckar upptill",
+    "comment": "vintage",
+    "annotator": "10",
+    "category": "Men",
+    "type": "Cardigan",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "80s",
+    "pattern": "Striped",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top right",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

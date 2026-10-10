@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "N.Z.A",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "S ",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "Red",
+        "Yellow"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

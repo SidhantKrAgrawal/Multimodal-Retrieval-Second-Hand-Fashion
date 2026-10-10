@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "EP collection",
+    "brand_missing": false,
+    "size": "XS",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "None",
+    "condition": 1,
+    "material": "65% Polyester 35% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Black hoodie with zipper and pattern",
+    "comment": "",
+    "annotator": "3",
+    "category": "Men",
+    "type": "Hoodie",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 1,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle right",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "stain",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "color damage"
+}

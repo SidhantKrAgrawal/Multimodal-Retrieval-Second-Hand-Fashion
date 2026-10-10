@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Bee bee collections",
+    "brand_missing": false,
+    "size": "XL",
+    "sizetext": "",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "green top with side slits",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Top",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "crooked seam",
+    "damage2image": "back",
+    "damage2loc": "bottom right",
+    "damage2": "holes",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "stains"
+}

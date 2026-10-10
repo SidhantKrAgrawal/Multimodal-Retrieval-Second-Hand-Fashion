@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Fruits of the loom",
+    "brand_missing": false,
+    "size": "S ",
+    "sizetext": "",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "white t-shirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Unisex",
+    "type": "T-shirt",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "stained"
+}

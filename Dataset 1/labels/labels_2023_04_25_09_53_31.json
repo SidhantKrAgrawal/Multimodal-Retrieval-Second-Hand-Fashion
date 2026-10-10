@@ -1,0 +1,28 @@
+{
+    "brand": "Skill",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "92",
+    "colors": [
+        "Black"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "73% polyester, 27% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

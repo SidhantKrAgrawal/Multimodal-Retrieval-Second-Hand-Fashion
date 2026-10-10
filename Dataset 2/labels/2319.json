@@ -1,0 +1,25 @@
+{
+    "brand": "Champion",
+    "brandtext": "Champion",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "2 front slip pockets, fits Mens size 32w M perfectly fitted",
+    "usage": "Reuse"
+}

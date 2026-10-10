@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Tindra",
+    "category": "Ladies",
+    "type": "Shorts",
+    "size": "XS",
+    "colors": [
+        "Grey",
+        "Green",
+        "Blue",
+        "Multicolor"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 3,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Recycle"
+}

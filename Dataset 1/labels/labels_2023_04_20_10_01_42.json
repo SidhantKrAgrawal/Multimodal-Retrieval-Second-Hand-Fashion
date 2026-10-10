@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Gesutz",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "XS",
+    "colors": [
+        "Green",
+        "Black",
+        "White",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "34% mohair, 34% wool, 28% polyamide, 4% elastane",
+    "comment": "",
+    "usage": "Export"
+}

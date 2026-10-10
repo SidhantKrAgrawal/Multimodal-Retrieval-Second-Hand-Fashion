@@ -1,0 +1,29 @@
+{
+    "brand": "Soc (Stadium)",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Vest",
+    "size": "134",
+    "colors": [
+        "Pink",
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Cropped"
+    ],
+    "pattern": "Logo print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "c.n.y.",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "puffig jacka med tight midja och fickor",
+    "comment": "v\u00e4ldigt blekt och m\u00e5nga smuts fl\u00e4ckar",
+    "annotator": "1",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt , blekt och smutsigt",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "h\u00e5l och smuts fl\u00e4ckar p\u00e5 \u00e4rmslut",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "m\u00e5nga smuts fl\u00e4ckar och blekt"
+}

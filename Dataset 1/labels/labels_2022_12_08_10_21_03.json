@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Gefa Jeans",
+    "category": "Ladies",
+    "type": "Shorts",
+    "size": "M ",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Bad seams, washed out",
+    "material": "98% cotton, 2% elastane",
+    "comment": "Made shorter at home (badly done therefor bad seams)",
+    "usage": "Recycle"
+}

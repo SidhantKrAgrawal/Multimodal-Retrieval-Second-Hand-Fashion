@@ -1,0 +1,23 @@
+{
+    "brand": "",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Bomber Jackets",
+    "size": "8/10",
+    "colors": [],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "comes up small",
+    "usage": "Reuse"
+}

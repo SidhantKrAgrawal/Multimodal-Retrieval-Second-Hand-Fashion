@@ -1,0 +1,42 @@
+{
+    "brand": "Havana",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "40",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "jacka med b\u00e4lte och stora skimmrande knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "smuts fl\u00e4ckar runt krage",
+    "damage2image": "front",
+    "damage2loc": "bottom right",
+    "damage2": "h\u00e5l f\u00f6r att knapp saknas",
+    "damage3image": "front",
+    "damage3loc": "middle left",
+    "damage3": "smutsigt vid ficka "
+}

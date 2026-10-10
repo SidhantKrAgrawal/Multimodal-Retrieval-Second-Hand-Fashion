@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Made in Italy",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "None",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cott",
+    "comment": "",
+    "usage": "Repair"
+}

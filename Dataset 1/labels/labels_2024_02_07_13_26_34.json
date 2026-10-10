@@ -1,0 +1,41 @@
+{
+    "brand": "Maison Scotch",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "3",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Summer",
+    "condition": 3,
+    "material": "100% Cotton",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beige blouse",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Embroidered",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

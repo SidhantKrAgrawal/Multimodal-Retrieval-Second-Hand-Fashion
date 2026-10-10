@@ -1,0 +1,28 @@
+{
+    "brand": "ASOS",
+    "brandtext": "ASOS",
+    "category": "Men",
+    "type": "Hoodie",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "['Streetwear', 'Vintage', 'Smart Casual', 'Athleisure', 'None']",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse",
+    "vision": true
+}

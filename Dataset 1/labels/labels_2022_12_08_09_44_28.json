@@ -1,0 +1,31 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "44",
+    "colors": [
+        "Black",
+        "Beige",
+        "White",
+        "Multicolor"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 3,
+    "price": "100-150",
+    "annotator": "14",
+    "cut": [
+        "Tight",
+        "Long"
+    ],
+    "pattern": "Geometric print",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% acrylic",
+    "comment": "Vintage, hairy",
+    "usage": "Reuse"
+}

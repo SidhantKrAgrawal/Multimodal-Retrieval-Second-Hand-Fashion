@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "",
+    "brand_missing": true,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Blue",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% akryl",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickad cardigan med gr\u00e5a knappar",
+    "comment": "m\u00e4rke och storlek saknas",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Cardigan",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "back",
+    "damage2loc": "middle right",
+    "damage2": "smuts fl\u00e4ck och nopprigt",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": "smuts fl\u00e4ck och nopprigt"
+}

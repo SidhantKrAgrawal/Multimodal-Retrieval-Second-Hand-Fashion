@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "birgitta",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Purple"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% Cotton",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "purple tierd skirt",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Skirt",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stained ",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stained ",
+    "damage3image": "back",
+    "damage3loc": "top center",
+    "damage3": "stained"
+}

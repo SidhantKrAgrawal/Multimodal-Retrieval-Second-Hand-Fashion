@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Hoodie",
+    "size": "158",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Spring",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "54",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

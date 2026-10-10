@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "isabella",
+    "brand_missing": false,
+    "size": "48",
+    "sizetext": "",
+    "colors": [
+        "Purple",
+        "White",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% viskos ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "mjukisbyxor med m\u00f6nster",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Floral print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "luddigt och dragna tr\u00e5dar p\u00e5 sn\u00f6rren",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "luddigt",
+    "damage3image": "back",
+    "damage3loc": "middle center",
+    "damage3": "luddigt"
+}

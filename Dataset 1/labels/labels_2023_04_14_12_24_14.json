@@ -1,0 +1,30 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Shirt",
+    "size": "XL",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "Grey",
+        "Pink"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% viscose",
+    "comment": "vintage",
+    "usage": "Reuse"
+}

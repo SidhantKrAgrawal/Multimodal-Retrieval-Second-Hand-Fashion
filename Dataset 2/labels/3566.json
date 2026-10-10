@@ -1,0 +1,25 @@
+{
+    "brand": "Inayah",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Evening Dresses",
+    "size": "Small",
+    "colors": [
+        "cream"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "only worn once, no longer needed",
+    "usage": "Reuse"
+}

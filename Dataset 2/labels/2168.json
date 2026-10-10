@@ -1,0 +1,28 @@
+{
+    "brand": "Burberry",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "S-XXL",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

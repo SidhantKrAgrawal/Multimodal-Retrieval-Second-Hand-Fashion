@@ -1,0 +1,27 @@
+{
+    "brand": "Zara",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Skirt",
+    "size": "L",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Metallic",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

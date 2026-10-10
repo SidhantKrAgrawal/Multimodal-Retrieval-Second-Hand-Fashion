@@ -1,0 +1,25 @@
+{
+    "brand": "V by Very",
+    "brandtext": "V by Very",
+    "category": "Women",
+    "type": "Trench Coats",
+    "size": "8/10",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Excellent condition, hardly worn",
+    "usage": "Reuse"
+}

@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "\u00e5hl\u00e9ns",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "42",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Long",
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

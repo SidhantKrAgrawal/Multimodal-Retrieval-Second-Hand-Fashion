@@ -1,0 +1,41 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "81% bomull 19% polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "ljusbl\u00e5 sweater med ribbad krage, \u00e4ndslut och \u00e4rmsluten",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom center",
+    "damage": "smuts fl\u00e4ckar och luddigt",
+    "damage2image": "back",
+    "damage2loc": "middle right",
+    "damage2": "smutsigt och luddigt p\u00e5 \u00e4rmslut",
+    "damage3image": "back",
+    "damage3loc": "middle left",
+    "damage3": "smutsigt och luddigt p\u00e5 \u00e4rmsluten "
+}

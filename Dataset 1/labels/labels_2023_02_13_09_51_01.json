@@ -1,0 +1,28 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "S ",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "63%polyester 34%viscose 3%wool",
+    "comment": "",
+    "usage": "Export"
+}

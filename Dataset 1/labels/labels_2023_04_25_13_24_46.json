@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "B. Copenhagen",
+    "category": "Ladies",
+    "type": "Shirt",
+    "size": "38",
+    "colors": [
+        "Orange"
+    ],
+    "season": "Spring",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "V-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "damage": "",
+    "material": "75% viscose, 25% polyester",
+    "comment": "",
+    "usage": "Export"
+}

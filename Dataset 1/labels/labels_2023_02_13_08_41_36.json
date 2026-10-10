@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "katsumi",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%acrylic",
+    "comment": "",
+    "usage": "Export"
+}

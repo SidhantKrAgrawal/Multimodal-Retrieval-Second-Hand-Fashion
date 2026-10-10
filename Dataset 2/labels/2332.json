@@ -1,0 +1,27 @@
+{
+    "brand": "Trapstar",
+    "brandtext": "Tie Dye",
+    "category": "Men",
+    "type": "Trousers",
+    "size": "M",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Rare sold out",
+    "usage": "Reuse"
+}

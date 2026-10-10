@@ -1,0 +1,27 @@
+{
+    "brand": "MONKI",
+    "brandtext": "MONKI",
+    "category": "Women",
+    "type": "Coats",
+    "size": "XS",
+    "colors": [
+        "Brown"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Great with",
+    "usage": "Reuse"
+}

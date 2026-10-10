@@ -1,0 +1,41 @@
+{
+    "brand": "Massimo Dutti",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "L",
+    "sizetext": "",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "High",
+    "description": "vit blus med skimrande knappar",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Blouse",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Transparent",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Columbia",
+    "brandtext": "Columbia",
+    "category": "Men",
+    "type": "Windbreaker",
+    "size": "S",
+    "colors": [
+        "Green"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Different shades of green",
+    "usage": "Reuse"
+}

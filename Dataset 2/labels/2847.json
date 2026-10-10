@@ -1,0 +1,28 @@
+{
+    "brand": "Peach & Grey",
+    "brandtext": "Peach & Grey",
+    "category": "Women",
+    "type": "T-Shirt",
+    "size": "XS",
+    "colors": [
+        "Peach",
+        "Grey"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Ribbed"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

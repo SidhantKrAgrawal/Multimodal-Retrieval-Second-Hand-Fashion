@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Sport line daune",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "100% Polyester",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "beige winter jacket",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Winter jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "stain",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "stain",
+    "damage3image": "back",
+    "damage3loc": "bottom right",
+    "damage3": "stain"
+}

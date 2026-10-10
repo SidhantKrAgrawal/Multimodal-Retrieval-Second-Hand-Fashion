@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "fb sister",
+    "brand_missing": false,
+    "size": "XXS",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 1,
+    "material": "58% polyester 42% bomull",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svart hoddie med ribbad \u00e4ndslut och \u00e4rmslut",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Hoodie",
+    "cut": [
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 2,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt och smuts fl\u00e4ckar ",
+    "damage2image": "back",
+    "damage2loc": "middle center",
+    "damage2": "blekt, smuts fl\u00e4ckar och nopprigt",
+    "damage3image": "back",
+    "damage3loc": "bottom center",
+    "damage3": "h\u00e5rigt och nopprigt"
+}

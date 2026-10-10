@@ -1,0 +1,31 @@
+{
+    "brand": "Cellbes",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "46",
+    "colors": [
+        "Multicolor",
+        "Blue",
+        "Black",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "50%cotton 50%viscose",
+    "comment": "",
+    "usage": "Export"
+}

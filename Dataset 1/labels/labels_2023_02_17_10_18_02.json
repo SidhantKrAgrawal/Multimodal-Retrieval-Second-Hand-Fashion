@@ -1,0 +1,32 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "JACKS",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "XL",
+    "colors": [
+        "Multicolor",
+        "White",
+        "Grey",
+        "Black",
+        "Beige"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

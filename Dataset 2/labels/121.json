@@ -1,0 +1,25 @@
+{
+    "brand": "Levi",
+    "brandtext": "Levi",
+    "category": "Men",
+    "type": "Hoodie",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Graphic",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Fits like Medium M",
+    "usage": "Reuse"
+}

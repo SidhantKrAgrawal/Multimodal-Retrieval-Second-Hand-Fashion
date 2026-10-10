@@ -1,0 +1,28 @@
+{
+    "brand": "Melly Moda",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "S ",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "90%cotton 10%elastane",
+    "comment": "",
+    "usage": "Export"
+}

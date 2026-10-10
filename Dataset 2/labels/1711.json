@@ -1,0 +1,25 @@
+{
+    "brand": "Zara",
+    "brandtext": "Polo Shirt",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "S",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new with tags",
+    "usage": "Reuse"
+}

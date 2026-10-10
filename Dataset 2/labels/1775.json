@@ -1,0 +1,25 @@
+{
+    "brand": "Daniel Ellissa",
+    "brandtext": "Daniel Ellissa",
+    "category": "Men",
+    "type": "Formal Shirts",
+    "size": "2XL",
+    "colors": [
+        "Yellow"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Formal / Casual Shirt, Tie & Pocket Squ",
+    "usage": "Reuse"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Samsoe Samsoe",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "None",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 5,
+    "price": "<50",
+    "annotator": "3",
+    "cut": [
+        "Long"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "54% Polyester 46% Wool",
+    "comment": "",
+    "usage": "Export"
+}

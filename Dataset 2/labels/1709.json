@@ -1,0 +1,28 @@
+{
+    "brand": "Lacoste",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "38",
+    "colors": [
+        "cherry",
+        "burgundy"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim Fit"
+    ],
+    "pattern": "",
+    "trend": "Smart Casual",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Collection in person from SE8. or can be posted",
+    "usage": "Reuse"
+}

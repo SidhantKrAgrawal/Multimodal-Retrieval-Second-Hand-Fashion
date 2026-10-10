@@ -1,0 +1,28 @@
+{
+    "brand": "Bikbok",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "S ",
+    "colors": [
+        "Black"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

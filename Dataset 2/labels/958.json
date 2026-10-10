@@ -1,0 +1,27 @@
+{
+    "brand": "Levi",
+    "brandtext": "Levi",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "40x32",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Slim"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Lost weight since buying",
+    "usage": "Reuse"
+}

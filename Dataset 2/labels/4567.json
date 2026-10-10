@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "H&M",
+    "category": "Women",
+    "type": "Joggers",
+    "size": "XS",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used, No refunds",
+    "usage": "Reuse"
+}

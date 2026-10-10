@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "xlnt",
+    "brand_missing": false,
+    "size": "48",
+    "sizetext": "",
+    "colors": [
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "unknown",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "grey tight jeans",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Jeans",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "Denim",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle right",
+    "damage": "holes",
+    "damage2image": "front",
+    "damage2loc": "middle left",
+    "damage2": "holes",
+    "damage3image": "front",
+    "damage3loc": "top left",
+    "damage3": "holes"
+}

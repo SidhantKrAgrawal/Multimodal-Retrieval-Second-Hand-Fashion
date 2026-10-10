@@ -1,0 +1,27 @@
+{
+    "brand": "Lager 157",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "80% polyester, 10% wool, 10% viscose",
+    "comment": "",
+    "usage": "Reuse"
+}

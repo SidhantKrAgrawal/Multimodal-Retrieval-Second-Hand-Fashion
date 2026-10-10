@@ -1,0 +1,212 @@
+Loading embeddings and labels...
+[WARNING] Skipped 15 items due to missing files:
+  15x — missing embedding in txt_embeddings_fashionclip
+[INFO] 4683 / 4698 items retained after completeness check.
+[INFO] Loaded 4727 labels (index-based) from 'Dataset 2/labels'
+  Catalogue size : 4683 items
+
+Generating FashionCLIP joint embedding (image_clip + text_clip)...
+  Shape : (4683, 512)  (512-d, FashionCLIP joint space)
+  Saved → Dataset 2/fused_embeddings/fused_item_embeddings_fashionclip_joint.npy
+
+Building HNSW index...
+
+Example query (idx=999):
+  Query : 1914.pt
+  Retrieved:
+    [4215] → 572.pt
+    [4436] → 773.pt
+    [903] → 1828.pt
+    [1262] → 2151.pt
+    [904] → 1829.pt
+    [896] → 1821.pt
+    [1816] → 266.pt
+    [4108] → 475.pt
+    [1110] → 2014.pt
+    [1079] → 1988.pt
+  PDF   → Dataset 2/results/results_example_fashionclip_joint_hnsw.pdf
+
+GT evaluation...
+  recall       @5: 0.0480  @10: 0.0769  @20: 0.1239
+  ndcg         @5: 0.5528  @10: 0.5179  @20: 0.4877
+  precision    @5: 0.5320  @10: 0.4845  @20: 0.4394
+  Avg/Med/Max relevant: 133.8 / 91.0 / 413
+
+Attribute profile (k=10)...
+
+============================================================
+Profile Report — fashionclip_joint / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.885  ██████████████████░░
+  pattern          0.813  ████████████████░░░░
+  season           0.755  ███████████████░░░░░
+  colors           0.732  ███████████████░░░░░
+  cut              0.666  █████████████░░░░░░░
+  condition        0.663  █████████████░░░░░░░
+  type             0.582  ████████████░░░░░░░░
+  price            0.378  ████████░░░░░░░░░░░░
+  brand            0.243  █████░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 5.66
+  type                  3.18
+  price                 2.94
+  colors                2.55
+  condition             2.07
+  season                1.92
+  pattern               1.59
+  category              1.49
+  cut                   1.38
+
+🔀  Intra-List Diversity (ILD): 0.3943   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+STATISTICAL SIGNIFICANCE TESTS
+============================================================
+  Loaded comparison: concat  (3328-d)
+  Loaded comparison: concat_text_heavy  (3328-d)
+  Loaded comparison: selfattention  (1024-d)
+
+========================================================================
+  fashionclip_joint  vs  concat
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0031 ▲     0.6164     0.3234  +0.015  negligible  ❌  n.s.
+  precision@10         -0.0051 ▼     0.0052     0.0349  -0.031  negligible  ✅  sig.
+  precision@20         -0.0067 ▼     0.0000     0.0004  -0.052  negligible  ✅  sig.
+  recall@5          +0.0003 ▲     0.9043     0.7162  +0.005  negligible  ❌  n.s.
+  recall@10         -0.0029 ▼     0.0019     0.0155  -0.036  negligible  ✅  sig.
+  recall@20         -0.0040 ▼     0.0000     0.0046  -0.042  negligible  ✅  sig.
+  ndcg@5          +0.0019 ▲     0.8002     0.5582  +0.009  negligible  ❌  n.s.
+  ndcg@10         -0.0039 ▼     0.0010     0.1208  -0.023  negligible  ✅  sig.
+  ndcg@20         -0.0061 ▼     0.0000     0.0033  -0.043  negligible  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  fashionclip_joint  vs  concat_text_heavy
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.1263 ▼     0.0000     0.0000  -0.508      medium  ✅  sig.
+  precision@10         -0.1291 ▼     0.0000     0.0000  -0.676      medium  ✅  sig.
+  precision@20         -0.1197 ▼     0.0000     0.0000  -0.813       large  ✅  sig.
+  recall@5          -0.0229 ▼     0.0000     0.0000  -0.250       small  ✅  sig.
+  recall@10         -0.0382 ▼     0.0000     0.0000  -0.364       small  ✅  sig.
+  recall@20         -0.0573 ▼     0.0000     0.0000  -0.477       small  ✅  sig.
+  ndcg@5          -0.1277 ▼     0.0000     0.0000  -0.502      medium  ✅  sig.
+  ndcg@10         -0.1324 ▼     0.0000     0.0000  -0.659      medium  ✅  sig.
+  ndcg@20         -0.1316 ▼     0.0000     0.0000  -0.809       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  fashionclip_joint  vs  selfattention
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.3398 ▼     0.0000     0.0000  -1.108       large  ✅  sig.
+  precision@10         -0.3369 ▼     0.0000     0.0000  -1.250       large  ✅  sig.
+  precision@20         -0.3128 ▼     0.0000     0.0000  -1.289       large  ✅  sig.
+  recall@5          -0.0589 ▼     0.0000     0.0000  -0.422       small  ✅  sig.
+  recall@10         -0.0968 ▼     0.0000     0.0000  -0.536      medium  ✅  sig.
+  recall@20         -0.1454 ▼     0.0000     0.0000  -0.646      medium  ✅  sig.
+  ndcg@5          -0.3401 ▼     0.0000     0.0000  -1.081       large  ✅  sig.
+  ndcg@10         -0.3458 ▼     0.0000     0.0000  -1.254       large  ✅  sig.
+  ndcg@20         -0.3433 ▼     0.0000     0.0000  -1.366       large  ✅  sig.
+
+  N queries: 4579
+
+=======================================================================================================================================
+SIGNIFICANCE SUMMARY TABLE
+Δ = method_a − method_b  |  * p<0.05  ** p<0.01  *** p<0.001
+Primary test: Wilcoxon signed-rank (two-sided)
+=======================================================================================================================================
+  Pair                                      P@5       P@10       P@20        R@5       R@10       R@20        N@5       N@10       N@20
+  -------------------------------------------------------------------------------------------------------------------------------------
+  fashionclip_join vs concat             +0.003   -0.005**  -0.007***     +0.000   -0.003**  -0.004***     +0.002   -0.004**  -0.006***
+  fashionclip_join vs concat_text_heav  -0.126***  -0.129***  -0.120***  -0.023***  -0.038***  -0.057***  -0.128***  -0.132***  -0.132***
+  fashionclip_join vs selfattention   -0.340***  -0.337***  -0.313***  -0.059***  -0.097***  -0.145***  -0.340***  -0.346***  -0.343***
+
+  Δ = method_a − method_b.  Positive = method_a better.
+  * p<0.05  ** p<0.01  *** p<0.001  (Wilcoxon signed-rank, two-sided)
+  Effect sizes (Cohen's d) available in verbose report.
+=======================================================================================================================================
+
+============================================================
+EFFECT SIZE SUMMARY  (Cohen's d, k=10)
+Bands: negligible <0.2 | small 0.2 | medium 0.5 | large 0.8
+============================================================
+  Pair                                     P@k       R@k       N@k  Size
+  ----------------------------------------------------------
+  fashionclip_joi vs concat             -0.031    -0.036    -0.023  negligible
+  fashionclip_joi vs concat_text_hea    -0.676    -0.364    -0.659  medium
+  fashionclip_joi vs selfattention      -1.250    -0.536    -1.254  large
+
+============================================================
+GROUND TRUTH SENSITIVITY ANALYSIS
+============================================================
+
+██████████████████████████████████████████████████████████████████████
+  GROUND TRUTH SENSITIVITY ANALYSIS
+  Methods: fashionclip_joint
+  Reporting: precision@10
+██████████████████████████████████████████████████████████████████████
+
+[1/3] Threshold sweep...
+
+========================================================================
+THRESHOLD SWEEP  —  precision@10
+========================================================================
+  Threshold    Avg Rel  fashionclip
+  ---------------------------------
+  0.50           500.0  0.8088     
+  0.55           386.3  0.7236     
+  0.60           381.5  0.7064     
+  0.65           142.6  0.5199     
+  0.70           133.8  0.4845     
+  0.75            41.8  0.4159     
+  0.80            31.1  0.3400     
+  0.85            31.0  0.3305     
+  0.90             3.2  0.1311     
+
+  Rank stability:
+    Best method is 'fashionclip_joint' at 100% of threshold settings
+
+[2a/3] Weight perturbation — all attributes (20 samples)...
+
+============================================================
+WEIGHT PERTURBATION (all attributes free)  —  precision@10
+  (0 random weight perturbations)
+============================================================
+  Baseline ranking:
+    fashionclip_joint
+  Baseline scores:
+    fashionclip_joint             0.4845
+
+[2b/3] Weight perturbation — category FIXED (20 samples)...
+
+============================================================
+WEIGHT PERTURBATION (category fixed at 0.35)  —  precision@10
+  (0 random weight perturbations)
+  Fixed  : category  (weights held at base values)
+  Varied : type, colors, season, brand
+============================================================
+  Baseline ranking:
+    fashionclip_joint
+  Baseline scores:
+    fashionclip_joint             0.4845
+
+  ── Perturbation comparison ──────────────────────────────

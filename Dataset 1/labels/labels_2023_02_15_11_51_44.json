@@ -1,0 +1,29 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SEVEN ZERO",
+    "category": "Men",
+    "type": "Sweater",
+    "size": "XL",
+    "colors": [
+        "White",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "",
+    "usage": "Export"
+}

@@ -1,0 +1,27 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "38",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "68% polyester 32% cotton",
+    "comment": "vintage",
+    "usage": "Export"
+}

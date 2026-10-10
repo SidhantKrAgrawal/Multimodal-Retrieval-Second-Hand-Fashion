@@ -1,0 +1,28 @@
+{
+    "brand": "Cross Sportwear",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Top",
+    "size": "42",
+    "colors": [
+        "Red",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 1,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Tight"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Broken seams",
+    "material": "95% cotton, 5% elastane",
+    "comment": "",
+    "usage": "Recycle"
+}

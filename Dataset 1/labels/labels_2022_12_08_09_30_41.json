@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "CHILLNORWAY",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "M ",
+    "colors": [
+        "Purple"
+    ],
+    "season": "Summer",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Minor",
+    "holes": "Minor",
+    "damage": "",
+    "material": "100% silk",
+    "comment": "Multilayer",
+    "usage": "Recycle"
+}

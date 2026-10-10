@@ -1,0 +1,27 @@
+{
+    "brand": "Slazenger",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Polo Shirts",
+    "size": "3XL",
+    "colors": [
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "From pet and smoke free home. Available for collection or delivery.",
+    "usage": "Reuse"
+}

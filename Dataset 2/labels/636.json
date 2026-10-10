@@ -1,0 +1,25 @@
+{
+    "brand": "WWE Edge",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Leather Jacket",
+    "size": "2XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Real Genuine Leather",
+    "comment": "100% real leather jacket",
+    "usage": "Reuse"
+}

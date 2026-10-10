@@ -1,0 +1,25 @@
+{
+    "brand": "BOSS",
+    "brandtext": "Boss Orange",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "XXL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn once from brand new, Received as a gift and bel",
+    "usage": "Reuse"
+}

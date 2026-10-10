@@ -1,0 +1,30 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "city look",
+    "category": "Unisex",
+    "type": "Shirt",
+    "size": "42",
+    "colors": [
+        "Multicolor",
+        "Orange",
+        "Black",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "None"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "100% viscose",
+    "usage": "Reuse"
+}

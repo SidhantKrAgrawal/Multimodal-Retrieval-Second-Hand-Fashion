@@ -1,0 +1,25 @@
+{
+    "brand": "Emporio Armani",
+    "brandtext": "Emporio armani",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "44 (EU)",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used. But in very good condition",
+    "usage": "Reuse"
+}

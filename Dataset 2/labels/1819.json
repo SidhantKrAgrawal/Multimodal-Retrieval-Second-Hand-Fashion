@@ -1,0 +1,25 @@
+{
+    "brand": "Hollister",
+    "brandtext": "Hollister",
+    "category": "Men",
+    "type": "Long Sleeve Tops",
+    "size": "XXS",
+    "colors": [
+        "Red"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

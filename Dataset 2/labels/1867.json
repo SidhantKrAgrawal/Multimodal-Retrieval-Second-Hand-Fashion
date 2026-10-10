@@ -1,0 +1,27 @@
+{
+    "brand": "Abercrombie and Finch",
+    "brandtext": "",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "M, L",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 2,
+    "condition": 3,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Printed",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Worn but good condition, collection from RM8 OR IG5 area",
+    "usage": "Reuse"
+}

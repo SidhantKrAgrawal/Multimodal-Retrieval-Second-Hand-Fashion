@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "LC Walkiki",
+    "category": "Children",
+    "type": "Vest",
+    "size": "110",
+    "colors": [
+        "Blue",
+        "Pink"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 3,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Glitter",
+    "trend": "Denim",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

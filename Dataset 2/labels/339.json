@@ -1,0 +1,25 @@
+{
+    "brand": "Tommy Hilfiger",
+    "brandtext": "Tommy Hilfiger",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "2XL",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "fine knit tangerine colour",
+    "usage": "Reuse"
+}

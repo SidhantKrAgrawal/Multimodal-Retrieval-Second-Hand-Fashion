@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "kaxs",
+    "brand_missing": false,
+    "size": "122",
+    "sizetext": "",
+    "colors": [
+        "Black",
+        "Grey"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "100% nylone",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta t\u00e4ckbyxor med relfexer p\u00e5, fl\u00e4ckar \u00f6ver hela",
+    "comment": "",
+    "annotator": "10",
+    "category": "Children",
+    "type": "Winter trousers",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom left",
+    "damage2": "fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "bottom right",
+    "damage3": "fl\u00e4ckar"
+}

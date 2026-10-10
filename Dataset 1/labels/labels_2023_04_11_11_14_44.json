@@ -1,0 +1,28 @@
+{
+    "brand": "Brandtex",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Blouse",
+    "size": "44",
+    "colors": [
+        "Red",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "50-100",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

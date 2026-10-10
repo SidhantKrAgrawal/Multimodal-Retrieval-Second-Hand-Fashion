@@ -1,0 +1,42 @@
+{
+    "brand": "Gant",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "50",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 5,
+    "material": "100% ull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "fiskbensm\u00f6nstrad kavaj med fickor och beig bruna knappar ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Men",
+    "type": "Jacket",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

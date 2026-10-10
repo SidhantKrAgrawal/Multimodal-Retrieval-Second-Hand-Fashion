@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "aine",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "150",
+    "colors": [
+        "Brown",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "81% viskos 19% nylon",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "stickade shorts",
+    "comment": "",
+    "annotator": "1",
+    "category": "Children",
+    "type": "Shorts",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Major",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "h\u00e5l vid dragkedja och smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smuts fl\u00e4ckar",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

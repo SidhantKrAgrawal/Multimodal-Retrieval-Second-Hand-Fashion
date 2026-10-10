@@ -1,0 +1,28 @@
+{
+    "brand": "East West",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "M ",
+    "colors": [
+        "White"
+    ],
+    "season": "All",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "make up stain inside collar",
+    "material": "100% cotton",
+    "comment": "",
+    "usage": "Export"
+}

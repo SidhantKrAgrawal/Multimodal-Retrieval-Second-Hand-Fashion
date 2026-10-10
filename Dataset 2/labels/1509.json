@@ -1,0 +1,27 @@
+{
+    "brand": "Robert Graham",
+    "brandtext": "Cotton Silk Blend Embroidered",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "M",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Cotton Silk Blend",
+    "comment": "Rare, gorgeous looking style",
+    "usage": "Reuse"
+}

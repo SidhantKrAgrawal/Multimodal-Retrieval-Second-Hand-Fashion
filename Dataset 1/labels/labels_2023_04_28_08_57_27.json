@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "Divided",
+    "category": "Ladies",
+    "type": "Jeans",
+    "size": "S ",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "3",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "Denim",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% Cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,34 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "VILA",
+    "category": "Ladies",
+    "type": "Dress",
+    "size": "S ",
+    "colors": [
+        "Red",
+        "Purple",
+        "Pink",
+        "White",
+        "Black",
+        "Blue",
+        "Multicolor"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "C-collar",
+        "Regular"
+    ],
+    "pattern": "Floral print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

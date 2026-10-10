@@ -1,0 +1,42 @@
+{
+    "brand": "Fj\u00e4llr\u00e4ven",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "48/50",
+    "colors": [
+        "Green",
+        "Multicolor"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "75% polyester 25% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Jacka med m\u00e5nga tryck",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "h\u00e5l vid b\u00e5da fickor",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "h\u00e5l vid b\u00e5da \u00e4rmslut",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

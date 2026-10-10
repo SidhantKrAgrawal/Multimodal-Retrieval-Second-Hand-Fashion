@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "next",
+    "category": "Children",
+    "type": "T-shirt",
+    "size": "86",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "All",
+    "pilling": 2,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "60% cotton, 40% viscose",
+    "comment": "",
+    "usage": "Export"
+}

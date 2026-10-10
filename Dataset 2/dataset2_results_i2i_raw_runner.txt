@@ -1,0 +1,515 @@
+Loading embeddings and labels...
+[WARNING] Skipped 15 items due to missing files:
+  15x — missing embedding in txt_embeddings_fashionclip
+[INFO] 4683 / 4698 items retained after completeness check.
+[INFO] Loaded 4727 labels (index-based) from 'Dataset 2/labels'
+
+============================================================
+MODALITY: IMAGE_CLIP
+============================================================
+  Embedding dim: 512
+
+  Query : 1914.pt
+  Retrieved:
+    [904] → 1829.pt
+    [903] → 1828.pt
+    [896] → 1821.pt
+    [2007] → 2831.pt
+    [1804] → 2649.pt
+    [2035] → 2857.pt
+    [2069] → 2889.pt
+    [2095] → 2911.pt
+    [1856] → 2696.pt
+    [1176] → 2074.pt
+  PDF   → Dataset 2/results/results_example_image_clip_hnsw.pdf
+  GT results:
+    recall       @5: 0.0188  @10: 0.0328  @20: 0.0547
+    ndcg         @5: 0.2846  @10: 0.2705  @20: 0.2569
+    precision    @5: 0.2739  @10: 0.2560  @20: 0.2363
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — image_clip / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  pattern          0.774  ███████████████░░░░░
+  category         0.752  ███████████████░░░░░
+  season           0.687  ██████████████░░░░░░
+  cut              0.633  █████████████░░░░░░░
+  condition        0.598  ████████████░░░░░░░░
+  colors           0.395  ████████░░░░░░░░░░░░
+  type             0.374  ███████░░░░░░░░░░░░░
+  price            0.354  ███████░░░░░░░░░░░░░
+  brand            0.133  ███░░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 7.25
+  colors                4.41
+  type                  4.41
+  price                 3.03
+  season                2.13
+  condition             2.12
+  pattern               1.88
+  category              1.69
+  cut                   1.58
+
+🔀  Intra-List Diversity (ILD): 0.5017   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+MODALITY: IMAGE_DINO
+============================================================
+  Embedding dim: 768
+
+  Query : 1914.pt
+  Retrieved:
+    [1360] → 2241.pt
+    [2050] → 2870.pt
+    [2069] → 2889.pt
+    [903] → 1828.pt
+    [1349] → 2231.pt
+    [1688] → 2544.pt
+    [1291] → 2178.pt
+    [1351] → 2233.pt
+    [896] → 1821.pt
+    [904] → 1829.pt
+  PDF   → Dataset 2/results/results_example_image_dino_hnsw.pdf
+  GT results:
+    recall       @5: 0.0172  @10: 0.0272  @20: 0.0459
+    ndcg         @5: 0.2650  @10: 0.2465  @20: 0.2323
+    precision    @5: 0.2518  @10: 0.2292  @20: 0.2115
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — image_dino / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  pattern          0.765  ███████████████░░░░░
+  category         0.723  ██████████████░░░░░░
+  season           0.679  ██████████████░░░░░░
+  cut              0.635  █████████████░░░░░░░
+  condition        0.593  ████████████░░░░░░░░
+  type             0.351  ███████░░░░░░░░░░░░░
+  price            0.349  ███████░░░░░░░░░░░░░
+  colors           0.287  ██████░░░░░░░░░░░░░░
+  brand            0.107  ██░░░░░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 7.47
+  colors                5.07
+  type                  4.35
+  price                 3.05
+  condition             2.10
+  season                2.09
+  pattern               1.91
+  category              1.71
+  cut                   1.58
+
+🔀  Intra-List Diversity (ILD): 0.5163   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+MODALITY: TEXT_CLIP
+============================================================
+  Embedding dim: 512
+
+  Query : 1914.pt
+  Retrieved:
+    [4215] → 572.pt
+    [1327] → 2211.pt
+    [4385] → 727.pt
+    [688] → 1628.pt
+    [1114] → 2018.pt
+    [492] → 1451.pt
+    [1101] → 2006.pt
+    [4436] → 773.pt
+    [2601] → 3373.pt
+    [1262] → 2151.pt
+  PDF   → Dataset 2/results/results_example_text_clip_hnsw.pdf
+  GT results:
+    recall       @5: 0.0637  @10: 0.0985  @20: 0.1528
+    ndcg         @5: 0.6617  @10: 0.6212  @20: 0.5790
+    precision    @5: 0.6366  @10: 0.5807  @20: 0.5173
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — text_clip / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.923  ██████████████████░░
+  colors           0.828  █████████████████░░░
+  pattern          0.810  ████████████████░░░░
+  season           0.785  ████████████████░░░░
+  condition        0.707  ██████████████░░░░░░
+  cut              0.682  ██████████████░░░░░░
+  type             0.650  █████████████░░░░░░░
+  price            0.379  ████████░░░░░░░░░░░░
+  brand            0.294  ██████░░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 4.67
+  price                 2.90
+  type                  2.82
+  condition             1.93
+  colors                1.91
+  season                1.81
+  pattern               1.59
+  category              1.35
+  cut                   1.35
+
+🔀  Intra-List Diversity (ILD): 0.3432   (0=identical results, 1=fully varied)
+============================================================
+
+
+============================================================
+MODALITY: TEXT_QWEN
+============================================================
+  Embedding dim: 1536
+
+  Query : 1914.pt
+  Retrieved:
+    [659] → 1601.pt
+    [869] → 1791.pt
+    [824] → 1750.pt
+    [2148] → 296.pt
+    [4215] → 572.pt
+    [1073] → 1982.pt
+    [1012] → 1926.pt
+    [862] → 1785.pt
+    [1327] → 2211.pt
+    [492] → 1451.pt
+  PDF   → Dataset 2/results/results_example_text_qwen_hnsw.pdf
+  GT results:
+    recall       @5: 0.0668  @10: 0.1072  @20: 0.1667
+    ndcg         @5: 0.6473  @10: 0.6128  @20: 0.5791
+    precision    @5: 0.6247  @10: 0.5747  @20: 0.5191
+    Avg/Med/Max relevant: 133.8 / 91.0 / 413
+  Collecting per-query scores...
+
+============================================================
+Profile Report — text_qwen / hnsw  (k=10)
+============================================================
+
+📌  FOCUS  (avg match rate vs query, higher = model aligns on this attribute)
+  Attribute         Match Rate
+  ------------------------------
+  category         0.969  ███████████████████░
+  season           0.850  █████████████████░░░
+  pattern          0.792  ████████████████░░░░
+  condition        0.777  ████████████████░░░░
+  cut              0.738  ███████████████░░░░░
+  type             0.626  █████████████░░░░░░░
+  colors           0.539  ███████████░░░░░░░░░
+  price            0.400  ████████░░░░░░░░░░░░
+  brand            0.339  ███████░░░░░░░░░░░░░
+
+🎨  VARIETY  (avg unique values in top-k results, higher = more diverse)
+  Attribute       Avg Unique
+  ------------------------------
+  brand                 5.10
+  colors                3.89
+  type                  3.23
+  price                 2.92
+  pattern               1.83
+  condition             1.80
+  season                1.62
+  cut                   1.37
+  category              1.16
+
+🔀  Intra-List Diversity (ILD): 0.3723   (0=identical results, 1=fully varied)
+============================================================
+
+
+======================================================================
+COMPARISON — FOCUS  (avg match rate, k=10)
+======================================================================
+  Attribute       image_clip    image_dino    text_clip     text_qwen   
+  ----------------------------------------------------------------------
+  category        0.752         0.723         0.923         0.969       
+  type            0.374         0.351         0.650         0.626       
+  colors          0.395         0.287         0.828         0.539       
+  season          0.687         0.679         0.785         0.850       
+  brand           0.133         0.107         0.294         0.339       
+  pattern         0.774         0.765         0.810         0.792       
+  cut             0.633         0.635         0.682         0.738       
+  price           0.354         0.349         0.379         0.400       
+  condition       0.598         0.593         0.707         0.777       
+
+  ILD             0.5017        0.5163        0.3432        0.3723      
+======================================================================
+
+
+============================================================
+STATISTICAL SIGNIFICANCE TESTS
+============================================================
+  Methods in test: ['image_clip', 'image_dino', 'text_clip', 'text_qwen']
+
+========================================================================
+  image_clip  vs  image_dino
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0221 ▲     0.0000     0.0000  +0.095  negligible  ✅  sig.
+  precision@10         +0.0268 ▲     0.0000     0.0000  +0.155  negligible  ✅  sig.
+  precision@20         +0.0249 ▲     0.0000     0.0000  +0.183  negligible  ✅  sig.
+  recall@5          +0.0016 ▲     0.0000     0.0293  +0.032  negligible  ✅  sig.
+  recall@10         +0.0056 ▲     0.0000     0.0000  +0.092  negligible  ✅  sig.
+  recall@20         +0.0087 ▲     0.0000     0.0000  +0.115  negligible  ✅  sig.
+  ndcg@5          +0.0196 ▲     0.0000     0.0000  +0.080  negligible  ✅  sig.
+  ndcg@10         +0.0240 ▲     0.0000     0.0000  +0.128  negligible  ✅  sig.
+  ndcg@20         +0.0246 ▲     0.0000     0.0000  +0.163  negligible  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  image_clip  vs  text_clip
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.3627 ▼     0.0000     0.0000  -1.029       large  ✅  sig.
+  precision@10         -0.3247 ▼     0.0000     0.0000  -1.087       large  ✅  sig.
+  precision@20         -0.2810 ▼     0.0000     0.0000  -1.105       large  ✅  sig.
+  recall@5          -0.0449 ▼     0.0000     0.0000  -0.392       small  ✅  sig.
+  recall@10         -0.0657 ▼     0.0000     0.0000  -0.477       small  ✅  sig.
+  recall@20         -0.0981 ▼     0.0000     0.0000  -0.614      medium  ✅  sig.
+  ndcg@5          -0.3771 ▼     0.0000     0.0000  -1.042       large  ✅  sig.
+  ndcg@10         -0.3508 ▼     0.0000     0.0000  -1.133       large  ✅  sig.
+  ndcg@20         -0.3221 ▼     0.0000     0.0000  -1.208       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  image_clip  vs  text_qwen
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.3509 ▼     0.0000     0.0000  -1.011       large  ✅  sig.
+  precision@10         -0.3187 ▼     0.0000     0.0000  -1.077       large  ✅  sig.
+  precision@20         -0.2828 ▼     0.0000     0.0000  -1.108       large  ✅  sig.
+  recall@5          -0.0479 ▼     0.0000     0.0000  -0.410       small  ✅  sig.
+  recall@10         -0.0744 ▼     0.0000     0.0000  -0.510      medium  ✅  sig.
+  recall@20         -0.1121 ▼     0.0000     0.0000  -0.636      medium  ✅  sig.
+  ndcg@5          -0.3628 ▼     0.0000     0.0000  -1.008       large  ✅  sig.
+  ndcg@10         -0.3423 ▼     0.0000     0.0000  -1.110       large  ✅  sig.
+  ndcg@20         -0.3222 ▼     0.0000     0.0000  -1.193       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  image_dino  vs  text_clip
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.3848 ▼     0.0000     0.0000  -1.064       large  ✅  sig.
+  precision@10         -0.3515 ▼     0.0000     0.0000  -1.142       large  ✅  sig.
+  precision@20         -0.3059 ▼     0.0000     0.0000  -1.164       large  ✅  sig.
+  recall@5          -0.0465 ▼     0.0000     0.0000  -0.388       small  ✅  sig.
+  recall@10         -0.0714 ▼     0.0000     0.0000  -0.512      medium  ✅  sig.
+  recall@20         -0.1069 ▼     0.0000     0.0000  -0.648      medium  ✅  sig.
+  ndcg@5          -0.3967 ▼     0.0000     0.0000  -1.061       large  ✅  sig.
+  ndcg@10         -0.3748 ▼     0.0000     0.0000  -1.168       large  ✅  sig.
+  ndcg@20         -0.3467 ▼     0.0000     0.0000  -1.253       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  image_dino  vs  text_qwen
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          -0.3730 ▼     0.0000     0.0000  -1.062       large  ✅  sig.
+  precision@10         -0.3454 ▼     0.0000     0.0000  -1.156       large  ✅  sig.
+  precision@20         -0.3076 ▼     0.0000     0.0000  -1.186       large  ✅  sig.
+  recall@5          -0.0496 ▼     0.0000     0.0000  -0.424       small  ✅  sig.
+  recall@10         -0.0800 ▼     0.0000     0.0000  -0.541      medium  ✅  sig.
+  recall@20         -0.1208 ▼     0.0000     0.0000  -0.670      medium  ✅  sig.
+  ndcg@5          -0.3824 ▼     0.0000     0.0000  -1.048       large  ✅  sig.
+  ndcg@10         -0.3663 ▼     0.0000     0.0000  -1.169       large  ✅  sig.
+  ndcg@20         -0.3468 ▼     0.0000     0.0000  -1.266       large  ✅  sig.
+
+  N queries: 4579
+
+========================================================================
+  text_clip  vs  text_qwen
+  α=0.05 | primary: Wilcoxon signed-rank | secondary: paired t-test
+========================================================================
+  Metric             Δ mean    W p-val    t p-val       d        size  Verdict
+  ----------------------------------------------------------------------
+  precision@5          +0.0119 ▲     0.0852     0.0075  +0.040  negligible  ❌  n.s.
+  precision@10         +0.0060 ▲     0.0693     0.1075  +0.024  negligible  ❌  n.s.
+  precision@20         -0.0018 ▼     0.9159     0.5688  -0.008  negligible  ❌  n.s.
+  recall@5          -0.0031 ▼     0.6585     0.0723  -0.027  negligible  ❌  n.s.
+  recall@10         -0.0086 ▼     0.3143     0.0000  -0.064  negligible  ❌  n.s.
+  recall@20         -0.0139 ▼     0.0001     0.0000  -0.089  negligible  ✅  sig.
+  ndcg@5          +0.0143 ▲     0.0022     0.0016  +0.047  negligible  ✅  sig.
+  ndcg@10         +0.0085 ▲     0.0057     0.0292  +0.032  negligible  ✅  sig.
+  ndcg@20         -0.0001 ▼     0.3551     0.9810  -0.000  negligible  ❌  n.s.
+
+  N queries: 4579
+
+=======================================================================================================================================
+SIGNIFICANCE SUMMARY TABLE
+Δ = method_a − method_b  |  * p<0.05  ** p<0.01  *** p<0.001
+Primary test: Wilcoxon signed-rank (two-sided)
+=======================================================================================================================================
+  Pair                                      P@5       P@10       P@20        R@5       R@10       R@20        N@5       N@10       N@20
+  -------------------------------------------------------------------------------------------------------------------------------------
+  image_clip vs image_dino            +0.022***  +0.027***  +0.025***  +0.002***  +0.006***  +0.009***  +0.020***  +0.024***  +0.025***
+  image_clip vs text_clip             -0.363***  -0.325***  -0.281***  -0.045***  -0.066***  -0.098***  -0.377***  -0.351***  -0.322***
+  image_clip vs text_qwen             -0.351***  -0.319***  -0.283***  -0.048***  -0.074***  -0.112***  -0.363***  -0.342***  -0.322***
+  image_dino vs text_clip             -0.385***  -0.351***  -0.306***  -0.046***  -0.071***  -0.107***  -0.397***  -0.375***  -0.347***
+  image_dino vs text_qwen             -0.373***  -0.345***  -0.308***  -0.050***  -0.080***  -0.121***  -0.382***  -0.366***  -0.347***
+  text_clip vs text_qwen                 +0.012     +0.006     -0.002     -0.003     -0.009  -0.014***   +0.014**   +0.008**     -0.000
+
+  Δ = method_a − method_b.  Positive = method_a better.
+  * p<0.05  ** p<0.01  *** p<0.001  (Wilcoxon signed-rank, two-sided)
+  Effect sizes (Cohen's d) available in verbose report.
+=======================================================================================================================================
+
+============================================================
+EFFECT SIZE SUMMARY  (Cohen's d, k=10)
+Bands: negligible <0.2 | small 0.2 | medium 0.5 | large 0.8
+============================================================
+  Pair                                     P@k       R@k       N@k  Size
+  ----------------------------------------------------------
+  image_clip vs image_dino              +0.155    +0.092    +0.128  negligible
+  image_clip vs text_clip               -1.087    -0.477    -1.133  large
+  image_clip vs text_qwen               -1.077    -0.510    -1.110  large
+  image_dino vs text_clip               -1.142    -0.512    -1.168  large
+  image_dino vs text_qwen               -1.156    -0.541    -1.169  large
+  text_clip vs text_qwen                +0.024    -0.064    +0.032  negligible
+
+============================================================
+GROUND TRUTH SENSITIVITY ANALYSIS
+  Methods: ['image_clip', 'image_dino', 'text_clip', 'text_qwen']
+============================================================
+
+██████████████████████████████████████████████████████████████████████
+  GROUND TRUTH SENSITIVITY ANALYSIS
+  Methods: image_clip, image_dino, text_clip, text_qwen
+  Reporting: precision@10
+██████████████████████████████████████████████████████████████████████
+
+[1/3] Threshold sweep...
+
+========================================================================
+THRESHOLD SWEEP  —  precision@10
+========================================================================
+  Threshold    Avg Rel  image_clip   image_dino   text_clip    text_qwen  
+  ------------------------------------------------------------------------
+  0.50           500.0  0.4874       0.4126       0.8909       0.8155     
+  0.55           386.3  0.4248       0.3699       0.8220       0.7911     
+  0.60           381.5  0.4192       0.3669       0.7998       0.7782     
+  0.65           142.6  0.2709       0.2373       0.6297       0.6290     
+  0.70           133.8  0.2560       0.2292       0.5807       0.5747     
+  0.75            41.8  0.1454       0.1038       0.5398       0.4193     
+  0.80            31.1  0.1093       0.0780       0.4651       0.3282     
+  0.85            31.0  0.1063       0.0765       0.4508       0.3187     
+  0.90             3.2  0.0410       0.0283       0.1906       0.1459     
+
+  Rank stability:
+    Best method is 'text_clip' at 100% of threshold settings
+    Avg Spearman ρ (adjacent thresholds): 1.0000  (1.0 = perfectly stable)
+
+[2a/3] Weight perturbation — all attributes (20 samples)...
+
+============================================================
+WEIGHT PERTURBATION (all attributes free)  —  precision@10
+  (20 random weight perturbations)
+============================================================
+  Baseline ranking:
+    text_clip > text_qwen > image_clip > image_dino
+  Baseline scores:
+    text_clip                     0.5807
+    text_qwen                     0.5747
+    image_clip                    0.2560
+    image_dino                    0.2292
+
+  Rank stability across perturbations:
+    Mean Spearman ρ : 0.9600
+    Std  Spearman ρ : 0.0800
+
+  Verdict: ✅  Highly stable — conclusions robust to weight choice.
+
+[2b/3] Weight perturbation — category FIXED (20 samples)...
+
+============================================================
+WEIGHT PERTURBATION (category fixed at 0.35)  —  precision@10
+  (20 random weight perturbations)
+  Fixed  : category  (weights held at base values)
+  Varied : type, colors, season, brand
+============================================================
+  Baseline ranking:
+    text_clip > text_qwen > image_clip > image_dino
+  Baseline scores:
+    text_clip                     0.5807
+    text_qwen                     0.5747
+    image_clip                    0.2560
+    image_dino                    0.2292
+
+  Rank stability across perturbations:
+    Mean Spearman ρ : 0.9900
+    Std  Spearman ρ : 0.0436
+
+  Verdict: ✅  Highly stable — conclusions robust to weight choice.
+
+  ── Perturbation comparison ──────────────────────────────
+    All attributes free  : mean ρ = 0.9600  std = 0.0800
+    Category fixed       : mean ρ = 0.9900  std = 0.0436
+    Stability gain from fixing category: Δρ = +0.0300
+  ─────────────────────────────────────────────────────────
+
+[3/3] Leave-one-attribute-out...
+
+========================================================================
+LEAVE-ONE-ATTRIBUTE-OUT  —  precision@10
+  Δ = score_omitted − baseline_score
+  Threshold is scaled proportionally when an attribute is removed.
+========================================================================
+  Omitted     Eff.Thr   AvgRel  image_clip   image_dino   text_clip    text_qwen  
+  --------------------------------------------------------------------------------
+  (baseline)    0.700           0.2560       0.2292       0.5807       0.5747     
+  category      0.428     48.5  -0.1211      -0.1326      -0.0811      -0.2392    
+  type          0.506    259.3  -0.0299      -0.0681      +0.0653      -0.0867    
+  colors        0.583    178.1  +0.0534      +0.0595      +0.0284      +0.0413    
+  season        0.622     46.2  -0.1049      -0.1197      -0.0322      -0.1301    
+  brand         0.661    133.7  -0.0001      -0.0002      -0.0003      -0.0003    
+
+  Attribute impact (avg |Δ| across methods, descending):
+    category    (w=0.35)  avg|Δ|=0.1435  ██████████████
+    season      (w=0.10)  avg|Δ|=0.0967  █████████
+    type        (w=0.25)  avg|Δ|=0.0625  ██████
+    colors      (w=0.15)  avg|Δ|=0.0456  ████
+    brand       (w=0.05)  avg|Δ|=0.0002  
+
+██████████████████████████████████████████████████████████████████████
+  SENSITIVITY ANALYSIS COMPLETE
+██████████████████████████████████████████████████████████████████████
+
+============================================================
+Done.

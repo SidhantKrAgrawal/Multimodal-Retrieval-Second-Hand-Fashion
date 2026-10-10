@@ -1,0 +1,25 @@
+{
+    "brand": "E9 London",
+    "brandtext": "E9 London",
+    "category": "Women",
+    "type": "Jacket",
+    "size": "8-10",
+    "colors": [
+        "White"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Faux fur jacket",
+    "usage": "Reuse"
+}

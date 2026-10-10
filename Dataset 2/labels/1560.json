@@ -1,0 +1,25 @@
+{
+    "brand": "Edenrobe",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Kurta kameez Shirt",
+    "size": "XL",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "Cotton silk",
+    "comment": "beautiful material looks elegant",
+    "usage": "Reuse"
+}

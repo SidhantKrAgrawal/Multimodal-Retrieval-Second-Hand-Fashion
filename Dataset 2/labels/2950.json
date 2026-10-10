@@ -1,0 +1,25 @@
+{
+    "brand": "Next",
+    "brandtext": "Next",
+    "category": "Women",
+    "type": "Coat",
+    "size": "XS",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Petite, two front pockets",
+    "usage": "Reuse"
+}

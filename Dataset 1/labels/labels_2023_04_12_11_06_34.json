@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "north bend",
+    "category": "Children",
+    "type": "Winter trousers",
+    "size": "122",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "Major",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

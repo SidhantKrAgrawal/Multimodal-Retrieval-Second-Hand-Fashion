@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "P.I",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "54% akryl 46% bomull",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Stickad sweater ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle left",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle right",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

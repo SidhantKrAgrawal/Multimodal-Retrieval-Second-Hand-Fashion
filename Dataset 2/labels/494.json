@@ -1,0 +1,25 @@
+{
+    "brand": "None",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Leather Jackets",
+    "size": "L",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Small mark on right hand pocket",
+    "usage": "Reuse"
+}

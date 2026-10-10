@@ -1,0 +1,27 @@
+{
+    "brand": "Calvin Klein",
+    "brandtext": "",
+    "category": "Men",
+    "type": "Bomber Jackets",
+    "size": "M",
+    "colors": [
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "In great condition worn for a week. Price is negotiable. No posting.",
+    "usage": "Reuse"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "Taylor and Reece",
+    "brandtext": "Taylor and Reece",
+    "category": "Men",
+    "type": "T-Shirt",
+    "size": "48 (EU)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Black worn twice",
+    "usage": "Reuse"
+}

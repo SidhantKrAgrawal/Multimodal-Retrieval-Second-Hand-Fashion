@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "east",
+    "category": "Ladies",
+    "type": "Tank top ",
+    "size": "M ",
+    "colors": [
+        "Beige"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Reuse"
+}

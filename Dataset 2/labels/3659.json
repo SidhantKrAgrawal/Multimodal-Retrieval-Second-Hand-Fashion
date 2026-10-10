@@ -1,0 +1,26 @@
+{
+    "brand": "Other",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Wedding Dresses",
+    "size": "M",
+    "colors": [
+        "Red",
+        "Maroon"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Salwar kameez comes with dupatta- veil",
+    "usage": "Reuse"
+}

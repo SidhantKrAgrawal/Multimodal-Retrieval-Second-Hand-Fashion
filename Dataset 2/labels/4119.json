@@ -1,0 +1,27 @@
+{
+    "brand": "CR4 London",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Boyfriend Jeans",
+    "size": "12",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Boyfriend"
+    ],
+    "pattern": "Floral",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

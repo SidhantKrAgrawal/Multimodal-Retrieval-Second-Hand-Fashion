@@ -1,0 +1,28 @@
+{
+    "brand": "Free Quent",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Cardigan",
+    "size": "None",
+    "colors": [
+        "Green"
+    ],
+    "season": "All",
+    "pilling": 3,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "14",
+    "cut": [
+        "Tight",
+        "Loose"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "69% viscose, 31% cotton",
+    "comment": "",
+    "usage": "Export"
+}

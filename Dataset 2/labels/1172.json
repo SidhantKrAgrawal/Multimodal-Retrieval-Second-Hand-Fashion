@@ -1,0 +1,25 @@
+{
+    "brand": "McCarthy",
+    "brandtext": "McCarthy Mens Jeans",
+    "category": "Men",
+    "type": "Jeans",
+    "size": "52",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "",
+    "usage": "Reuse"
+}

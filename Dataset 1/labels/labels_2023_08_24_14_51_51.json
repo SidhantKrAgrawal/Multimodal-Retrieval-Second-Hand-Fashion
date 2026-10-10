@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Claudia-Moden (CM)",
+    "brand_missing": false,
+    "size": "48",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "None",
+    "condition": 2,
+    "material": "100% poly",
+    "usage": "Recycle",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Blazer with a circular swirly pattern from Claudia-Moden, size 48. Poor condition.",
+    "comment": "",
+    "annotator": "13",
+    "category": "Ladies",
+    "type": "Blazer",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "back",
+    "damage2loc": "bottom center",
+    "damage2": "Stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

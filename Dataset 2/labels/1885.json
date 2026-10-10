@@ -1,0 +1,27 @@
+{
+    "brand": "Vans",
+    "brandtext": "Vans",
+    "category": "Men",
+    "type": "Long Sleeve Tops",
+    "size": "XS",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Striped",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Checker Board neck. ‘OFF THE WALL’ printed down sides.",
+    "usage": "Reuse"
+}

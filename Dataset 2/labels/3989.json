@@ -1,0 +1,27 @@
+{
+    "brand": "H&M",
+    "brandtext": "H&M",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "10",
+    "colors": [
+        "Pink"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New, perfect condition, can collect or send",
+    "usage": "Reuse"
+}

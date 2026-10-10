@@ -1,0 +1,42 @@
+{
+    "brand": "Everest",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "44",
+    "sizetext": "",
+    "colors": [
+        "Red",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "100% nylon",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "puffig v\u00e4st med h\u00f6g krage",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Vest",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "Logo print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "sm\u00e5 smuts fl\u00e4ckar",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "smuts fl\u00e4ck",
+    "damage3image": "back",
+    "damage3loc": "top right",
+    "damage3": "smuts fl\u00e4ck"
+}

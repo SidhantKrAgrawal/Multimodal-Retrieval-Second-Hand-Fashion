@@ -1,0 +1,27 @@
+{
+    "brand": "Lacoste",
+    "brandtext": "Lacoste Live",
+    "category": "Men",
+    "type": "Sweatshirt",
+    "size": "XL",
+    "colors": [
+        "Multicoloured"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Aztec",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "Lacoste Live Mens thin knit all over Aztec print embro",
+    "usage": "Reuse"
+}

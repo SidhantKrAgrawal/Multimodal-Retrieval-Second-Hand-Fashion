@@ -1,0 +1,25 @@
+{
+    "brand": "Marks & Spencer",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Trousers",
+    "size": "14 (UK)",
+    "colors": [
+        "Black"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 3,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "Major",
+    "damage": "",
+    "material": "",
+    "comment": "Bleach stained",
+    "usage": "Reuse"
+}

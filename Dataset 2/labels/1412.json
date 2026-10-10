@@ -1,0 +1,27 @@
+{
+    "brand": "Next",
+    "brandtext": "Next Shirt",
+    "category": "Men",
+    "type": "Casual Shirts",
+    "size": "XL",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Used but In very good condition",
+    "usage": "Reuse"
+}

@@ -1,0 +1,26 @@
+{
+    "brand": "Tommy Hilfiger",
+    "brandtext": "Tommy Hilfi",
+    "category": "Women",
+    "type": "Polo Shirts",
+    "size": "S",
+    "colors": [
+        "Blue",
+        "White"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Checked",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Fab Womens Tommy Hilfiger Check Shirt",
+    "usage": "Reuse"
+}

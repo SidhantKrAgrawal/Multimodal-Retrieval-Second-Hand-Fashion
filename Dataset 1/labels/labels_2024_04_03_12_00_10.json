@@ -1,0 +1,41 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "bik bok",
+    "brand_missing": false,
+    "size": "42",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 2,
+    "material": "74% polyester 26% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "svarta chinos ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Ladies",
+    "type": "Trousers",
+    "cut": [
+        "Tight"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Minor",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "top center",
+    "damage": "h\u00e5l",
+    "damage2image": "front",
+    "damage2loc": "top center",
+    "damage2": "nopprigt",
+    "damage3image": "front",
+    "damage3loc": "middle center",
+    "damage3": "dammiga"
+}

@@ -1,0 +1,42 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "mirelle",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "missing",
+    "colors": [
+        "White",
+        "Black"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "56% cott 44% visc",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "50-100",
+    "price_confidence": "Medium",
+    "description": "",
+    "comment": "",
+    "annotator": "17",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "None",
+    "pattern": "Geometric print",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "None",
+    "damage": "",
+    "damage2image": "front",
+    "damage2loc": "None",
+    "damage2": "",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

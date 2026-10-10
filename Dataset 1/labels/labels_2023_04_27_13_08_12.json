@@ -1,0 +1,27 @@
+{
+    "brand": "Name It",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Dress",
+    "size": "50",
+    "colors": [
+        "Red"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "50-100",
+    "annotator": "5",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "75% viscose, 25% cotton",
+    "comment": "",
+    "usage": "Reuse"
+}

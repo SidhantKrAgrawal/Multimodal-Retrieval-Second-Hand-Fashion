@@ -1,0 +1,43 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "146",
+    "sizetext": "",
+    "colors": [
+        "Green",
+        "Pink"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "59% Cotton 41% Polyester",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "Green sweatshirt with print",
+    "comment": "",
+    "annotator": "3",
+    "category": "Children",
+    "type": "Sweater",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "bottom right",
+    "damage": "stained",
+    "damage2image": "front",
+    "damage2loc": "bottom center",
+    "damage2": "stained",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": "stained"
+}

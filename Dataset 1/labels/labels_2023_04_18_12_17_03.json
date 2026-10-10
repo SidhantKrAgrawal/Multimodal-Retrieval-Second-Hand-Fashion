@@ -1,0 +1,30 @@
+{
+    "brand": "Missing",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Tunic",
+    "size": "XXL",
+    "colors": [
+        "Multicolor",
+        "Red",
+        "White",
+        "Blue"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 1,
+    "price": "<50",
+    "annotator": "5",
+    "cut": [
+        "Loose"
+    ],
+    "pattern": "Other",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Export"
+}

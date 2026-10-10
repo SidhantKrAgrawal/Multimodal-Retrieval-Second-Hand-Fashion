@@ -1,0 +1,25 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "original denim",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "30",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All season",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Brand new, light denim",
+    "usage": "Export"
+}

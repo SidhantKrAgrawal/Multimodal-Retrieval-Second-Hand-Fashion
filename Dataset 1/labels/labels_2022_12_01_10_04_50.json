@@ -1,0 +1,28 @@
+{
+    "brand": "Everest",
+    "brandtext": "",
+    "category": "Children",
+    "type": "Jacket",
+    "size": "146",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "22",
+    "cut": [
+        "Regular",
+        "Turtle neck"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%polyamide",
+    "comment": "",
+    "usage": "Reuse"
+}

@@ -1,0 +1,28 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "viva",
+    "category": "Ladies",
+    "type": "Jacket",
+    "size": "None",
+    "colors": [
+        "Red",
+        "Grey"
+    ],
+    "season": "Autumn",
+    "pilling": 4,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "17",
+    "cut": [
+        "None"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Major",
+    "stains": "Major",
+    "holes": "None",
+    "damage": "",
+    "material": "83% polyester 17% nylon",
+    "comment": "",
+    "usage": "Export"
+}

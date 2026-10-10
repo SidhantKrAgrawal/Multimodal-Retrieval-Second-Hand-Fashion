@@ -1,0 +1,27 @@
+{
+    "brand": "Esprit",
+    "brandtext": "",
+    "category": "Ladies",
+    "type": "Trousers",
+    "size": "38",
+    "colors": [
+        "Blue"
+    ],
+    "season": "All",
+    "pilling": 5,
+    "condition": 5,
+    "price": "100-150",
+    "annotator": "14",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "None",
+    "trend": "None",
+    "smell": "Minor",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "84% cotton, 12% modal, 4% elastane",
+    "comment": "",
+    "usage": "Reuse"
+}

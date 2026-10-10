@@ -1,0 +1,25 @@
+{
+    "brand": "G-Star",
+    "brandtext": "G-Star Raw",
+    "category": "Men",
+    "type": "Jacket",
+    "size": "Small",
+    "colors": [
+        "Navy Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "Utility",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "BNWT",
+    "usage": "Reuse"
+}

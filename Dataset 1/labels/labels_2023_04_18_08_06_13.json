@@ -1,0 +1,27 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Active Riding Wear",
+    "category": "Ladies",
+    "type": "T-shirt",
+    "size": "None",
+    "colors": [
+        "Green"
+    ],
+    "season": "Summer",
+    "pilling": 5,
+    "condition": 2,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "Other",
+    "trend": "Sports",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "Pulled parts",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Recycle"
+}

@@ -1,0 +1,25 @@
+{
+    "brand": "DKNY",
+    "brandtext": "",
+    "category": "Women",
+    "type": "Skinny Jeans",
+    "size": "27 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Genuine",
+    "usage": "Reuse"
+}

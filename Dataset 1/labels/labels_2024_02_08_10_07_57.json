@@ -1,0 +1,43 @@
+{
+    "brand": "Kello",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Brown",
+        "Blue",
+        "Beige"
+    ],
+    "season": "Autumn",
+    "condition": 3,
+    "material": "100% cotton",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "rutig jacka medn h\u00e5l i b\u00e5da armh\u00e5lorna p\u00e5 insidan",
+    "comment": "",
+    "annotator": "10",
+    "category": "Ladies",
+    "type": "Jacket",
+    "cut": [
+        "Regular"
+    ],
+    "trend": "None",
+    "pattern": "Checkered print",
+    "pilling": 5,
+    "smell": "None",
+    "stains": "None",
+    "holes": "Major",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top left",
+    "damage": "h\u00e5l insidan",
+    "damage2image": "front",
+    "damage2loc": "top right",
+    "damage2": "h\u00e5l insidan",
+    "damage3image": "back",
+    "damage3loc": "bottom left",
+    "damage3": ""
+}

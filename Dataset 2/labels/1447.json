@@ -1,0 +1,27 @@
+{
+    "brand": "LOFT",
+    "brandtext": "LOFT",
+    "category": "Men",
+    "type": "Shirt",
+    "size": "Medium",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100%cotton",
+    "comment": "with button on sleeves to roll up sleeves",
+    "usage": "Reuse"
+}

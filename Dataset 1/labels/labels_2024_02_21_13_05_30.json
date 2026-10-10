@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SJ pecolo",
+    "brand_missing": false,
+    "size": "M ",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "White",
+        "Beige"
+    ],
+    "season": "All",
+    "condition": 4,
+    "material": "57% polyester 43% bomull",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "t-shirt med milit\u00f6r m\u00f6nster ",
+    "comment": "nopprig",
+    "annotator": "1",
+    "category": "Men",
+    "type": "T-shirt",
+    "cut": [
+        "V-collar"
+    ],
+    "trend": "None",
+    "pattern": "Other",
+    "pilling": 3,
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "top center",
+    "damage": "nopprigt",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "nopprigt",
+    "damage3image": "back",
+    "damage3loc": "top left",
+    "damage3": "nopprigt"
+}

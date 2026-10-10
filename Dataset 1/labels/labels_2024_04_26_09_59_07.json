@@ -1,0 +1,43 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "Tuche",
+    "brand_missing": false,
+    "size": "None",
+    "sizetext": "",
+    "colors": [
+        "Grey",
+        "Green",
+        "Red"
+    ],
+    "season": "Autumn",
+    "condition": 3,
+    "material": "67% Acryl 33% Wool",
+    "usage": "Reuse",
+    "usage_confidence": "High",
+    "price": "100-150",
+    "price_confidence": "High",
+    "description": "knitted 90s sweater ",
+    "comment": "",
+    "annotator": "3",
+    "category": "Ladies",
+    "type": "Sweater",
+    "cut": [
+        "Loose"
+    ],
+    "trend": "90s",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "front",
+    "damageloc": "middle center",
+    "damage": "stains",
+    "damage2image": "front",
+    "damage2loc": "top left",
+    "damage2": "stains",
+    "damage3image": "front",
+    "damage3loc": "None",
+    "damage3": ""
+}

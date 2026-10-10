@@ -1,0 +1,25 @@
+{
+    "brand": "DAMINI",
+    "brandtext": "DAMINI",
+    "category": "Women",
+    "type": "Evening Dresses",
+    "size": "M",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 4,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "DAMINI Brand, I Paid £250 but selling for £70",
+    "usage": "Reuse"
+}

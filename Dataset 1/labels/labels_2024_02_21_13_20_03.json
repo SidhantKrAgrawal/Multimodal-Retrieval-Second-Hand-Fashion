@@ -1,0 +1,41 @@
+{
+    "brand": "H&M",
+    "brandtext": "",
+    "brand_missing": false,
+    "size": "XXL",
+    "sizetext": "",
+    "colors": [
+        "Black"
+    ],
+    "season": "All",
+    "condition": 3,
+    "material": "100% polyester ",
+    "usage": "Export",
+    "usage_confidence": "High",
+    "price": "<50",
+    "price_confidence": "High",
+    "description": "flis tr\u00f6ja ",
+    "comment": "",
+    "annotator": "1",
+    "category": "Unisex",
+    "type": "Jacket",
+    "cut": [
+        "Turtle neck"
+    ],
+    "trend": "None",
+    "pattern": "None",
+    "pilling": 4,
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "styleholes": false,
+    "damageimage": "back",
+    "damageloc": "middle center",
+    "damage": "smutsigt p\u00e5 \u00e4rmar",
+    "damage2image": "front",
+    "damage2loc": "middle center",
+    "damage2": "dammigt",
+    "damage3image": "front",
+    "damage3loc": "top center",
+    "damage3": "smutsigt i krage"
+}

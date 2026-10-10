@@ -1,0 +1,31 @@
+{
+    "brand": "Not in the list",
+    "brandtext": "SHEIN",
+    "category": "Ladies",
+    "type": "Sweater",
+    "size": "L",
+    "colors": [
+        "Red",
+        "Black",
+        "Beige",
+        "Multicolor"
+    ],
+    "season": "None",
+    "pilling": 3,
+    "condition": 4,
+    "price": "<50",
+    "annotator": "13",
+    "cut": [
+        "Regular",
+        "C-collar"
+    ],
+    "pattern": "Animal print",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "100% polyester",
+    "comment": "",
+    "usage": "Recycle"
+}

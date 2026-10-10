@@ -1,0 +1,27 @@
+{
+    "brand": "Denim Co",
+    "brandtext": "Denim Co",
+    "category": "Women",
+    "type": "Jeans",
+    "size": "14",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Skinny"
+    ],
+    "pattern": "",
+    "trend": "None",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Super high waist",
+    "usage": "Reuse"
+}

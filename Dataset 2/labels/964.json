@@ -1,0 +1,27 @@
+{
+    "brand": "Armani",
+    "brandtext": "Armani",
+    "category": "Men",
+    "type": "Bootcut Jeans",
+    "size": "34/32 (Waist Leg)",
+    "colors": [
+        "Blue"
+    ],
+    "season": "Autumn",
+    "pilling": 5,
+    "condition": 5,
+    "price": "<20",
+    "annotator": "ollama-llama3.2",
+    "cut": [
+        "Regular"
+    ],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "as good as new",
+    "usage": "Reuse"
+}

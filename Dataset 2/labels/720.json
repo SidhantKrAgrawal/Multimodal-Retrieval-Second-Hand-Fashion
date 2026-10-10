@@ -1,0 +1,25 @@
+{
+    "brand": "H&M",
+    "brandtext": "H&M",
+    "category": "Men",
+    "type": "Coats",
+    "size": "XL",
+    "colors": [
+        "Beige"
+    ],
+    "season": "Winter",
+    "pilling": 3,
+    "condition": 3,
+    "price": "20-50",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "Minor",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "Dirt mark on lower part of jacket",
+    "usage": "Reuse"
+}

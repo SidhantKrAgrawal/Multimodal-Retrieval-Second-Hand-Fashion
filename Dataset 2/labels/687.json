@@ -1,0 +1,26 @@
+{
+    "brand": "Other",
+    "brandtext": "Other",
+    "category": "Men",
+    "type": "Jackets",
+    "size": "M",
+    "colors": [
+        "Black",
+        "Red"
+    ],
+    "season": "Winter",
+    "pilling": 5,
+    "condition": 5,
+    "price": "",
+    "annotator": "ollama-llama3.2",
+    "cut": [],
+    "pattern": "",
+    "trend": "",
+    "smell": "None",
+    "stains": "None",
+    "holes": "None",
+    "damage": "",
+    "material": "",
+    "comment": "New without tag, originally £55",
+    "usage": "Reuse"
+}
